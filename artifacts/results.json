@@ -1,0 +1,526 @@
+{
+  "data_quality": {
+    "initial_rows": 1840,
+    "unmapped_to_nan": {
+      "campus": 0,
+      "leader_gender": 0,
+      "has_industry_sponsor": 0,
+      "extension_granted": 0,
+      "poor_outcome": 0,
+      "program": 0,
+      "project_type": 0
+    },
+    "dates_non_iso_converted": 1004,
+    "dates_unparseable": 0,
+    "rows_after_exact_dedup": 1800,
+    "duplicates_removed": {
+      "exact_duplicate_rows": 40,
+      "duplicate_group_id": 0
+    },
+    "rows_dropped_missing_target": 0,
+    "missing_before_imputation": {
+      "group_id": 0,
+      "proposal_date": 0,
+      "campus": 0,
+      "program": 0,
+      "leader_gender": 0,
+      "group_size": 6,
+      "team_avg_cgpa": 65,
+      "team_min_cgpa": 59,
+      "project_type": 53,
+      "has_industry_sponsor": 73,
+      "supervisor_experience_years": 108,
+      "supervisor_active_groups": 69,
+      "proposal_revisions": 80,
+      "weeks_to_proposal_approval": 88,
+      "supervisor_meetings_8wk": 94,
+      "github_commits_8wk": 112,
+      "mid_eval_score": 90,
+      "final_defense_score": 0,
+      "extension_granted": 0,
+      "poor_outcome": 0,
+      "poor_outcome_bin": 0
+    },
+    "median_cgpa_gap": 0.29,
+    "cleaned_rows": 1800,
+    "rule_violations": [
+      {
+        "rule": "Solo group (group_size = 1): team_min_cgpa must equal team_avg_cgpa",
+        "rows_broken": 2,
+        "how_fixed": "team_min_cgpa set equal to team_avg_cgpa"
+      },
+      {
+        "rule": "team_min_cgpa must not exceed team_avg_cgpa",
+        "rows_broken": 10,
+        "how_fixed": "team_min_cgpa set to NaN, then imputed as avg - median gap"
+      },
+      {
+        "rule": "Re-check after imputation: min <= avg and solo min == avg",
+        "rows_broken": 0,
+        "how_fixed": "team_min_cgpa set to team_avg_cgpa"
+      }
+    ],
+    "corrections_per_column": [
+      {
+        "column": "proposal_date",
+        "standardized": 1004,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 0,
+        "total": 1004
+      },
+      {
+        "column": "campus",
+        "standardized": 259,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 0,
+        "total": 259
+      },
+      {
+        "column": "github_commits_8wk",
+        "standardized": 0,
+        "out_of_range": 5,
+        "rule_fixed": 0,
+        "imputed": 112,
+        "total": 117
+      },
+      {
+        "column": "supervisor_experience_years",
+        "standardized": 0,
+        "out_of_range": 4,
+        "rule_fixed": 0,
+        "imputed": 108,
+        "total": 112
+      },
+      {
+        "column": "leader_gender",
+        "standardized": 98,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 0,
+        "total": 98
+      },
+      {
+        "column": "supervisor_meetings_8wk",
+        "standardized": 0,
+        "out_of_range": 4,
+        "rule_fixed": 0,
+        "imputed": 94,
+        "total": 98
+      },
+      {
+        "column": "mid_eval_score",
+        "standardized": 0,
+        "out_of_range": 4,
+        "rule_fixed": 0,
+        "imputed": 90,
+        "total": 94
+      },
+      {
+        "column": "weeks_to_proposal_approval",
+        "standardized": 0,
+        "out_of_range": 4,
+        "rule_fixed": 0,
+        "imputed": 88,
+        "total": 92
+      },
+      {
+        "column": "proposal_revisions",
+        "standardized": 0,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 80,
+        "total": 80
+      },
+      {
+        "column": "team_min_cgpa",
+        "standardized": 0,
+        "out_of_range": 4,
+        "rule_fixed": 12,
+        "imputed": 59,
+        "total": 75
+      },
+      {
+        "column": "has_industry_sponsor",
+        "standardized": 0,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 73,
+        "total": 73
+      },
+      {
+        "column": "team_avg_cgpa",
+        "standardized": 0,
+        "out_of_range": 6,
+        "rule_fixed": 0,
+        "imputed": 65,
+        "total": 71
+      },
+      {
+        "column": "supervisor_active_groups",
+        "standardized": 0,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 69,
+        "total": 69
+      },
+      {
+        "column": "project_type",
+        "standardized": 0,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 53,
+        "total": 53
+      },
+      {
+        "column": "group_size",
+        "standardized": 0,
+        "out_of_range": 6,
+        "rule_fixed": 0,
+        "imputed": 6,
+        "total": 12
+      },
+      {
+        "column": "extension_granted",
+        "standardized": 0,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 0,
+        "total": 0
+      },
+      {
+        "column": "poor_outcome",
+        "standardized": 0,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 0,
+        "total": 0
+      },
+      {
+        "column": "program",
+        "standardized": 0,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 0,
+        "total": 0
+      },
+      {
+        "column": "final_defense_score",
+        "standardized": 0,
+        "out_of_range": 0,
+        "rule_fixed": 0,
+        "imputed": 0,
+        "total": 0
+      }
+    ],
+    "total_poor_outcomes": 288,
+    "poor_outcome_rate_pct": 16.0
+  },
+  "cleaning_checks": [
+    "no out-of-range values",
+    "exactly 8 campuses",
+    "2 genders",
+    "no duplicate group_id",
+    "min <= avg everywhere",
+    "min == avg for all 78 solo groups",
+    "no NaN left"
+  ],
+  "dropped_features": [
+    {
+      "feature": "final_defense_score",
+      "reason": "Leakage: only known at the final defense, after week 8."
+    },
+    {
+      "feature": "extension_granted",
+      "reason": "Leakage: decided at the end of the project, after week 8."
+    },
+    {
+      "feature": "poor_outcome",
+      "reason": "Target variable (encoded as poor_outcome_bin)."
+    },
+    {
+      "feature": "group_id",
+      "reason": "Identifier, carries no behavioural signal."
+    },
+    {
+      "feature": "proposal_date",
+      "reason": "Calendar cohort, not a behavioural signal; risks learning term-specific noise."
+    },
+    {
+      "feature": "leader_gender",
+      "reason": "Protected attribute: excluded from the model, audited in the Fairness tab."
+    },
+    {
+      "feature": "campus",
+      "reason": "Context attribute: excluded from the model to avoid location bias, audited in the Fairness tab."
+    }
+  ],
+  "model_features": [
+    "program",
+    "project_type",
+    "has_industry_sponsor",
+    "group_size",
+    "team_avg_cgpa",
+    "team_min_cgpa",
+    "supervisor_experience_years",
+    "supervisor_active_groups",
+    "proposal_revisions",
+    "weeks_to_proposal_approval",
+    "supervisor_meetings_8wk",
+    "github_commits_8wk",
+    "mid_eval_score",
+    "commits_per_member",
+    "cgpa_gap",
+    "meetings_per_load"
+  ],
+  "split": {
+    "train": 1440,
+    "test": 360,
+    "test_positives": 58
+  },
+  "models": {
+    "Logistic Regression": {
+      "accuracy": 0.825,
+      "precision": 0.4647887323943662,
+      "recall": 0.5689655172413793,
+      "f1": 0.5116279069767442,
+      "roc_auc": 0.8024092258506509,
+      "confusion_matrix": [
+        [
+          264,
+          38
+        ],
+        [
+          25,
+          33
+        ]
+      ],
+      "threshold": 0.686625705515392,
+      "cv_roc_auc": 0.8273805246137261,
+      "cv_f1_at_threshold": 0.512
+    },
+    "Random Forest": {
+      "accuracy": 0.7722222222222223,
+      "precision": 0.3723404255319149,
+      "recall": 0.603448275862069,
+      "f1": 0.4605263157894737,
+      "roc_auc": 0.7964147065540078,
+      "confusion_matrix": [
+        [
+          243,
+          59
+        ],
+        [
+          23,
+          35
+        ]
+      ],
+      "threshold": 0.39371494256339773,
+      "cv_roc_auc": 0.8022421846927775,
+      "cv_f1_at_threshold": 0.5
+    },
+    "HistGradientBoosting": {
+      "accuracy": 0.7555555555555555,
+      "precision": 0.36363636363636365,
+      "recall": 0.6896551724137931,
+      "f1": 0.47619047619047616,
+      "roc_auc": 0.7912765471568852,
+      "confusion_matrix": [
+        [
+          232,
+          70
+        ],
+        [
+          18,
+          40
+        ]
+      ],
+      "threshold": 0.4655116186827394,
+      "cv_roc_auc": 0.7954509522098454,
+      "cv_f1_at_threshold": 0.48833592534992226
+    }
+  },
+  "final_model": "Logistic Regression",
+  "threshold": 0.686625705515392,
+  "justification": "Logistic Regression has the highest 5-fold cross-validated ROC-AUC on the training set (0.827), so it ranks risky groups best on data it was not fit to; on the held-out test set it reaches recall 0.57, F1 0.51 and ROC-AUC 0.802. With only 16.0% poor outcomes, a model that predicts 'pass' for everyone is ~84% accurate yet useless, so accuracy is misleading. For an early-warning tool a missed at-risk group (false negative) costs far more than an extra check-in, so recall and F1 at a tuned threshold (0.687, chosen on out-of-fold predictions) matter most.",
+  "tiers": {
+    "low": 0.3158,
+    "high": 0.6866,
+    "note": "Default cut-offs (Low < OOF median prob, High >= model decision threshold) gave Low < Medium < High."
+  },
+  "tier_table_test": [
+    {
+      "tier": "Low",
+      "groups": 180,
+      "actual_poor": 6,
+      "observed_poor_rate_pct": 3.3
+    },
+    {
+      "tier": "Medium",
+      "groups": 109,
+      "actual_poor": 19,
+      "observed_poor_rate_pct": 17.4
+    },
+    {
+      "tier": "High",
+      "groups": 71,
+      "actual_poor": 33,
+      "observed_poor_rate_pct": 46.5
+    }
+  ],
+  "reference": {
+    "group_size": 3,
+    "team_avg_cgpa": 3.07,
+    "team_min_cgpa": 2.75,
+    "supervisor_experience_years": 6,
+    "supervisor_active_groups": 6,
+    "proposal_revisions": 1,
+    "weeks_to_proposal_approval": 3,
+    "supervisor_meetings_8wk": 5,
+    "github_commits_8wk": 57,
+    "mid_eval_score": 72.0,
+    "program": "BSCS",
+    "project_type": "Web App",
+    "has_industry_sponsor": "No"
+  },
+  "defaults": {
+    "group_size": 3,
+    "team_avg_cgpa": 3.07,
+    "team_min_cgpa": 2.75,
+    "supervisor_experience_years": 6,
+    "supervisor_active_groups": 6,
+    "proposal_revisions": 1,
+    "weeks_to_proposal_approval": 3,
+    "supervisor_meetings_8wk": 5,
+    "github_commits_8wk": 57,
+    "mid_eval_score": 72.0,
+    "program": "BSCS",
+    "project_type": "Web App",
+    "has_industry_sponsor": "No"
+  },
+  "fairness": {
+    "gender": [
+      {
+        "leader_gender": "Female",
+        "groups": 150,
+        "actual_positives": 21,
+        "predicted_poor_rate_pct": 22.7,
+        "actual_poor_rate_pct": 14.0,
+        "recall_pct": 61.9
+      },
+      {
+        "leader_gender": "Male",
+        "groups": 210,
+        "actual_positives": 37,
+        "predicted_poor_rate_pct": 17.6,
+        "actual_poor_rate_pct": 17.6,
+        "recall_pct": 54.1
+      }
+    ],
+    "campus": [
+      {
+        "campus": "Faisalabad",
+        "groups": 31,
+        "actual_positives": 6,
+        "predicted_poor_rate_pct": 16.1,
+        "actual_poor_rate_pct": 19.4,
+        "recall_pct": 50.0
+      },
+      {
+        "campus": "Islamabad",
+        "groups": 42,
+        "actual_positives": 6,
+        "predicted_poor_rate_pct": 16.7,
+        "actual_poor_rate_pct": 14.3,
+        "recall_pct": 66.7
+      },
+      {
+        "campus": "Karachi",
+        "groups": 81,
+        "actual_positives": 7,
+        "predicted_poor_rate_pct": 18.5,
+        "actual_poor_rate_pct": 8.6,
+        "recall_pct": 57.1
+      },
+      {
+        "campus": "Lahore",
+        "groups": 64,
+        "actual_positives": 10,
+        "predicted_poor_rate_pct": 14.1,
+        "actual_poor_rate_pct": 15.6,
+        "recall_pct": 40.0
+      },
+      {
+        "campus": "Multan",
+        "groups": 44,
+        "actual_positives": 5,
+        "predicted_poor_rate_pct": 25.0,
+        "actual_poor_rate_pct": 11.4,
+        "recall_pct": 80.0
+      },
+      {
+        "campus": "Peshawar",
+        "groups": 30,
+        "actual_positives": 8,
+        "predicted_poor_rate_pct": 36.7,
+        "actual_poor_rate_pct": 26.7,
+        "recall_pct": 62.5
+      },
+      {
+        "campus": "Quetta",
+        "groups": 35,
+        "actual_positives": 7,
+        "predicted_poor_rate_pct": 14.3,
+        "actual_poor_rate_pct": 20.0,
+        "recall_pct": 42.9
+      },
+      {
+        "campus": "Rawalpindi",
+        "groups": 33,
+        "actual_positives": 9,
+        "predicted_poor_rate_pct": 24.2,
+        "actual_poor_rate_pct": 27.3,
+        "recall_pct": 66.7
+      }
+    ],
+    "campus_excluded_lt30": [],
+    "gender_gap_predicted": {
+      "high": "Female",
+      "high_value": 22.7,
+      "low": "Male",
+      "low_value": 17.6,
+      "gap_pp": 5.1
+    },
+    "gender_gap_recall": {
+      "high": "Female",
+      "high_value": 61.9,
+      "low": "Male",
+      "low_value": 54.1,
+      "gap_pp": 7.8
+    },
+    "campus_gap_predicted": {
+      "high": "Peshawar",
+      "high_value": 36.7,
+      "low": "Lahore",
+      "low_value": 14.1,
+      "gap_pp": 22.6
+    },
+    "campus_gap_recall": {
+      "high": "Multan",
+      "high_value": 80.0,
+      "low": "Lahore",
+      "low_value": 40.0,
+      "gap_pp": 40.0
+    },
+    "flags": [
+      "campus predicted rate (Peshawar vs Lahore: 22.6 pp)",
+      "campus recall (Multan vs Lahore: 40.0 pp)"
+    ],
+    "low_confidence": true,
+    "min_group_n": 30,
+    "min_group_positives": 5,
+    "takeaway": "Disparity flagged (>= 10 pp): campus predicted rate (Peshawar vs Lahore: 22.6 pp); campus recall (Multan vs Lahore: 40.0 pp). Confidence is LOW: the smallest audited group has 30 test groups and as few as 5 actual poor outcomes, so recall gaps in particular can move a lot by chance."
+  },
+  "base_rate_test": 0.16111111111111112
+}

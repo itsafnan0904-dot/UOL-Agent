@@ -1,0 +1,1801 @@
+group_id,proposal_date,campus,program,leader_gender,group_size,team_avg_cgpa,team_min_cgpa,project_type,has_industry_sponsor,supervisor_experience_years,supervisor_active_groups,proposal_revisions,weeks_to_proposal_approval,supervisor_meetings_8wk,github_commits_8wk,mid_eval_score,final_defense_score,extension_granted,poor_outcome,poor_outcome_bin
+G01536,2025-06-17,Karachi,BSCS,Female,5,2.52,2.23,Mobile App,Yes,7,9,1,3,7,209,81.7,54.9,Yes,No,0
+G00738,2024-07-10,Islamabad,BSCS,Female,4,3.39,2.72,IoT,No,10,6,1,1,7,106,78.9,74.9,No,No,0
+G01295,2025-03-08,Lahore,BSCS,Male,4,3.03,2.68,IoT,No,11,6,1,12,5,46,63.2,83.6,No,No,0
+G00326,2024-01-23,Lahore,BSAI,Male,4,3.05,2.74,AI-ML,Yes,13,5,1,3,5,63,74.4,66.5,No,No,0
+G00153,2023-11-04,Lahore,BSAI,Male,4,2.59,2.3,Mobile App,No,10,4,1,3,11,57,60.3,76.3,No,No,0
+G01381,2025-04-14,Rawalpindi,BSDS,Female,2,3.26,3.09,Web App,No,2,8,0,2,1,19,63.8,70.8,No,No,0
+G01155,2025-01-11,Islamabad,BSSE,Female,4,2.62,2.27,Web App,No,4,5,5,1,0,64,48.2,71.1,No,No,0
+G00209,2023-11-29,Lahore,BSAI,Female,2,3.67,3.58,IoT,No,3,8,2,8,10,48,93.6,67.8,No,No,0
+G01423,2025-05-05,Islamabad,BSCS,Female,4,3.23,2.98,AI-ML,No,7,6,3,3,6,34,71.0,83.5,No,No,0
+G00461,2024-03-16,Rawalpindi,BSCS,Female,3,3.48,3.46,AI-ML,No,4,8,1,3,6,63,87.9,71.6,No,No,0
+G00973,2024-10-19,Quetta,BSCS,Male,3,3.27,3.15,Research,No,3,8,3,1,7,81,73.3,65.0,No,No,0
+G00042,2023-09-15,Quetta,BSCS,Male,3,2.88,2.46,Web App,No,3,6,1,6,5,34,81.3,64.3,No,No,0
+G01341,2025-03-29,Lahore,BSCS,Female,4,2.65,2.49,Web App,No,12,5,0,6,7,19,71.0,67.7,No,No,0
+G00916,2024-09-28,Islamabad,BSSE,Male,3,3.45,3.11,Research,No,3,12,3,4,5,55,69.4,74.6,No,No,0
+G01135,2025-01-03,Faisalabad,BSAI,Male,3,2.64,1.74,Web App,No,7,9,2,1,6,68,63.7,59.4,No,Yes,1
+G00066,2023-09-25,Karachi,BSCS,Female,2,2.8,2.51,Web App,No,2,6,0,1,6,93,66.7,79.9,No,No,0
+G01445,2025-05-14,Lahore,BSSE,Female,2,3.21,2.73,Mobile App,No,8,4,1,4,2,123,67.7,84.8,No,No,0
+G00061,2023-09-23,Lahore,BSDS,Female,3,3.37,2.66,IoT,No,5,8,2,6,3,62,78.6,66.9,No,No,0
+G00506,2024-04-03,Lahore,BSCS,Female,4,2.76,2.05,IoT,No,11,5,4,2,8,8,54.4,31.6,No,Yes,1
+G00215,2023-12-01,Islamabad,BSCS,Male,5,3.29,3.05,IoT,No,6,6,1,2,2,174,76.2,69.3,No,No,0
+G00570,2024-04-24,Faisalabad,BSSE,Male,2,2.47,2.41,IoT,No,8,5,0,5,5,82,73.1,76.4,No,No,0
+G00075,2023-09-30,Multan,BSCS,Male,3,3.66,3.35,AI-ML,No,10,6,4,4,4,61,89.9,82.8,No,No,0
+G01757,2025-10-02,Karachi,BSCS,Female,5,2.69,2.45,Web App,No,11,4,1,3,5,75,52.5,83.2,No,No,0
+G00861,2024-09-05,Quetta,BSAI,Female,2,3.31,3.23,Mobile App,No,9,2,5,3,4,68,65.9,58.7,No,No,0
+G00318,2024-01-20,Peshawar,BSCS,Male,3,3.83,3.6,Web App,Yes,7,6,2,5,9,65,81.8,58.8,No,No,0
+G01361,2025-04-08,Faisalabad,BSSE,Male,4,2.33,2.29,Mobile App,No,4,6,0,10,1,57,25.8,41.5,Yes,Yes,1
+G01289,2025-03-06,Quetta,BSSE,Male,3,2.91,2.61,Web App,No,8,5,3,2,6,31,66.0,59.7,No,No,0
+G01304,2025-03-11,Multan,BSSE,Male,3,2.83,2.08,AI-ML,No,5,7,2,2,5,149,80.3,89.4,No,No,0
+G00852,2024-08-31,Karachi,BSAI,Male,2,3.1,2.48,AI-ML,No,4,2,2,4,1,46,45.1,80.2,No,No,0
+G01031,2024-11-20,Peshawar,BSIT,Male,4,3.42,3.04,AI-ML,No,14,9,1,2,6,29,75.3,60.4,No,No,0
+G01318,2025-03-17,Multan,BSCS,Male,3,3.41,3.07,Mobile App,No,10,5,2,1,2,142,92.4,53.3,No,No,0
+G01588,2025-07-14,Karachi,BSIT,Female,3,3.72,3.45,Web App,Yes,7,8,1,3,8,18,90.6,75.2,No,No,0
+G00941,2024-10-06,Peshawar,BSIT,Male,3,2.3,2.15,Web App,No,4,3,2,3,4,7,47.3,81.5,No,No,0
+G01612,2025-07-23,Karachi,BSCS,Female,1,2.68,2.68,Web App,No,6,1,4,8,3,115,80.3,81.9,Yes,No,0
+G00909,2024-09-25,Rawalpindi,BSCS,Female,4,2.97,2.75,Web App,No,6,9,2,16,8,23,72.0,77.9,No,No,0
+G00327,2024-01-23,Islamabad,BSSE,Female,2,2.97,2.19,IoT,No,11,8,3,5,3,57,56.6,68.4,No,No,0
+G00172,2023-11-17,Peshawar,BSAI,Female,3,3.21,3.04,IoT,No,6,7,3,6,5,67,79.8,61.8,No,No,0
+G00456,2024-03-15,Karachi,BSSE,Male,3,2.62,1.74,Mobile App,No,15,5,1,6,7,25,47.6,43.7,Yes,Yes,1
+G00502,2024-04-02,Multan,BSCS,Male,2,2.58,2.52,Web App,No,12,6,2,1,2,72,57.0,70.9,No,No,0
+G01449,2025-05-15,Lahore,BSDS,Male,3,3.25,3.08,Web App,No,2,3,2,5,5,18,73.2,57.2,Yes,No,0
+G00938,2024-10-04,Lahore,BSAI,Male,1,2.97,2.97,Web App,No,4,8,1,7,9,126,93.4,82.8,No,No,0
+G00773,2024-07-26,Multan,BSDS,Male,3,2.89,2.87,Research,No,4,4,4,1,1,40,57.3,75.7,No,No,0
+G01783,2025-10-12,Multan,BSCS,Male,3,2.85,2.75,IoT,No,6,9,0,2,5,44,70.4,74.4,No,No,0
+G01069,2024-12-05,Faisalabad,BSAI,Male,4,3.45,3.41,Web App,No,16,6,2,3,4,56,95.0,76.5,No,No,0
+G00600,2024-05-10,Karachi,BSDS,Male,2,3.2,2.52,Mobile App,Yes,1,3,3,1,6,17,80.3,59.4,No,No,0
+G00924,2024-10-01,Karachi,BSIT,Male,3,3.05,2.93,Research,No,2,7,2,7,6,22,71.1,69.0,No,No,0
+G00457,2024-03-15,Lahore,BSAI,Female,3,3.2,2.94,Web App,No,8,7,0,3,9,8,87.7,62.0,No,No,0
+G00367,2024-02-09,Peshawar,BSDS,Male,2,2.99,2.7,Web App,No,1,6,1,0,5,68,81.4,71.8,No,No,0
+G00799,2024-08-06,Quetta,BSIT,Female,4,3.06,2.93,IoT,No,3,6,0,3,6,97,74.0,87.8,No,No,0
+G00128,2023-10-23,Multan,BSIT,Female,4,2.75,2.3,Research,No,7,9,2,2,4,123,68.5,73.2,No,No,0
+G01207,2025-02-01,Lahore,BSIT,Male,2,3.11,2.96,IoT,No,6,4,1,3,8,19,88.0,71.0,No,No,0
+G00039,2023-09-13,Lahore,BSCS,Male,3,3.29,2.93,Web App,No,9,7,0,2,5,47,82.2,63.7,No,No,0
+G00428,2024-03-02,Karachi,BSIT,Female,3,2.92,2.79,IoT,No,6,9,3,6,4,126,64.1,62.7,No,No,0
+G00101,2023-10-13,Lahore,BSCS,Female,2,3.32,3.27,IoT,No,18,6,0,3,5,135,82.8,79.5,Yes,No,0
+G00509,2024-04-04,Faisalabad,BSCS,Female,3,2.84,2.28,Web App,No,3,9,2,2,4,109,68.0,75.0,No,No,0
+G01332,2025-03-23,Peshawar,BSAI,Male,3,3.25,3.1,AI-ML,No,5,9,3,1,6,39,83.4,63.6,No,No,0
+G00218,2023-12-02,Lahore,BSSE,Male,3,2.96,2.94,Web App,No,4,5,1,2,0,116,67.1,63.0,No,No,0
+G00731,2024-07-06,Islamabad,BSCS,Male,4,3.24,2.97,Web App,Yes,11,5,2,1,6,35,67.7,77.8,No,No,0
+G01139,2025-01-04,Peshawar,BSSE,Male,2,2.97,2.68,Web App,No,5,7,2,1,7,74,70.9,71.2,No,No,0
+G00131,2023-10-23,Karachi,BSIT,Female,3,2.87,2.32,AI-ML,No,10,10,1,2,2,189,72.3,73.3,No,No,0
+G00222,2023-12-03,Peshawar,BSSE,Male,4,3.0,2.67,IoT,No,5,8,3,12,5,208,83.2,75.1,No,No,0
+G00619,2024-05-19,Lahore,BSSE,Male,4,3.16,3.02,Mobile App,No,29,6,1,7,2,62,90.0,71.7,No,No,0
+G01252,2025-02-17,Lahore,BSCS,Male,3,2.86,2.5,Research,No,1,4,0,1,7,84,68.9,82.4,No,No,0
+G00786,2024-08-01,Peshawar,BSDS,Male,1,2.88,2.88,AI-ML,No,7,4,0,1,4,47,62.1,78.7,No,No,0
+G00321,2024-01-21,Lahore,BSCS,Female,4,2.66,2.33,Web App,No,4,6,1,3,3,62,40.9,85.1,No,No,0
+G01455,2025-05-18,Quetta,BSIT,Male,2,2.52,2.17,IoT,No,2,7,0,5,5,75,65.8,72.3,No,No,0
+G00874,2024-09-09,Lahore,BSCS,Female,4,3.22,2.93,Research,No,6,9,2,7,3,23,50.6,47.8,Yes,Yes,1
+G00403,2024-02-22,Peshawar,BSIT,Female,4,3.26,2.92,Mobile App,No,8,6,0,12,3,46,65.1,80.5,No,No,0
+G00633,2024-05-24,Rawalpindi,BSSE,Male,4,2.64,2.35,IoT,No,8,7,1,1,3,234,74.6,79.2,No,No,0
+G01025,2024-11-17,Multan,BSCS,Male,4,3.5,3.1,Mobile App,No,12,4,0,4,4,29,75.8,68.6,No,No,0
+G01706,2025-09-09,Faisalabad,BSAI,Female,3,3.09,3.03,Mobile App,No,3,4,4,2,5,121,77.1,70.8,No,No,0
+G01162,2025-01-14,Islamabad,BSCS,Male,2,3.07,2.97,Research,No,11,5,2,2,3,98,57.9,73.2,No,No,0
+G00013,2023-09-06,Lahore,BSCS,Female,3,3.36,2.89,Web App,No,8,5,1,9,6,32,82.0,71.9,No,No,0
+G00136,2023-10-27,Karachi,BSIT,Male,1,3.38,3.38,Research,No,4,3,2,5,3,9,65.9,61.7,No,No,0
+G00771,2024-07-25,Faisalabad,BSSE,Male,3,3.24,3.06,IoT,No,5,5,1,4,9,67,96.4,63.4,No,No,0
+G01581,2025-07-12,Faisalabad,BSCS,Male,1,3.11,3.11,Web App,No,7,9,0,3,5,18,68.4,64.9,No,No,0
+G00357,2024-02-03,Quetta,BSSE,Male,3,3.28,3.01,AI-ML,No,6,7,2,6,6,97,88.0,69.8,No,No,0
+G01231,2025-02-10,Lahore,BSCS,Male,2,3.03,2.9,Mobile App,No,3,6,2,4,5,93,78.3,75.1,No,No,0
+G01546,2025-06-22,Rawalpindi,BSAI,Female,4,3.19,2.55,Research,No,14,7,1,4,5,72,81.7,56.7,Yes,Yes,1
+G01315,2025-03-16,Karachi,BSDS,Male,4,3.2,2.79,Web App,No,9,4,1,14,7,22,72.0,67.0,No,No,0
+G00414,2024-02-26,Lahore,BSDS,Male,3,2.77,2.23,IoT,Yes,11,5,0,2,3,224,74.6,63.4,No,No,0
+G00330,2024-01-24,Multan,BSSE,Female,3,2.79,2.48,Web App,No,6,8,0,5,5,76,69.5,62.7,Yes,No,0
+G00665,2024-06-06,Karachi,BSIT,Male,3,2.41,2.25,IoT,No,5,3,0,4,2,50,51.9,42.9,Yes,Yes,1
+G00921,2024-09-29,Peshawar,BSAI,Male,4,3.12,2.83,AI-ML,Yes,1,5,2,5,3,74,66.2,60.9,No,No,0
+G01095,2024-12-14,Faisalabad,BSDS,Female,3,2.69,2.28,Mobile App,No,3,5,1,3,2,74,60.1,39.9,Yes,Yes,1
+G00907,2024-09-24,Karachi,BSAI,Male,2,2.51,2.39,Web App,No,11,6,0,4,3,70,65.5,79.6,No,No,0
+G00434,2024-03-05,Rawalpindi,BSDS,Male,4,3.24,3.08,IoT,No,32,8,4,4,1,145,73.5,73.7,No,No,0
+G00349,2024-02-01,Peshawar,BSSE,Female,3,3.38,3.21,Research,No,4,3,1,3,3,19,69.9,73.0,No,No,0
+G01739,2025-09-22,Faisalabad,BSSE,Male,4,3.37,3.14,IoT,Yes,6,6,2,3,8,25,78.1,67.9,No,No,0
+G00003,2023-09-02,Rawalpindi,BSDS,Female,3,3.31,2.9,Research,Yes,12,6,0,7,5,69,75.7,87.2,No,No,0
+G00697,2024-06-20,Lahore,BSIT,Male,3,3.21,3.06,Mobile App,No,3,6,1,1,3,34,55.4,82.1,No,No,0
+G00751,2024-07-17,Islamabad,BSCS,Female,3,2.78,2.38,AI-ML,No,3,7,1,1,6,81,70.0,63.9,No,No,0
+G00240,2023-12-11,Peshawar,BSCS,Male,4,3.12,2.73,Research,No,6,7,3,5,6,231,83.5,69.2,No,No,0
+G01524,2025-06-12,Peshawar,BSAI,Female,3,2.86,2.58,AI-ML,No,5,7,2,6,2,67,48.1,82.4,No,No,0
+G01727,2025-09-18,Rawalpindi,BSCS,Male,3,3.28,3.05,Mobile App,No,7,5,3,3,4,13,68.4,43.4,Yes,Yes,1
+G01593,2025-07-16,Quetta,BSSE,Female,1,3.15,3.15,IoT,No,6,3,1,1,7,26,82.0,84.3,No,No,0
+G01040,2024-11-23,Lahore,BSCS,Male,3,3.51,2.61,IoT,No,9,4,0,5,6,57,87.9,75.6,No,No,0
+G00474,2024-03-22,Faisalabad,BSAI,Female,3,3.91,3.74,Mobile App,No,22,2,1,1,7,38,100.0,84.8,No,No,0
+G00864,2024-09-06,Rawalpindi,BSCS,Female,3,3.41,2.89,Mobile App,No,3,13,3,3,3,106,72.0,46.8,Yes,Yes,1
+G01787,2025-10-13,Rawalpindi,BSCS,Female,3,3.02,2.85,Web App,No,11,7,5,3,5,57,58.9,75.5,No,No,0
+G01322,2025-03-18,Multan,BSCS,Male,2,2.28,1.86,Research,No,8,7,1,2,8,11,70.0,77.5,No,No,0
+G00865,2024-09-06,Lahore,BSCS,Male,2,3.12,2.47,IoT,Yes,5,2,0,4,0,37,65.8,80.4,No,No,0
+G00534,2024-04-15,Faisalabad,BSIT,Female,1,3.49,3.49,Research,No,3,6,1,4,4,66,76.0,71.9,No,No,0
+G00966,2024-10-18,Islamabad,BSCS,Male,3,2.82,2.76,Web App,Yes,1,5,1,3,7,26,60.7,68.8,No,No,0
+G01334,2025-03-25,Lahore,BSIT,Female,3,2.73,2.42,Research,No,5,6,2,3,7,15,72.1,67.0,No,No,0
+G01691,2025-09-04,Karachi,BSCS,Male,4,3.88,3.65,AI-ML,No,1,8,1,9,7,132,85.0,73.5,No,No,0
+G00455,2024-03-15,Faisalabad,BSAI,Male,4,3.12,2.27,Web App,Yes,7,9,1,1,5,29,66.2,51.9,Yes,Yes,1
+G01434,2025-05-09,Faisalabad,BSSE,Male,3,2.22,1.51,Research,No,5,6,1,4,5,9,37.5,47.0,Yes,Yes,1
+G00273,2023-12-28,Lahore,BSDS,Female,2,2.87,1.97,IoT,No,2,5,1,7,6,59,62.3,71.6,No,No,0
+G00233,2023-12-08,Karachi,BSDS,Female,3,3.49,3.31,AI-ML,No,2,9,1,2,5,105,78.5,46.7,No,Yes,1
+G00217,2023-12-02,Karachi,BSDS,Male,3,3.44,2.84,Web App,No,3,6,0,4,2,57,71.8,76.3,No,No,0
+G00023,2023-09-09,Faisalabad,BSDS,Female,3,3.13,3.07,AI-ML,No,4,5,1,11,5,128,80.9,97.4,Yes,No,0
+G01324,2025-03-18,Islamabad,BSCS,Female,3,2.75,2.46,Research,Yes,1,8,1,5,8,46,72.0,80.4,No,No,0
+G01694,2025-09-05,Islamabad,BSCS,Male,2,2.98,2.41,Web App,No,9,6,1,2,0,40,60.5,75.5,Yes,No,0
+G01044,2024-11-25,Lahore,BSAI,Female,4,2.58,2.38,AI-ML,No,6,6,2,2,8,91,71.2,74.0,No,No,0
+G00552,2024-04-18,Karachi,BSIT,Male,5,2.61,2.32,Mobile App,No,3,5,1,8,3,23,39.5,60.9,Yes,Yes,1
+G01398,2025-04-23,Faisalabad,BSCS,Female,4,2.63,2.42,Mobile App,No,7,7,0,9,5,121,62.7,67.8,No,No,0
+G00043,2023-09-15,Islamabad,BSIT,Female,4,2.69,2.28,Mobile App,No,3,10,0,4,2,82,63.0,62.1,No,No,0
+G01243,2025-02-15,Rawalpindi,BSCS,Female,4,3.17,2.88,Mobile App,No,4,7,1,11,3,45,50.5,65.8,No,No,0
+G00453,2024-03-15,Lahore,BSDS,Male,3,2.82,2.67,Research,No,5,10,0,3,3,42,57.9,47.6,Yes,Yes,1
+G00202,2023-11-25,Faisalabad,BSCS,Female,1,3.2,3.2,Research,No,10,5,1,2,7,57,73.8,70.1,No,No,0
+G01676,2025-08-21,Rawalpindi,BSAI,Male,4,3.39,3.0,Web App,No,17,7,2,0,4,34,73.1,76.2,No,No,0
+G01108,2024-12-20,Lahore,BSIT,Male,3,2.95,2.26,Web App,No,8,6,0,1,11,23,78.7,74.5,No,No,0
+G01305,2025-03-11,Islamabad,BSIT,Female,3,3.14,3.09,AI-ML,No,13,14,2,4,3,53,70.4,55.9,No,No,0
+G00074,2023-09-28,Multan,BSCS,Female,4,2.8,1.9,Research,No,2,4,2,1,8,99,78.0,63.3,No,No,0
+G00189,2023-11-21,Lahore,BSCS,Female,4,2.44,2.32,Web App,Yes,12,3,1,2,4,46,69.1,64.0,No,No,0
+G00294,2024-01-08,Islamabad,BSCS,Male,5,3.16,2.89,Web App,Yes,11,4,2,3,4,113,78.3,68.4,No,No,0
+G01417,2025-05-03,Peshawar,BSCS,Female,4,2.8,2.62,Web App,No,12,4,3,3,5,47,55.8,90.4,No,No,0
+G00083,2023-10-03,Peshawar,BSSE,Male,3,3.36,3.01,Mobile App,No,16,10,3,1,2,57,63.2,90.9,Yes,No,0
+G00500,2024-03-31,Lahore,BSAI,Male,3,2.74,2.08,Research,No,12,7,3,5,5,53,55.2,48.7,Yes,Yes,1
+G01337,2025-03-27,Islamabad,BSAI,Female,3,3.48,3.11,Web App,Yes,4,9,0,3,1,47,73.1,65.7,No,No,0
+G01002,2024-11-03,Rawalpindi,BSDS,Male,2,2.12,1.92,Web App,No,17,6,1,5,5,17,57.6,67.5,No,No,0
+G00515,2024-04-07,Islamabad,BSCS,Male,3,3.76,3.69,IoT,No,5,3,0,3,10,66,98.4,72.7,No,No,0
+G00602,2024-05-11,Peshawar,BSSE,Male,2,3.08,2.5,IoT,No,8,12,1,2,10,50,78.2,61.1,No,No,0
+G00152,2023-11-03,Karachi,BSIT,Male,4,3.38,2.96,Web App,No,1,6,0,5,3,33,65.8,63.1,No,No,0
+G00606,2024-05-13,Karachi,BSSE,Female,3,3.21,2.92,Research,No,5,6,4,11,5,48,64.0,74.6,Yes,No,0
+G00607,2024-05-13,Islamabad,BSAI,Female,4,3.46,3.04,Research,No,6,9,2,2,6,43,84.6,73.6,No,No,0
+G01702,2025-09-07,Islamabad,BSAI,Female,3,3.18,2.88,Web App,No,6,4,4,1,3,42,68.6,52.6,No,No,0
+G00621,2024-05-19,Quetta,BSAI,Male,3,3.1,2.81,Web App,No,4,6,2,2,6,23,68.8,64.0,No,No,0
+G00789,2024-08-02,Karachi,BSSE,Male,4,2.97,2.44,Web App,No,16,1,3,7,5,67,67.2,71.9,No,No,0
+G01028,2024-11-18,Peshawar,BSIT,Female,3,3.42,3.16,IoT,No,10,6,1,9,4,28,65.3,67.7,No,No,0
+G00481,2024-03-24,Lahore,BSCS,Male,3,3.53,2.94,Research,No,5,8,2,11,11,31,81.6,71.9,No,No,0
+G01553,2025-06-24,Lahore,BSAI,Female,2,3.06,2.75,IoT,No,9,10,2,2,7,46,72.0,58.6,Yes,Yes,1
+G00513,2024-04-06,Islamabad,BSAI,Male,4,3.07,2.66,Web App,No,8,5,1,2,2,61,59.2,69.9,No,No,0
+G00364,2024-02-07,Peshawar,BSCS,Male,3,3.15,2.97,IoT,No,6,7,1,4,3,77,76.2,66.7,No,No,0
+G01769,2025-10-08,Quetta,BSCS,Male,3,3.78,3.19,AI-ML,No,1,6,2,3,9,57,100.0,66.8,No,No,0
+G01374,2025-04-13,Quetta,BSCS,Female,5,3.05,2.88,Web App,No,9,3,1,0,1,14,54.0,76.7,No,No,0
+G00176,2023-11-17,Lahore,BSDS,Female,3,2.78,2.37,IoT,No,1,5,2,2,3,37,59.6,60.5,Yes,Yes,1
+G01711,2025-09-10,Karachi,BSCS,Female,3,3.15,2.77,AI-ML,No,3,9,2,4,0,115,63.5,70.5,No,No,0
+G00605,2024-05-12,Karachi,BSAI,Female,3,2.41,2.36,Mobile App,No,15,6,1,4,6,113,69.9,59.7,No,No,0
+G01278,2025-03-01,Islamabad,BSSE,Male,4,2.4,2.15,Web App,No,4,7,1,1,2,41,56.3,44.0,Yes,Yes,1
+G01369,2025-04-10,Lahore,BSDS,Male,3,2.22,2.02,Mobile App,No,9,5,1,3,9,46,62.2,73.2,No,No,0
+G00118,2023-10-21,Lahore,BSDS,Male,5,2.64,2.2,Research,No,11,7,1,5,2,19,41.9,65.4,No,Yes,1
+G01668,2025-08-18,Quetta,BSAI,Female,4,3.4,2.86,Mobile App,No,10,6,1,3,5,188,86.3,68.1,No,No,0
+G01264,2025-02-22,Karachi,BSDS,Male,5,3.67,3.55,IoT,No,10,6,3,1,3,140,82.2,79.0,No,No,0
+G01452,2025-05-16,Rawalpindi,BSSE,Female,3,3.74,3.29,Research,No,4,8,1,4,5,60,79.1,64.3,No,No,0
+G00990,2024-10-26,Islamabad,BSCS,Male,4,3.06,2.77,Research,No,11,3,2,1,4,65,72.0,63.0,Yes,No,0
+G01173,2025-01-18,Quetta,BSSE,Male,3,3.04,2.73,Web App,No,8,8,4,3,5,23,59.7,79.0,No,No,0
+G01644,2025-08-06,Quetta,BSSE,Male,2,2.97,2.72,IoT,No,8,10,1,1,2,87,63.1,83.6,No,No,0
+G01245,2025-02-15,Karachi,BSSE,Male,3,3.17,2.79,Web App,No,4,9,3,4,3,35,77.6,69.9,No,No,0
+G00835,2024-08-21,Karachi,BSCS,Female,3,3.2,2.81,Mobile App,No,7,5,1,1,8,83,81.0,60.7,No,No,0
+G00999,2024-10-30,Lahore,BSSE,Female,3,3.25,2.88,Mobile App,No,9,5,2,1,9,53,76.2,63.6,No,No,0
+G00398,2024-02-22,Karachi,BSSE,Female,5,3.17,2.27,AI-ML,Yes,8,6,1,4,8,82,88.6,59.3,No,No,0
+G01483,2025-05-28,Karachi,BSIT,Female,3,2.3,1.64,Research,No,10,9,1,0,2,57,62.8,70.9,No,No,0
+G01082,2024-12-10,Peshawar,BSCS,Male,3,2.58,2.44,Web App,No,5,3,0,1,4,113,75.2,71.3,No,No,0
+G01112,2024-12-22,Quetta,BSIT,Male,5,2.7,2.08,IoT,No,12,9,1,2,7,74,66.5,43.8,Yes,Yes,1
+G00094,2023-10-10,Islamabad,BSAI,Male,3,2.94,2.58,Web App,No,12,3,2,3,4,20,70.5,75.6,No,No,0
+G01545,2025-06-20,Karachi,BSSE,Male,2,3.57,3.16,Research,Yes,8,9,1,2,5,64,69.3,80.0,Yes,No,0
+G00346,2024-01-31,Lahore,BSCS,Male,5,3.15,2.91,Mobile App,No,10,6,1,4,7,21,78.1,73.6,No,No,0
+G01202,2025-01-30,Lahore,BSSE,Male,3,3.36,3.04,Mobile App,No,4,6,1,2,10,185,98.1,66.8,No,No,0
+G01512,2025-06-07,Multan,BSAI,Male,2,3.18,2.89,Mobile App,No,3,9,3,2,8,49,88.0,78.6,No,No,0
+G01665,2025-08-17,Lahore,BSSE,Male,3,3.04,2.86,AI-ML,No,3,6,3,3,3,51,56.6,69.7,No,No,0
+G01658,2025-08-12,Faisalabad,BSIT,Male,3,3.35,3.29,AI-ML,No,12,8,3,8,3,70,79.0,78.1,No,No,0
+G00934,2024-10-04,Multan,BSCS,Female,3,3.09,2.92,Mobile App,Yes,5,7,1,3,9,47,72.6,61.7,No,No,0
+G01355,2025-04-05,Islamabad,BSCS,Male,3,2.96,2.06,Research,No,7,6,1,1,0,10,54.3,54.7,Yes,Yes,1
+G00661,2024-06-05,Karachi,BSSE,Female,3,2.52,2.32,IoT,No,12,5,2,2,7,57,65.3,72.2,No,No,0
+G00609,2024-05-14,Multan,BSAI,Male,3,3.49,3.25,Mobile App,No,7,5,1,6,11,116,97.8,78.7,No,No,0
+G00540,2024-04-16,Rawalpindi,BSCS,Female,4,3.24,2.66,Mobile App,No,1,3,0,5,1,102,74.9,59.0,No,No,0
+G01412,2025-05-01,Quetta,BSIT,Female,4,3.91,3.76,Web App,No,15,4,1,2,4,37,83.1,58.9,No,No,0
+G01107,2024-12-20,Multan,BSAI,Female,5,2.96,2.78,AI-ML,No,3,3,3,5,6,131,68.4,82.5,No,No,0
+G00503,2024-04-02,Quetta,BSCS,Male,3,2.86,2.77,IoT,No,6,6,0,5,8,128,74.8,56.3,Yes,No,0
+G01003,2024-11-03,Rawalpindi,BSDS,Female,3,2.41,1.9,AI-ML,No,7,7,2,10,6,42,45.3,34.9,Yes,Yes,1
+G00070,2023-09-26,Karachi,BSSE,Male,4,3.3,3.04,Mobile App,No,3,5,2,2,11,90,81.6,64.3,No,No,0
+G01300,2025-03-10,Faisalabad,BSSE,Female,2,3.14,2.43,Mobile App,No,1,2,0,6,8,22,75.1,62.8,No,No,0
+G00882,2024-09-12,Quetta,BSIT,Male,3,3.19,2.82,Mobile App,No,5,6,1,7,5,99,69.7,60.7,No,No,0
+G00893,2024-09-17,Faisalabad,BSCS,Female,2,2.31,2.02,Mobile App,No,3,5,1,2,1,73,62.3,53.0,Yes,Yes,1
+G01074,2024-12-07,Multan,BSCS,Female,3,3.44,3.0,Web App,No,6,9,3,1,8,22,70.6,56.4,Yes,No,0
+G01578,2025-07-08,Islamabad,BSCS,Male,4,2.76,2.05,IoT,No,3,9,2,1,7,108,57.5,57.8,No,Yes,1
+G01326,2025-03-18,Quetta,BSAI,Female,4,2.39,2.16,Web App,No,5,5,2,3,6,121,61.7,55.8,No,Yes,1
+G00230,2023-12-06,Karachi,BSCS,Female,3,2.77,2.48,IoT,Yes,3,4,3,3,2,17,45.7,82.5,No,No,0
+G01317,2025-03-16,Rawalpindi,BSCS,Male,3,2.84,2.63,Web App,Yes,12,6,2,5,5,49,63.7,75.1,No,No,0
+G00939,2024-10-05,Islamabad,BSDS,Male,3,3.24,3.1,Mobile App,No,6,5,2,1,5,35,75.6,69.9,No,No,0
+G01010,2024-11-08,Karachi,BSCS,Female,3,2.84,2.76,Web App,No,4,8,0,2,10,129,59.6,53.3,No,No,0
+G00729,2024-07-05,Karachi,BSIT,Male,3,2.99,2.82,Mobile App,No,2,6,4,5,9,73,72.0,71.2,Yes,No,0
+G01800,2025-10-19,Karachi,BSSE,Male,2,3.25,3.12,Research,No,11,4,1,3,5,40,74.9,68.4,No,No,0
+G00727,2024-07-04,Karachi,BSIT,Male,3,3.0,2.71,Research,No,7,6,1,1,3,40,55.0,72.5,No,No,0
+G01693,2025-09-05,Islamabad,BSSE,Female,3,2.92,2.63,Mobile App,No,4,4,1,7,0,18,57.1,50.0,Yes,Yes,1
+G01473,2025-05-26,Lahore,BSSE,Male,3,2.84,2.73,Web App,No,16,3,1,6,3,115,75.6,78.5,No,No,0
+G00558,2024-04-22,Lahore,BSAI,Male,4,3.37,3.08,Mobile App,Yes,6,4,1,4,2,72,80.5,66.8,Yes,No,0
+G01151,2025-01-09,Lahore,BSCS,Female,3,2.94,2.67,Web App,No,5,2,0,4,5,44,62.2,80.8,Yes,No,0
+G01394,2025-04-22,Quetta,BSSE,Female,3,2.94,2.17,Web App,No,2,6,1,15,5,57,58.4,58.1,Yes,Yes,1
+G00270,2023-12-27,Lahore,BSSE,Female,3,3.24,3.12,Web App,No,7,9,0,2,4,29,74.2,70.8,No,No,0
+G00081,2023-10-02,Faisalabad,BSDS,Male,3,3.26,2.7,Mobile App,No,4,6,1,4,5,23,72.0,75.7,No,No,0
+G01376,2025-04-13,Multan,BSIT,Female,5,2.9,2.54,Web App,Yes,7,6,0,3,2,57,58.4,35.2,Yes,Yes,1
+G00614,2024-05-16,Lahore,BSCS,Male,3,3.14,2.79,Web App,No,6,6,3,6,6,89,65.1,73.3,No,No,0
+G00334,2024-01-26,Faisalabad,BSIT,Male,2,2.53,2.42,AI-ML,No,6,7,1,1,3,11,48.7,55.7,Yes,Yes,1
+G01058,2024-11-30,Karachi,BSIT,Male,5,3.46,3.26,Web App,No,5,6,0,2,4,57,79.1,59.4,No,No,0
+G00057,2023-09-23,Multan,BSCS,Female,1,2.43,2.43,AI-ML,Yes,3,7,2,4,5,89,74.1,84.2,No,No,0
+G00266,2023-12-25,Karachi,BSSE,Male,5,4.0,3.73,Web App,No,2,5,1,3,4,87,88.9,67.5,No,No,0
+G00293,2024-01-07,Quetta,BSAI,Male,3,2.72,2.09,Research,No,4,8,3,7,8,62,65.3,72.7,No,No,0
+G00898,2024-09-20,Multan,BSIT,Female,4,3.6,2.83,AI-ML,Yes,10,5,1,4,4,174,86.6,66.6,No,No,0
+G00796,2024-08-04,Islamabad,BSCS,Female,4,2.91,2.76,Mobile App,No,10,4,1,9,8,13,57.6,62.5,No,No,0
+G01008,2024-11-05,Lahore,BSAI,Male,3,2.67,2.61,AI-ML,No,0,6,1,4,3,45,72.0,70.3,No,No,0
+G00730,2024-07-05,Multan,BSSE,Male,3,3.23,2.55,Web App,Yes,2,12,2,2,6,133,85.5,70.1,No,No,0
+G00836,2024-08-22,Quetta,BSCS,Male,4,3.47,3.13,Mobile App,No,5,6,2,2,6,31,82.7,76.6,No,No,0
+G01753,2025-09-30,Lahore,BSSE,Male,4,3.19,2.8,Web App,No,5,7,0,7,7,23,59.7,59.6,No,No,0
+G01547,2025-06-22,Lahore,BSIT,Female,3,2.85,2.56,Mobile App,No,5,6,0,6,2,53,52.1,82.1,No,No,0
+G00370,2024-02-10,Peshawar,BSCS,Female,3,2.92,2.83,Web App,No,15,8,1,4,0,26,48.8,45.2,Yes,Yes,1
+G01587,2025-07-14,Quetta,BSAI,Male,4,3.04,2.55,Web App,No,5,6,0,5,10,45,69.1,80.3,No,No,0
+G00714,2024-06-27,Multan,BSSE,Female,3,2.91,2.62,AI-ML,No,7,5,3,2,5,89,66.8,68.0,No,No,0
+G01143,2025-01-06,Karachi,BSSE,Male,3,3.09,2.59,Mobile App,No,5,6,1,2,7,79,92.6,79.1,No,No,0
+G00459,2024-03-16,Karachi,BSSE,Female,3,3.77,3.74,Mobile App,No,6,3,1,8,4,79,89.0,63.5,No,No,0
+G00473,2024-03-21,Lahore,BSAI,Male,1,3.75,3.75,AI-ML,No,1,5,0,7,0,14,71.7,73.4,No,No,0
+G01029,2024-11-19,Karachi,BSAI,Female,3,3.09,2.34,Mobile App,No,22,6,1,3,3,125,70.4,74.9,No,No,0
+G01251,2025-02-16,Peshawar,BSAI,Female,3,3.01,2.72,AI-ML,No,2,8,1,1,0,10,53.5,65.3,No,No,0
+G00288,2024-01-06,Islamabad,BSAI,Male,3,3.37,3.28,AI-ML,Yes,7,8,2,5,5,46,80.3,79.0,No,No,0
+G01636,2025-08-03,Lahore,BSAI,Male,4,2.92,2.79,AI-ML,No,12,8,0,3,12,51,72.0,64.4,No,No,0
+G01755,2025-10-01,Islamabad,BSSE,Female,2,2.69,2.21,Web App,No,5,11,1,2,9,4,69.3,60.5,No,No,0
+G00251,2023-12-19,Islamabad,BSDS,Female,3,3.23,2.94,IoT,Yes,10,6,3,5,12,57,78.4,77.7,No,No,0
+G00037,2023-09-12,Faisalabad,BSAI,Female,4,2.87,2.1,IoT,Yes,12,3,3,5,4,44,51.8,45.9,Yes,Yes,1
+G00443,2024-03-09,Lahore,BSCS,Female,4,3.38,3.22,AI-ML,No,7,8,3,7,3,140,77.8,62.9,No,No,0
+G00710,2024-06-24,Rawalpindi,BSCS,Male,3,2.75,2.68,Web App,No,1,9,3,3,5,78,64.1,72.1,No,No,0
+G00501,2024-04-01,Quetta,BSCS,Male,3,3.74,3.42,IoT,No,3,4,3,3,8,5,82.1,79.0,No,No,0
+G00996,2024-10-29,Faisalabad,BSAI,Male,5,3.94,3.12,Mobile App,No,5,6,1,2,4,70,79.2,82.3,Yes,No,0
+G01689,2025-08-31,Lahore,BSAI,Female,3,2.74,2.46,Web App,Yes,2,8,1,4,4,37,61.1,78.5,No,No,0
+G00337,2024-01-27,Peshawar,BSCS,Male,2,2.84,2.46,Web App,No,3,6,3,4,5,57,72.2,84.8,No,No,0
+G01383,2025-04-15,Islamabad,BSSE,Female,5,3.67,3.41,Web App,No,3,8,1,5,5,114,100.0,78.3,No,No,0
+G00169,2023-11-14,Karachi,BSSE,Female,4,3.52,2.98,AI-ML,No,1,7,1,5,1,66,56.6,74.0,No,No,0
+G00089,2023-10-08,Quetta,BSSE,Male,4,2.6,2.31,AI-ML,No,6,6,1,5,4,22,53.5,63.4,No,No,0
+G00485,2024-03-25,Karachi,BSCS,Male,3,3.11,2.81,Web App,No,8,8,1,3,7,94,82.4,70.1,No,No,0
+G01543,2025-06-19,Lahore,BSAI,Female,4,3.21,2.7,AI-ML,No,4,11,0,3,5,83,69.9,82.3,No,No,0
+G01397,2025-04-23,Peshawar,BSSE,Female,4,3.18,2.93,AI-ML,Yes,2,4,1,6,5,8,76.8,82.4,No,No,0
+G00723,2024-07-02,Rawalpindi,BSAI,Female,5,3.34,3.2,IoT,No,7,7,1,1,6,92,90.7,81.4,No,No,0
+G01145,2025-01-06,Peshawar,BSCS,Male,4,2.9,2.38,Web App,No,5,8,3,3,3,62,73.1,40.5,No,Yes,1
+G00680,2024-06-12,Faisalabad,BSSE,Male,3,2.94,2.65,Mobile App,No,9,7,1,10,5,120,85.3,80.7,No,No,0
+G00068,2023-09-26,Rawalpindi,BSCS,Female,3,3.69,3.4,AI-ML,No,8,7,1,2,9,24,88.3,66.0,No,No,0
+G01036,2024-11-22,Quetta,BSSE,Male,3,2.45,2.04,IoT,No,2,9,0,5,7,89,56.8,59.0,Yes,Yes,1
+G00749,2024-07-16,Karachi,BSCS,Male,2,3.95,3.83,Web App,Yes,4,4,1,3,5,51,84.4,88.8,No,No,0
+G01277,2025-02-28,Karachi,BSSE,Female,2,3.52,2.62,Mobile App,No,1,7,2,6,10,81,81.5,84.4,No,No,0
+G01477,2025-05-27,Faisalabad,BSIT,Female,4,2.65,2.36,Mobile App,No,5,6,3,2,2,283,71.9,73.8,No,No,0
+G00720,2024-06-30,Peshawar,BSSE,Male,3,2.36,1.5,AI-ML,No,4,6,2,5,3,63,43.0,73.6,No,No,0
+G00641,2024-05-29,Islamabad,BSSE,Female,2,3.14,2.68,AI-ML,No,8,5,1,5,2,57,63.0,70.9,No,No,0
+G01469,2025-05-24,Faisalabad,BSSE,Female,3,2.64,2.31,Web App,No,5,6,0,1,4,46,62.1,73.2,No,No,0
+G01066,2024-12-05,Quetta,BSDS,Female,3,3.13,3.01,AI-ML,Yes,5,5,0,9,4,50,62.3,66.0,No,No,0
+G01297,2025-03-09,Peshawar,BSDS,Male,3,2.93,2.57,IoT,Yes,11,6,0,1,6,35,69.1,67.0,No,No,0
+G00260,2023-12-22,Lahore,BSCS,Female,3,2.92,2.73,AI-ML,No,9,5,2,2,12,30,92.0,68.2,No,No,0
+G00371,2024-02-11,Lahore,BSDS,Female,3,2.82,2.64,Web App,No,5,6,5,10,6,13,41.7,52.5,No,No,0
+G01347,2025-04-01,Peshawar,BSCS,Male,3,2.91,2.01,Mobile App,Yes,1,7,1,1,5,21,69.1,76.9,No,No,0
+G00768,2024-07-24,Karachi,BSCS,Female,2,2.55,1.99,IoT,No,2,5,1,6,8,152,77.3,72.6,No,No,0
+G00892,2024-09-17,Faisalabad,BSIT,Male,2,3.55,3.26,Research,Yes,10,3,1,6,7,71,84.2,78.6,No,No,0
+G00912,2024-09-26,Rawalpindi,BSCS,Male,2,3.08,3.01,Mobile App,Yes,8,8,1,4,4,25,72.2,74.6,No,No,0
+G00137,2023-10-27,Karachi,BSSE,Male,1,3.15,3.15,AI-ML,No,6,7,3,3,3,16,61.1,33.0,Yes,Yes,1
+G01601,2025-07-19,Faisalabad,BSAI,Female,3,3.32,3.15,Research,Yes,9,9,2,2,1,66,74.4,75.0,No,No,0
+G00399,2024-02-22,Faisalabad,BSDS,Female,3,2.65,2.36,IoT,No,7,4,2,5,5,32,55.8,43.6,Yes,Yes,1
+G01123,2024-12-29,Rawalpindi,BSCS,Male,4,2.98,2.77,AI-ML,Yes,12,7,0,4,8,123,78.7,72.8,No,No,0
+G00984,2024-10-22,Islamabad,BSCS,Female,4,2.93,2.63,Web App,Yes,7,8,1,2,0,47,57.0,76.6,No,No,0
+G00801,2024-08-06,Karachi,BSIT,Male,2,1.99,1.5,AI-ML,No,3,4,3,9,4,20,33.3,48.4,Yes,Yes,1
+G01788,2025-10-13,Peshawar,BSSE,Female,4,3.12,2.99,AI-ML,No,5,4,3,3,3,73,68.8,65.3,No,No,0
+G00820,2024-08-13,Islamabad,BSCS,Male,3,3.37,2.95,IoT,No,2,4,1,6,5,175,91.7,76.7,No,No,0
+G01004,2024-11-03,Peshawar,BSCS,Female,2,2.89,2.57,Research,No,8,6,2,1,0,18,72.0,47.6,No,Yes,1
+G01213,2025-02-03,Lahore,BSIT,Female,5,3.43,3.0,Web App,No,6,6,2,2,2,31,69.8,37.3,Yes,Yes,1
+G00538,2024-04-16,Peshawar,BSSE,Female,4,3.31,3.15,Mobile App,No,4,5,2,8,2,8,68.0,66.8,No,No,0
+G00490,2024-03-27,Lahore,BSAI,Male,3,2.46,2.34,Research,No,4,6,2,0,3,61,54.9,54.5,Yes,Yes,1
+G00025,2023-09-09,Lahore,BSCS,Male,5,2.82,2.51,IoT,No,6,7,4,2,4,22,55.4,68.0,No,No,0
+G01027,2024-11-18,Multan,BSCS,Male,2,3.59,3.56,AI-ML,Yes,7,3,1,4,4,26,87.5,93.3,No,No,0
+G00660,2024-06-04,Faisalabad,BSSE,Female,4,2.75,2.55,Web App,No,4,7,1,3,9,81,71.0,72.5,No,No,0
+G00923,2024-10-01,Lahore,BSAI,Male,4,2.89,2.72,Mobile App,Yes,6,8,1,3,5,30,62.9,71.4,No,No,0
+G00673,2024-06-10,Islamabad,BSCS,Male,3,3.03,2.71,IoT,No,2,6,3,1,3,37,59.6,62.9,Yes,Yes,1
+G00305,2024-01-12,Faisalabad,BSCS,Female,4,2.66,1.87,Web App,No,12,3,4,3,7,62,50.8,66.6,No,No,0
+G00108,2023-10-15,Multan,BSAI,Female,4,2.25,1.64,Mobile App,Yes,9,7,4,2,2,74,43.2,71.5,No,No,0
+G01735,2025-09-21,Peshawar,BSCS,Female,3,3.25,2.83,Web App,Yes,5,5,1,2,2,52,70.4,76.6,No,No,0
+G00826,2024-08-17,Lahore,BSAI,Female,2,3.07,2.33,AI-ML,No,4,5,2,1,4,57,65.1,92.4,No,No,0
+G00054,2023-09-20,Karachi,BSIT,Male,4,3.34,2.92,Research,No,10,4,1,4,2,37,61.9,74.7,No,No,0
+G00221,2023-12-03,Islamabad,BSIT,Male,2,2.97,2.7,Research,No,3,7,1,1,3,134,66.1,74.0,No,No,0
+G00914,2024-09-28,Karachi,BSIT,Male,3,3.27,3.08,Web App,No,4,7,1,1,6,147,80.7,74.8,No,No,0
+G01637,2025-08-03,Rawalpindi,BSCS,Female,2,2.92,2.5,Web App,No,11,11,2,0,4,155,79.0,69.0,No,No,0
+G01535,2025-06-16,Islamabad,BSIT,Female,4,3.27,3.01,Mobile App,No,2,5,5,1,3,89,70.5,60.8,No,Yes,1
+G01795,2025-10-18,Karachi,BSSE,Male,4,2.79,2.63,Mobile App,No,5,7,1,6,8,162,72.1,76.8,No,No,0
+G00951,2024-10-11,Karachi,BSAI,Female,4,2.45,1.99,Web App,No,6,4,1,4,5,215,69.1,87.8,No,No,0
+G00084,2023-10-04,Karachi,BSSE,Male,5,3.07,2.89,Mobile App,No,6,5,2,2,2,163,63.9,71.2,No,No,0
+G00247,2023-12-17,Faisalabad,BSAI,Male,3,3.31,3.19,Web App,No,8,7,0,6,4,133,66.6,84.6,No,No,0
+G01768,2025-10-08,Islamabad,BSCS,Female,2,3.25,2.52,Mobile App,Yes,12,11,3,2,4,88,74.8,77.9,No,No,0
+G01101,2024-12-18,Karachi,BSAI,Female,3,3.16,2.49,Mobile App,No,5,6,0,6,9,76,86.5,48.8,Yes,Yes,1
+G01667,2025-08-18,Islamabad,BSCS,Female,2,2.95,2.73,Research,No,6,6,1,1,5,62,68.8,64.4,No,No,0
+G00320,2024-01-21,Quetta,BSCS,Female,4,3.21,2.95,AI-ML,No,2,8,2,4,4,156,65.4,84.9,No,No,0
+G01707,2025-09-09,Multan,BSSE,Male,3,3.1,2.71,Web App,Yes,9,6,2,2,2,56,78.6,71.9,No,No,0
+G01539,2025-06-18,Karachi,BSIT,Male,4,2.67,2.05,Web App,No,7,7,1,3,4,134,69.2,61.8,No,No,0
+G01472,2025-05-25,Faisalabad,BSCS,Female,3,2.77,2.44,AI-ML,No,2,7,1,11,4,78,66.7,50.4,No,Yes,1
+G01635,2025-08-02,Karachi,BSIT,Male,4,2.94,2.44,Mobile App,No,1,10,3,8,1,25,41.9,69.5,No,No,0
+G01153,2025-01-09,Karachi,BSSE,Female,4,2.86,2.26,Web App,No,6,4,2,6,3,57,66.7,36.4,Yes,Yes,1
+G00071,2023-09-27,Quetta,BSSE,Male,3,3.47,3.27,IoT,No,9,9,0,5,1,13,72.0,57.3,No,No,0
+G01731,2025-09-19,Peshawar,BSAI,Male,3,3.45,3.23,Web App,Yes,5,8,2,6,5,165,91.5,78.5,No,No,0
+G00969,2024-10-18,Lahore,BSCS,Female,3,2.85,2.49,Web App,No,11,5,4,2,5,206,85.1,72.1,No,No,0
+G01743,2025-09-25,Lahore,BSCS,Male,4,2.29,2.22,IoT,No,4,4,0,1,3,32,50.7,46.1,Yes,Yes,1
+G01634,2025-08-01,Karachi,BSDS,Male,2,2.74,2.02,Mobile App,No,8,6,1,11,7,84,71.7,65.9,No,No,0
+G00175,2023-11-17,Lahore,BSIT,Male,2,2.87,2.59,AI-ML,No,10,8,2,2,8,47,80.7,82.5,No,No,0
+G01205,2025-01-31,Lahore,BSSE,Male,4,2.98,2.87,AI-ML,No,5,2,5,5,6,105,86.2,64.8,No,No,0
+G01174,2025-01-18,Karachi,BSDS,Female,2,2.69,2.46,Web App,No,6,2,1,2,7,65,67.0,66.3,No,No,0
+G01560,2025-06-27,Karachi,BSDS,Female,2,3.04,2.93,AI-ML,No,3,7,1,4,12,123,92.6,78.6,No,No,0
+G00571,2024-04-25,Multan,BSIT,Female,4,3.13,2.84,IoT,No,4,4,3,4,5,43,72.0,69.5,No,No,0
+G01613,2025-07-23,Multan,BSIT,Male,4,3.42,2.7,IoT,No,6,6,2,9,5,139,85.6,65.4,No,No,0
+G01519,2025-06-10,Faisalabad,BSIT,Male,3,2.97,2.73,Web App,No,4,4,0,1,5,49,68.7,67.0,No,No,0
+G00679,2024-06-12,Lahore,BSAI,Male,4,3.23,3.15,Web App,No,8,2,1,8,8,52,91.9,61.3,No,No,0
+G01235,2025-02-12,Faisalabad,BSSE,Female,4,3.72,3.69,IoT,No,11,6,1,3,3,57,73.7,70.5,No,No,0
+G00261,2023-12-22,Lahore,BSAI,Female,2,3.03,2.65,Web App,No,3,6,3,2,8,37,64.6,63.7,No,No,0
+G01520,2025-06-11,Quetta,BSDS,Female,4,3.37,3.21,AI-ML,No,3,8,1,3,12,57,83.6,79.9,No,No,0
+G01542,2025-06-19,Quetta,BSAI,Male,4,2.72,2.23,Mobile App,No,9,4,0,3,4,57,57.3,69.4,No,No,0
+G00317,2024-01-20,Peshawar,BSIT,Male,5,2.79,2.68,IoT,No,6,6,0,2,7,79,80.0,54.4,No,No,0
+G00793,2024-08-03,Lahore,BSCS,Female,3,3.73,3.61,IoT,Yes,11,7,0,2,3,32,85.2,64.8,No,No,0
+G00354,2024-02-03,Lahore,BSCS,Male,1,2.87,2.87,IoT,No,3,4,1,6,4,31,58.4,65.2,No,No,0
+G01663,2025-08-15,Lahore,BSDS,Male,5,2.71,1.94,Research,No,7,6,3,2,6,33,39.1,69.9,No,No,0
+G00829,2024-08-18,Peshawar,BSCS,Male,3,3.11,2.91,Web App,No,5,2,3,5,8,112,87.9,67.3,No,No,0
+G01148,2025-01-07,Lahore,BSDS,Female,2,3.2,2.74,Mobile App,No,6,3,4,2,6,104,75.0,77.5,No,No,0
+G00873,2024-09-09,Lahore,BSCS,Male,2,2.19,2.04,AI-ML,Yes,2,5,1,1,11,19,44.7,65.4,No,No,0
+G00845,2024-08-27,Lahore,BSSE,Male,2,2.74,2.25,Web App,No,8,4,1,10,10,46,74.8,41.2,Yes,Yes,1
+G00458,2024-03-16,Rawalpindi,BSCS,Female,4,2.51,1.92,Web App,No,4,6,0,4,3,57,39.7,51.6,Yes,Yes,1
+G01291,2025-03-06,Lahore,BSDS,Female,3,3.11,2.82,Mobile App,No,7,6,1,3,3,16,57.2,55.9,No,No,0
+G00922,2024-09-30,Lahore,BSDS,Male,3,3.08,2.81,IoT,No,10,5,1,3,5,57,71.5,63.2,No,No,0
+G01595,2025-07-16,Quetta,BSSE,Female,3,3.19,3.02,Web App,No,6,4,1,1,0,64,71.6,78.0,No,No,0
+G01316,2025-03-16,Peshawar,BSIT,Female,4,2.73,2.12,Mobile App,No,7,4,1,1,4,57,61.6,80.3,No,No,0
+G00862,2024-09-05,Karachi,BSDS,Male,3,3.41,3.19,IoT,No,6,5,3,0,8,32,63.7,71.9,No,No,0
+G00702,2024-06-21,Karachi,BSSE,Male,2,2.73,2.59,AI-ML,No,4,7,2,3,5,57,89.5,70.2,No,No,0
+G00780,2024-07-29,Multan,BSIT,Male,2,2.96,2.37,Mobile App,No,8,7,1,5,5,112,73.8,85.1,No,No,0
+G01016,2024-11-10,Rawalpindi,BSSE,Female,3,3.27,2.9,IoT,No,13,8,2,2,10,89,75.2,73.3,No,No,0
+G00983,2024-10-22,Peshawar,BSAI,Female,3,3.46,3.06,AI-ML,No,6,7,0,4,9,122,89.3,62.9,No,No,0
+G00495,2024-03-30,Multan,BSSE,Male,2,3.35,2.79,AI-ML,No,2,5,1,10,6,12,77.9,76.9,No,No,0
+G01212,2025-02-03,Lahore,BSSE,Male,3,2.68,2.35,Mobile App,No,5,5,2,2,4,21,51.7,61.5,No,No,0
+G00636,2024-05-25,Quetta,BSAI,Male,4,3.28,2.78,Research,No,27,1,1,4,0,239,66.2,62.8,No,No,0
+G00237,2023-12-09,Lahore,BSDS,Male,4,2.97,2.71,Web App,No,5,10,2,0,1,11,57.7,63.2,No,No,0
+G00477,2024-03-23,Karachi,BSDS,Female,2,3.4,2.98,Web App,No,6,8,2,0,4,50,77.7,59.0,No,No,0
+G01385,2025-04-15,Peshawar,BSIT,Male,4,2.61,2.48,Web App,No,6,7,3,5,4,63,49.4,65.3,No,No,0
+G01496,2025-06-01,Lahore,BSSE,Female,3,3.23,3.07,Web App,Yes,6,10,0,1,3,72,85.8,72.0,No,No,0
+G01032,2024-11-20,Multan,BSDS,Male,3,3.51,3.15,AI-ML,No,6,5,1,2,4,60,84.3,59.2,No,No,0
+G01548,2025-06-22,Islamabad,BSCS,Male,2,2.55,1.65,Research,Yes,15,6,0,5,6,22,45.7,51.6,Yes,Yes,1
+G01366,2025-04-09,Quetta,BSCS,Male,2,3.54,3.25,Mobile App,Yes,7,7,3,5,6,57,76.4,56.2,No,No,0
+G00256,2023-12-21,Lahore,BSSE,Male,2,3.37,2.97,AI-ML,No,4,4,0,4,8,79,77.4,71.1,No,No,0
+G00124,2023-10-22,Islamabad,BSSE,Male,3,2.92,2.79,IoT,Yes,4,10,7,3,8,57,68.7,45.5,Yes,Yes,1
+G01309,2025-03-13,Karachi,BSSE,Female,3,2.85,2.36,Mobile App,No,7,5,3,1,2,37,56.3,58.0,Yes,Yes,1
+G00190,2023-11-21,Karachi,BSSE,Female,4,2.58,2.15,Research,No,7,5,2,2,6,55,62.9,64.0,Yes,Yes,1
+G00562,2024-04-23,Lahore,BSCS,Female,2,2.9,2.27,Web App,Yes,2,6,3,0,5,109,75.0,68.7,No,No,0
+G00965,2024-10-18,Peshawar,BSAI,Female,4,2.83,2.55,Research,No,9,5,1,1,1,91,59.3,74.0,No,No,0
+G01677,2025-08-22,Rawalpindi,BSAI,Male,4,2.71,2.6,Web App,No,4,3,1,5,7,117,76.0,57.2,No,No,0
+G01051,2024-11-28,Faisalabad,BSCS,Female,3,2.97,2.45,AI-ML,No,10,5,1,3,10,111,72.0,71.1,No,No,0
+G01356,2025-04-05,Islamabad,BSIT,Male,1,3.23,3.23,Web App,No,3,9,2,3,4,62,80.4,74.3,No,No,0
+G01458,2025-05-18,Karachi,BSCS,Female,3,2.71,2.64,Mobile App,No,6,6,0,2,8,45,74.0,71.7,No,No,0
+G00353,2024-02-03,Lahore,BSAI,Female,2,3.32,3.0,AI-ML,No,18,4,1,3,5,25,87.8,55.8,No,No,0
+G00897,2024-09-19,Islamabad,BSAI,Female,4,3.5,3.34,IoT,No,3,8,0,9,0,12,59.9,58.9,Yes,Yes,1
+G01146,2025-01-06,Karachi,BSAI,Male,2,2.67,2.5,IoT,No,5,11,1,1,5,6,60.5,60.3,Yes,Yes,1
+G00807,2024-08-08,Islamabad,BSAI,Female,5,3.38,3.19,Research,No,5,8,2,1,5,188,90.1,63.0,No,No,0
+G00554,2024-04-20,Rawalpindi,BSCS,Female,3,2.81,2.51,Mobile App,No,3,5,1,3,1,53,50.8,65.1,No,No,0
+G00099,2023-10-12,Faisalabad,BSIT,Male,3,2.64,2.06,IoT,No,5,6,2,0,8,37,55.5,36.7,Yes,Yes,1
+G00238,2023-12-09,Faisalabad,BSSE,Male,3,3.03,2.9,AI-ML,No,12,2,1,3,5,83,75.3,88.1,No,No,0
+G00717,2024-06-28,Peshawar,BSSE,Female,2,2.84,2.39,AI-ML,Yes,11,7,1,2,7,81,74.3,78.8,No,No,0
+G00753,2024-07-18,Faisalabad,BSCS,Male,2,2.74,2.23,Web App,No,5,10,0,6,5,57,55.3,73.1,No,No,0
+G00541,2024-04-16,Peshawar,BSAI,Male,2,2.99,2.6,Web App,No,2,7,1,2,4,117,75.6,70.9,No,No,0
+G00765,2024-07-24,Lahore,BSAI,Female,3,3.1,2.72,Research,No,15,5,3,1,5,77,66.9,68.7,No,No,0
+G01692,2025-09-04,Faisalabad,BSDS,Male,3,3.49,3.42,Web App,No,15,6,1,3,2,78,83.9,66.1,No,No,0
+G01047,2024-11-27,Lahore,BSCS,Female,3,2.86,2.57,Mobile App,No,6,7,1,5,7,57,70.2,68.8,No,No,0
+G01747,2025-09-27,Rawalpindi,BSSE,Male,3,2.87,2.67,IoT,No,1,7,4,3,8,72,74.9,55.3,Yes,Yes,1
+G01287,2025-03-05,Rawalpindi,BSAI,Male,5,3.24,3.12,Mobile App,No,8,3,2,4,3,73,75.8,76.6,No,No,0
+G00613,2024-05-16,Quetta,BSCS,Male,3,2.93,2.64,Web App,No,4,4,4,2,10,57,74.8,78.7,No,No,0
+G01470,2025-05-25,Rawalpindi,BSAI,Female,4,2.74,2.37,Web App,No,6,6,2,1,1,45,52.1,42.3,Yes,Yes,1
+G01756,2025-10-02,Lahore,BSSE,Female,3,3.01,2.8,IoT,No,9,7,2,1,1,57,60.8,61.5,No,No,0
+G00022,2023-09-08,Peshawar,BSCS,Male,4,2.28,1.73,Research,No,4,6,3,4,0,10,33.3,54.7,Yes,Yes,1
+G01091,2024-12-13,Faisalabad,BSCS,Male,4,3.21,2.79,Web App,No,15,8,1,6,6,31,82.7,57.2,No,No,0
+G00062,2023-09-24,Lahore,BSCS,Male,5,2.53,1.95,Research,Yes,2,7,2,1,4,116,79.0,73.9,No,No,0
+G00527,2024-04-12,Islamabad,BSDS,Female,4,2.5,2.31,AI-ML,No,10,8,1,2,5,142,73.6,69.5,No,No,0
+G00902,2024-09-21,Rawalpindi,BSDS,Male,1,3.51,3.51,IoT,No,10,9,2,4,2,31,84.0,73.2,No,No,0
+G00170,2023-11-16,Faisalabad,BSCS,Male,4,2.99,2.64,IoT,No,2,9,2,1,10,64,65.3,57.2,No,No,0
+G01208,2025-02-01,Peshawar,BSIT,Male,2,2.92,2.56,Web App,No,3,6,3,4,8,127,81.1,80.1,No,No,0
+G01764,2025-10-07,Lahore,BSCS,Male,4,3.45,2.94,Mobile App,No,9,8,1,2,6,57,79.1,61.2,No,No,0
+G01022,2024-11-16,Peshawar,BSAI,Female,3,3.24,2.95,IoT,No,10,11,0,4,10,57,90.3,73.0,Yes,No,0
+G00312,2024-01-17,Karachi,BSDS,Male,3,2.84,2.74,AI-ML,No,1,6,2,4,3,39,58.6,79.8,No,No,0
+G01597,2025-07-17,Peshawar,BSDS,Male,2,3.24,2.34,Web App,Yes,11,7,3,1,1,33,63.3,69.3,No,No,0
+G00045,2023-09-16,Rawalpindi,BSIT,Male,3,2.76,2.01,Research,No,4,8,0,3,4,49,65.6,49.1,No,Yes,1
+G00341,2024-01-29,Peshawar,BSCS,Female,3,2.95,2.6,Web App,No,9,3,2,3,8,34,67.1,70.4,No,No,0
+G00726,2024-07-04,Quetta,BSAI,Female,4,2.35,1.5,Mobile App,No,5,4,0,5,7,57,64.1,55.5,Yes,Yes,1
+G01763,2025-10-06,Peshawar,BSIT,Male,2,2.73,2.44,Web App,No,5,2,1,3,8,53,86.6,69.0,No,No,0
+G00792,2024-08-03,Peshawar,BSAI,Female,3,3.03,2.21,AI-ML,No,4,9,2,3,12,9,78.2,74.3,No,No,0
+G00280,2023-12-31,Rawalpindi,BSSE,Male,5,2.66,2.48,Web App,No,6,5,2,4,7,16,52.3,49.6,Yes,Yes,1
+G01510,2025-06-06,Multan,BSCS,Male,3,3.35,3.19,IoT,No,1,6,3,2,3,34,65.2,77.7,No,No,0
+G01320,2025-03-18,Karachi,BSSE,Male,5,2.75,2.09,Mobile App,No,6,5,2,2,5,17,46.9,65.1,No,No,0
+G00539,2024-04-16,Rawalpindi,BSSE,Male,4,3.36,3.09,AI-ML,No,12,11,3,7,2,8,60.3,46.5,Yes,Yes,1
+G01579,2025-07-09,Rawalpindi,BSAI,Male,3,3.68,2.83,Mobile App,No,10,1,1,0,1,39,78.5,76.9,No,No,0
+G00642,2024-05-29,Faisalabad,BSAI,Female,3,3.41,3.17,Research,No,6,5,1,3,2,15,79.2,63.1,No,No,0
+G01439,2025-05-12,Karachi,BSSE,Male,3,3.13,2.84,IoT,No,2,7,1,4,6,32,79.3,71.4,No,No,0
+G00478,2024-03-23,Lahore,BSAI,Male,1,3.01,3.01,Web App,Yes,1,4,2,5,9,34,69.0,81.7,No,No,0
+G00937,2024-10-04,Karachi,BSSE,Female,5,2.55,1.89,Web App,No,1,8,0,9,7,30,53.8,51.2,Yes,Yes,1
+G01408,2025-04-29,Lahore,BSCS,Male,1,2.59,2.59,Web App,No,10,7,0,2,7,9,67.9,72.2,No,No,0
+G00783,2024-07-31,Lahore,BSSE,Male,3,2.36,2.07,AI-ML,No,14,4,1,3,6,29,70.8,61.1,No,No,0
+G01525,2025-06-12,Peshawar,BSCS,Male,5,3.26,3.02,IoT,No,2,8,4,3,3,60,72.9,54.3,Yes,Yes,1
+G00596,2024-05-08,Lahore,BSSE,Female,1,2.76,2.76,AI-ML,Yes,14,3,1,1,5,57,69.4,54.4,No,No,0
+G00325,2024-01-23,Rawalpindi,BSDS,Male,3,3.29,2.8,AI-ML,No,1,9,1,4,6,60,81.3,71.4,No,No,0
+G01406,2025-04-27,Rawalpindi,BSSE,Female,4,3.2,3.13,Web App,Yes,6,6,1,3,10,36,74.8,68.1,No,No,0
+G00736,2024-07-09,Lahore,BSSE,Male,3,3.48,3.11,AI-ML,No,5,7,0,5,8,49,84.4,78.3,No,No,0
+G01265,2025-02-22,Faisalabad,BSSE,Male,4,3.43,3.32,Mobile App,No,7,4,3,1,8,100,83.1,58.7,No,No,0
+G00648,2024-06-01,Rawalpindi,BSAI,Male,4,3.4,3.26,AI-ML,No,5,8,0,3,6,86,79.9,70.7,No,No,0
+G00150,2023-11-02,Quetta,BSSE,Male,3,3.55,3.05,IoT,No,14,5,0,3,6,77,80.0,87.3,No,No,0
+G01436,2025-05-11,Lahore,BSSE,Male,3,2.41,1.92,Mobile App,Yes,1,11,2,5,4,105,60.1,48.9,Yes,Yes,1
+G01098,2024-12-16,Lahore,BSSE,Female,3,2.68,1.89,AI-ML,No,27,4,2,1,3,149,71.6,77.6,No,No,0
+G01284,2025-03-03,Karachi,BSSE,Male,3,3.05,2.65,AI-ML,No,4,6,1,4,4,66,73.1,51.5,No,Yes,1
+G01652,2025-08-10,Multan,BSAI,Female,3,2.3,2.15,Mobile App,No,2,6,1,3,3,18,47.8,52.0,Yes,Yes,1
+G01517,2025-06-08,Multan,BSDS,Male,4,2.99,2.69,Web App,No,11,6,2,14,8,45,76.0,45.2,Yes,Yes,1
+G00953,2024-10-11,Rawalpindi,BSSE,Female,3,3.11,2.76,Mobile App,No,6,7,1,2,5,57,72.0,65.8,No,No,0
+G00572,2024-04-25,Peshawar,BSDS,Female,3,3.34,2.87,AI-ML,No,1,5,2,5,7,119,80.0,55.0,No,No,0
+G00670,2024-06-09,Islamabad,BSAI,Male,3,2.98,2.69,Web App,No,12,6,3,3,6,51,60.8,78.4,No,No,0
+G00772,2024-07-25,Lahore,BSCS,Male,3,2.92,2.77,AI-ML,No,9,6,5,6,5,125,77.5,68.4,No,No,0
+G01378,2025-04-14,Karachi,BSCS,Male,4,2.73,1.83,Research,No,3,10,3,0,4,156,85.9,68.9,No,No,0
+G00279,2023-12-31,Peshawar,BSDS,Female,2,3.75,3.46,Web App,No,8,6,1,2,4,22,82.5,79.6,No,No,0
+G00696,2024-06-20,Karachi,BSCS,Male,2,2.86,2.55,Web App,No,5,5,1,6,2,75,73.4,73.6,Yes,No,0
+G00034,2023-09-10,Islamabad,BSAI,Male,4,3.1,2.97,IoT,No,1,8,2,3,5,84,70.4,68.7,No,No,0
+G00721,2024-06-30,Karachi,BSCS,Female,4,2.6,2.43,AI-ML,No,6,3,2,4,12,43,59.9,69.6,No,No,0
+G01350,2025-04-03,Islamabad,BSDS,Female,2,3.2,2.82,AI-ML,No,3,7,1,7,5,55,70.0,74.8,No,No,0
+G00395,2024-02-20,Islamabad,BSCS,Male,3,2.67,2.45,Web App,No,5,5,0,4,5,25,63.4,52.1,Yes,Yes,1
+G00972,2024-10-19,Karachi,BSSE,Male,4,3.09,2.99,AI-ML,No,1,9,0,3,2,76,69.9,69.9,No,No,0
+G00350,2024-02-02,Islamabad,BSAI,Female,4,3.2,2.92,Mobile App,No,16,5,0,8,5,216,95.2,72.5,No,No,0
+G01368,2025-04-10,Rawalpindi,BSCS,Male,4,3.2,2.91,Mobile App,No,16,6,0,1,4,284,81.2,63.4,No,No,0
+G00536,2024-04-15,Lahore,BSSE,Female,3,2.96,2.71,Mobile App,No,3,8,1,8,9,71,72.0,70.3,Yes,No,0
+G00448,2024-03-11,Lahore,BSCS,Female,4,3.23,2.78,Web App,No,4,5,3,10,3,43,72.0,44.9,Yes,Yes,1
+G01092,2024-12-13,Rawalpindi,BSSE,Female,2,2.92,2.55,AI-ML,No,4,2,2,4,4,34,70.7,80.1,No,No,0
+G01056,2024-11-29,Multan,BSCS,Female,1,3.01,3.01,Web App,No,6,4,1,1,3,25,67.9,77.3,No,No,0
+G00345,2024-01-30,Multan,BSSE,Female,5,3.55,2.65,Web App,Yes,11,6,3,3,8,153,91.4,80.5,No,No,0
+G01179,2025-01-21,Peshawar,BSCS,Male,2,3.19,3.01,Web App,No,15,7,0,3,6,37,72.0,59.6,No,No,0
+G00263,2023-12-23,Faisalabad,BSIT,Male,2,2.23,2.14,Research,Yes,4,8,0,2,6,75,72.0,68.0,No,No,0
+G01789,2025-10-14,Islamabad,BSDS,Female,3,3.39,2.82,Research,Yes,5,5,0,3,6,81,87.8,92.8,No,No,0
+G00287,2024-01-05,Faisalabad,BSIT,Female,3,3.37,2.79,AI-ML,No,6,9,3,1,8,20,74.3,68.4,No,No,0
+G00752,2024-07-18,Faisalabad,BSAI,Female,4,2.52,2.43,Mobile App,No,3,7,2,3,4,57,51.8,45.4,Yes,Yes,1
+G00857,2024-09-03,Multan,BSAI,Male,2,2.53,1.63,Mobile App,No,6,10,3,1,5,116,69.1,68.2,No,No,0
+G01072,2024-12-07,Multan,BSSE,Female,4,3.08,2.3,IoT,No,4,5,1,2,2,84,66.3,40.3,Yes,Yes,1
+G00369,2024-02-10,Peshawar,BSAI,Male,3,2.71,2.15,Mobile App,No,7,3,0,2,4,142,72.0,73.0,No,No,0
+G01132,2025-01-01,Peshawar,BSSE,Male,3,2.75,2.6,Mobile App,No,4,5,1,1,3,85,63.5,66.9,No,No,0
+G00537,2024-04-15,Faisalabad,BSSE,Female,4,2.97,2.81,Mobile App,No,6,7,0,2,8,68,69.6,71.7,No,No,0
+G00482,2024-03-25,Islamabad,BSIT,Female,3,2.57,2.18,Mobile App,No,6,7,1,3,7,71,72.0,63.9,No,No,0
+G00610,2024-05-15,Islamabad,BSCS,Female,3,3.04,2.66,Research,No,11,9,1,3,2,126,82.3,79.4,No,No,0
+G01171,2025-01-17,Islamabad,BSIT,Female,5,3.0,2.8,Web App,No,3,2,2,12,4,112,60.8,83.7,No,No,0
+G00248,2023-12-17,Peshawar,BSAI,Female,4,3.07,2.78,AI-ML,No,12,9,1,2,11,52,84.3,75.6,No,No,0
+G00310,2024-01-16,Multan,BSAI,Male,4,3.18,2.93,Web App,No,9,7,1,2,6,86,68.7,69.4,No,No,0
+G01166,2025-01-16,Faisalabad,BSSE,Female,4,3.08,2.62,Web App,No,6,8,1,3,9,56,75.7,75.5,No,No,0
+G00758,2024-07-20,Rawalpindi,BSSE,Female,3,3.48,3.14,Web App,No,8,5,0,3,5,46,72.0,70.5,No,No,0
+G00567,2024-04-24,Peshawar,BSCS,Female,2,3.65,3.17,Web App,No,3,9,3,1,5,145,96.4,81.1,No,No,0
+G00577,2024-04-27,Karachi,BSDS,Male,3,2.61,1.97,Mobile App,No,7,9,1,5,11,41,63.6,73.1,No,No,0
+G01188,2025-01-24,Karachi,BSCS,Male,4,3.58,3.29,AI-ML,No,6,9,1,2,8,64,87.5,68.1,No,No,0
+G01723,2025-09-17,Multan,BSSE,Male,2,3.51,2.93,IoT,No,4,3,1,1,5,46,70.4,81.5,No,No,0
+G01234,2025-02-11,Karachi,BSCS,Female,3,3.45,3.1,Mobile App,No,3,6,2,6,8,68,85.9,75.6,No,No,0
+G01713,2025-09-11,Rawalpindi,BSCS,Male,2,3.0,2.63,AI-ML,No,2,8,0,2,7,53,74.8,63.0,No,No,0
+G00701,2024-06-21,Multan,BSSE,Male,3,3.12,2.89,Mobile App,No,6,10,0,4,2,27,72.2,89.5,No,No,0
+G00165,2023-11-14,Islamabad,BSIT,Female,3,2.99,2.49,Web App,No,8,4,6,3,5,18,54.7,38.6,Yes,Yes,1
+G01313,2025-03-15,Multan,BSSE,Female,4,3.46,3.36,Web App,No,13,6,2,1,6,169,87.3,65.1,No,No,0
+G00196,2023-11-24,Quetta,BSAI,Female,2,2.83,2.54,Web App,No,11,3,1,1,5,20,53.5,73.2,No,No,0
+G00787,2024-08-02,Faisalabad,BSCS,Male,5,2.85,2.68,Web App,No,6,2,1,3,3,82,58.8,72.9,No,No,0
+G00674,2024-06-10,Multan,BSSE,Male,2,3.22,2.95,Research,No,1,4,1,2,0,57,60.4,67.2,No,No,0
+G00832,2024-08-19,Lahore,BSCS,Female,4,2.71,2.61,AI-ML,No,7,4,1,1,2,47,67.6,57.2,Yes,Yes,1
+G00471,2024-03-21,Faisalabad,BSSE,Male,5,3.02,2.74,Mobile App,No,5,9,1,4,4,132,75.7,65.5,No,No,0
+G01550,2025-06-22,Multan,BSIT,Female,2,3.1,2.7,Web App,No,13,7,1,12,5,32,56.4,74.6,No,No,0
+G01152,2025-01-09,Faisalabad,BSCS,Female,3,2.86,2.47,AI-ML,No,3,7,1,1,5,208,75.3,58.7,No,No,0
+G00708,2024-06-22,Karachi,BSAI,Male,5,2.98,2.9,Web App,No,14,7,3,2,5,57,76.9,70.2,No,No,0
+G01194,2025-01-27,Lahore,BSCS,Female,5,3.03,2.77,Research,No,10,8,1,2,5,33,70.0,66.1,No,No,0
+G00837,2024-08-23,Lahore,BSAI,Female,4,3.5,3.28,Mobile App,No,8,7,1,5,8,57,80.8,93.6,No,No,0
+G00379,2024-02-13,Quetta,BSCS,Female,4,3.46,3.11,IoT,No,5,3,3,4,5,73,81.9,65.9,No,No,0
+G01532,2025-06-15,Lahore,BSIT,Male,2,3.75,3.13,Mobile App,No,2,6,1,4,3,88,84.9,63.3,No,No,0
+G00047,2023-09-16,Faisalabad,BSCS,Male,3,2.85,2.59,Mobile App,Yes,7,8,1,3,5,25,70.7,81.5,No,No,0
+G00204,2023-11-26,Lahore,BSDS,Female,5,3.39,2.76,AI-ML,No,3,7,4,2,8,91,87.5,55.4,Yes,Yes,1
+G01384,2025-04-15,Rawalpindi,BSIT,Male,4,2.94,2.26,IoT,No,8,5,2,0,6,63,69.4,61.9,No,No,0
+G00027,2023-09-09,Faisalabad,BSCS,Male,4,2.65,2.48,Mobile App,No,12,5,3,2,5,10,72.0,53.4,Yes,Yes,1
+G00383,2024-02-16,Multan,BSSE,Female,2,3.01,2.77,Mobile App,No,10,5,2,4,0,34,64.6,63.2,No,No,0
+G01050,2024-11-28,Peshawar,BSCS,Male,2,3.49,3.43,Web App,No,7,6,0,1,7,73,83.4,73.0,No,No,0
+G01323,2025-03-18,Quetta,BSSE,Male,2,3.59,3.22,Web App,No,3,7,0,3,7,34,81.4,70.8,No,No,0
+G00703,2024-06-21,Quetta,BSCS,Male,4,3.54,3.03,Mobile App,No,8,4,3,1,1,55,62.5,75.8,No,No,0
+G00431,2024-03-03,Faisalabad,BSSE,Female,4,3.22,3.02,Mobile App,No,6,4,1,4,7,39,81.1,70.2,No,No,0
+G00997,2024-10-29,Karachi,BSAI,Female,2,2.98,2.4,AI-ML,No,4,3,1,8,6,49,64.1,60.1,Yes,Yes,1
+G01185,2025-01-23,Peshawar,BSCS,Male,3,2.97,2.75,AI-ML,No,3,8,1,2,11,77,92.4,70.0,No,No,0
+G00578,2024-04-29,Lahore,BSSE,Female,5,2.74,1.96,Web App,No,10,2,1,1,10,205,79.0,84.5,No,No,0
+G01566,2025-06-28,Peshawar,BSCS,Female,4,3.0,2.45,Web App,No,5,4,2,1,6,48,67.4,85.5,No,No,0
+G00272,2023-12-28,Karachi,BSAI,Female,2,3.36,3.28,Web App,No,4,4,1,0,6,61,78.6,92.0,No,No,0
+G00164,2023-11-13,Faisalabad,BSCS,Male,2,2.5,2.43,Mobile App,No,14,5,2,3,6,44,65.5,69.9,No,No,0
+G00289,2024-01-06,Lahore,BSCS,Male,1,3.37,3.37,AI-ML,No,3,7,2,4,6,78,74.3,75.3,No,No,0
+G00130,2023-10-23,Multan,BSAI,Male,4,2.66,2.46,AI-ML,Yes,1,3,1,5,9,136,82.9,75.2,No,No,0
+G01276,2025-02-28,Rawalpindi,BSSE,Male,4,3.29,3.1,Research,No,3,6,1,2,5,57,67.2,64.3,No,No,0
+G00096,2023-10-10,Lahore,BSCS,Male,1,2.75,2.75,IoT,No,4,9,0,3,3,32,63.6,74.7,No,No,0
+G00465,2024-03-18,Faisalabad,BSSE,Male,3,3.65,2.88,Web App,No,15,4,3,8,4,21,75.8,43.9,Yes,Yes,1
+G00504,2024-04-03,Quetta,BSIT,Female,3,3.2,2.85,Web App,No,8,6,2,2,6,34,72.0,70.4,No,No,0
+G01674,2025-08-21,Islamabad,BSSE,Female,2,3.27,2.98,AI-ML,No,13,6,2,0,9,57,92.4,68.5,No,No,0
+G01427,2025-05-05,Quetta,BSDS,Male,3,2.71,1.9,AI-ML,No,6,6,4,2,3,41,72.0,25.7,No,Yes,1
+G00356,2024-02-03,Karachi,BSCS,Female,4,2.78,2.57,Mobile App,No,3,11,1,3,1,145,55.2,98.6,No,No,0
+G00483,2024-03-25,Karachi,BSIT,Male,4,2.82,1.98,AI-ML,No,6,6,3,0,0,143,66.1,68.9,No,No,0
+G01489,2025-05-30,Lahore,BSIT,Female,5,2.76,2.54,AI-ML,No,6,4,2,5,2,150,57.4,67.6,No,No,0
+G00671,2024-06-10,Peshawar,BSDS,Female,4,3.1,2.75,Research,No,11,5,2,2,1,57,69.4,83.9,No,No,0
+G00078,2023-10-01,Multan,BSDS,Male,4,2.56,2.2,Mobile App,Yes,4,3,0,6,3,31,43.1,80.6,No,No,0
+G01570,2025-06-30,Karachi,BSCS,Male,2,3.31,2.76,IoT,No,6,5,5,4,2,54,68.3,68.4,No,No,0
+G00611,2024-05-15,Karachi,BSCS,Male,5,2.8,2.59,Mobile App,No,8,5,2,3,4,32,77.1,68.0,No,No,0
+G01121,2024-12-29,Peshawar,BSIT,Female,2,3.39,2.91,Mobile App,No,1,4,4,2,5,79,91.7,67.0,No,No,0
+G01683,2025-08-27,Peshawar,BSIT,Male,2,3.02,2.43,Mobile App,No,18,8,3,3,6,36,58.2,76.7,No,No,0
+G00593,2024-05-07,Lahore,BSAI,Female,4,3.46,2.79,AI-ML,Yes,9,5,1,3,6,49,82.5,64.2,No,No,0
+G00040,2023-09-14,Multan,BSAI,Female,4,2.15,1.82,Research,No,1,5,1,2,5,56,37.9,60.2,No,No,0
+G00044,2023-09-16,Karachi,BSSE,Male,2,3.95,3.83,AI-ML,No,9,5,4,1,9,58,88.4,68.3,No,No,0
+G00866,2024-09-07,Islamabad,BSSE,Male,4,2.86,2.41,AI-ML,No,3,7,2,1,10,34,69.9,84.6,No,No,0
+G01280,2025-03-02,Faisalabad,BSAI,Male,3,3.32,3.03,Web App,No,7,9,0,8,12,54,72.6,77.2,No,No,0
+G01198,2025-01-28,Quetta,BSAI,Male,3,3.34,3.19,AI-ML,No,6,6,3,1,2,39,81.9,83.9,No,No,0
+G01380,2025-04-14,Karachi,BSIT,Female,3,3.13,2.79,IoT,No,5,5,1,2,4,76,74.3,63.6,No,No,0
+G00574,2024-04-26,Faisalabad,BSAI,Male,3,3.3,2.77,AI-ML,Yes,6,8,1,4,8,112,86.3,66.2,No,No,0
+G00290,2024-01-07,Multan,BSDS,Male,3,2.92,2.54,Research,No,2,5,2,2,3,14,67.8,34.1,Yes,Yes,1
+G01193,2025-01-27,Rawalpindi,BSIT,Female,2,2.77,2.54,Mobile App,No,5,7,0,3,3,140,68.1,73.7,No,No,0
+G00244,2023-12-15,Karachi,BSCS,Male,4,3.17,2.57,AI-ML,No,6,4,1,0,7,23,79.8,46.4,Yes,Yes,1
+G01018,2024-11-11,Lahore,BSAI,Female,3,2.61,2.39,Research,No,15,8,2,1,4,145,68.9,77.4,No,No,0
+G00411,2024-02-26,Karachi,BSCS,Male,4,3.32,3.21,AI-ML,No,5,10,3,4,5,122,72.7,76.7,No,No,0
+G01330,2025-03-22,Islamabad,BSDS,Male,4,2.61,2.41,Research,No,5,7,4,2,4,48,53.3,65.7,No,No,0
+G00401,2024-02-22,Islamabad,BSCS,Male,3,2.97,2.82,Web App,No,6,11,2,2,4,32,55.1,66.6,Yes,Yes,1
+G01779,2025-10-11,Islamabad,BSCS,Male,3,3.22,2.88,Web App,No,7,4,1,2,5,20,75.8,69.1,Yes,No,0
+G01773,2025-10-09,Karachi,BSCS,Male,3,3.86,3.59,AI-ML,No,5,7,1,3,3,73,75.8,72.0,No,No,0
+G01671,2025-08-20,Karachi,BSDS,Female,4,3.38,3.05,Web App,No,2,13,1,5,2,40,76.2,68.2,No,No,0
+G01240,2025-02-14,Karachi,BSAI,Female,5,2.97,2.89,Web App,No,5,10,1,4,4,96,82.6,60.6,No,No,0
+G01086,2024-12-12,Peshawar,BSDS,Female,3,2.82,2.65,Mobile App,No,4,5,0,3,8,57,85.7,71.0,Yes,No,0
+G01797,2025-10-18,Karachi,BSAI,Male,4,3.26,3.07,AI-ML,No,16,6,1,2,5,109,88.9,71.1,No,No,0
+G00900,2024-09-21,Multan,BSAI,Male,4,3.31,3.21,Web App,No,10,4,5,5,5,198,73.9,74.9,No,No,0
+G00878,2024-09-10,Rawalpindi,BSAI,Female,4,3.2,2.7,Web App,No,16,9,1,2,6,200,90.2,78.6,No,No,0
+G01712,2025-09-11,Faisalabad,BSCS,Male,4,3.61,3.32,Mobile App,No,5,6,1,2,7,78,94.2,73.7,No,No,0
+G00545,2024-04-17,Islamabad,BSCS,Male,4,2.6,1.97,Mobile App,No,3,6,0,3,3,63,50.5,48.3,Yes,Yes,1
+G00149,2023-11-01,Lahore,BSCS,Male,3,3.03,2.55,Web App,No,6,6,0,3,4,113,76.7,62.3,No,No,0
+G01404,2025-04-26,Multan,BSIT,Male,2,2.9,2.78,Web App,Yes,15,8,4,5,8,119,91.0,72.0,No,No,0
+G01460,2025-05-21,Rawalpindi,BSIT,Male,4,2.72,2.55,IoT,Yes,5,9,1,5,4,74,72.0,94.9,No,No,0
+G00361,2024-02-05,Rawalpindi,BSCS,Male,3,2.4,2.17,AI-ML,No,4,7,2,5,5,74,71.1,54.7,Yes,Yes,1
+G01679,2025-08-25,Islamabad,BSIT,Female,3,3.55,3.53,AI-ML,No,3,11,2,5,4,22,81.2,41.7,No,No,0
+G01007,2024-11-04,Lahore,BSDS,Male,4,2.86,2.57,IoT,No,3,8,0,1,3,24,68.0,48.6,Yes,Yes,1
+G00926,2024-10-01,Karachi,BSDS,Female,5,3.06,2.77,Web App,No,7,7,1,1,9,61,82.5,70.7,No,No,0
+G01006,2024-11-04,Faisalabad,BSSE,Male,5,3.2,3.06,Web App,No,3,6,0,2,9,29,77.2,78.0,No,No,0
+G01034,2024-11-20,Lahore,BSIT,Female,2,3.01,2.94,Web App,No,5,8,4,5,5,70,81.4,79.3,No,No,0
+G01371,2025-04-11,Multan,BSAI,Male,3,2.47,1.6,Mobile App,Yes,13,9,1,8,9,98,53.2,77.9,No,No,0
+G01301,2025-03-10,Lahore,BSIT,Female,3,3.83,3.57,IoT,No,6,9,2,4,6,7,94.1,65.9,No,No,0
+G00532,2024-04-14,Karachi,BSIT,Male,3,3.13,2.64,Research,No,3,7,3,1,2,62,66.6,54.4,Yes,No,0
+G01396,2025-04-23,Peshawar,BSIT,Female,4,3.52,2.92,AI-ML,No,6,6,0,3,6,57,76.3,70.4,Yes,No,0
+G01238,2025-02-13,Faisalabad,BSCS,Male,4,2.89,2.58,IoT,No,12,7,2,0,9,57,78.6,72.5,No,No,0
+G00178,2023-11-18,Quetta,BSCS,Female,2,3.11,2.86,AI-ML,No,3,10,1,4,1,50,64.3,74.8,No,No,0
+G00827,2024-08-17,Lahore,BSDS,Female,4,2.67,2.34,Mobile App,No,6,4,1,7,2,124,55.8,84.0,Yes,No,0
+G00850,2024-08-30,Multan,BSDS,Male,2,3.43,3.13,Mobile App,No,3,5,1,3,9,4,82.6,63.9,No,No,0
+G00372,2024-02-11,Karachi,BSAI,Female,4,3.44,3.4,IoT,No,6,8,2,0,5,43,69.9,86.1,No,No,0
+G00626,2024-05-21,Karachi,BSSE,Female,3,3.73,3.69,AI-ML,No,8,9,3,1,1,60,81.5,81.5,No,No,0
+G00347,2024-01-31,Karachi,BSAI,Female,5,3.18,3.12,Mobile App,No,7,5,1,6,4,21,73.8,44.7,No,Yes,1
+G00129,2023-10-23,Quetta,BSAI,Male,5,3.02,2.82,IoT,No,14,9,0,5,9,24,73.9,46.0,Yes,Yes,1
+G01335,2025-03-26,Quetta,BSIT,Female,4,3.11,3.02,IoT,No,5,4,1,3,8,80,81.7,79.0,No,No,0
+G00355,2024-02-03,Islamabad,BSDS,Male,3,2.79,2.5,Web App,No,17,4,1,4,2,84,61.0,78.4,No,No,0
+G00332,2024-01-24,Karachi,BSDS,Male,4,3.46,3.04,Web App,No,4,6,1,2,2,41,74.6,83.9,No,No,0
+G00195,2023-11-23,Quetta,BSSE,Female,4,2.54,2.25,Web App,No,18,5,0,7,5,13,49.7,85.5,No,No,0
+G00087,2023-10-07,Peshawar,BSDS,Male,2,2.96,2.36,AI-ML,Yes,1,8,2,6,5,66,64.2,36.4,Yes,Yes,1
+G01389,2025-04-19,Karachi,BSCS,Female,3,3.11,3.0,AI-ML,No,13,3,1,3,8,6,86.6,66.4,No,No,0
+G00647,2024-06-01,Multan,BSCS,Male,4,3.15,2.86,IoT,No,1,7,2,2,6,38,74.5,56.2,No,No,0
+G00690,2024-06-16,Lahore,BSCS,Male,4,3.12,2.65,IoT,Yes,6,6,1,1,6,28,76.8,71.4,No,No,0
+G01296,2025-03-08,Multan,BSSE,Male,3,2.86,2.19,Research,No,6,4,3,7,8,14,51.0,74.8,No,No,0
+G00064,2023-09-25,Lahore,BSCS,Female,2,3.42,2.85,AI-ML,No,9,2,3,7,5,57,72.0,83.2,No,No,0
+G00663,2024-06-05,Peshawar,BSIT,Male,2,2.95,2.32,AI-ML,No,4,6,4,7,8,117,90.7,69.6,No,No,0
+G00105,2023-10-13,Multan,BSSE,Female,3,2.36,2.07,Web App,No,6,8,0,9,0,178,60.8,66.3,No,No,0
+G00894,2024-09-18,Lahore,BSDS,Female,3,3.4,3.12,Mobile App,No,9,8,4,5,4,77,69.9,69.4,No,No,0
+G00412,2024-02-26,Karachi,BSAI,Female,5,3.32,2.45,Mobile App,No,2,10,1,5,0,85,65.5,46.4,Yes,Yes,1
+G00335,2024-01-27,Multan,BSCS,Female,4,2.81,2.52,IoT,No,1,8,2,3,7,31,65.5,52.7,No,Yes,1
+G01325,2025-03-18,Faisalabad,BSAI,Male,1,3.03,3.03,Web App,No,7,9,1,3,5,50,77.2,72.4,No,No,0
+G00989,2024-10-26,Rawalpindi,BSAI,Female,4,3.4,2.96,Research,No,5,4,0,4,3,154,86.3,60.8,Yes,Yes,1
+G00777,2024-07-27,Quetta,BSIT,Female,3,2.92,2.66,Research,No,5,4,1,1,11,53,72.0,71.9,No,No,0
+G01096,2024-12-15,Quetta,BSAI,Male,3,2.37,2.3,Web App,No,6,9,3,1,10,59,60.6,64.8,Yes,Yes,1
+G00824,2024-08-16,Islamabad,BSAI,Female,3,3.81,3.34,Mobile App,No,7,6,2,6,6,109,88.2,76.4,No,No,0
+G01165,2025-01-16,Peshawar,BSCS,Female,4,3.42,3.02,Web App,Yes,3,8,1,7,5,48,74.4,80.2,No,No,0
+G00564,2024-04-23,Rawalpindi,BSSE,Male,3,2.91,2.75,AI-ML,No,13,7,2,2,7,77,70.9,67.6,No,No,0
+G01499,2025-06-02,Quetta,BSCS,Male,2,3.51,3.15,AI-ML,No,3,5,2,1,9,70,94.6,85.9,No,No,0
+G01415,2025-05-02,Quetta,BSCS,Male,4,3.26,3.18,Mobile App,No,12,6,3,9,9,17,70.5,69.1,No,No,0
+G00462,2024-03-17,Rawalpindi,BSDS,Female,3,3.59,3.39,Mobile App,Yes,6,5,2,1,3,66,78.6,84.1,No,No,0
+G00557,2024-04-21,Lahore,BSCS,Female,3,3.18,2.74,IoT,Yes,7,7,2,0,5,50,59.0,48.3,No,No,0
+G00203,2023-11-25,Rawalpindi,BSSE,Female,5,2.73,2.69,Research,No,6,7,2,0,1,57,72.4,66.5,No,No,0
+G01102,2024-12-18,Karachi,BSIT,Female,2,3.46,3.17,IoT,No,2,6,6,1,3,172,84.4,72.6,No,No,0
+G00425,2024-03-01,Multan,BSCS,Female,4,3.36,3.14,Web App,No,6,6,1,1,4,44,78.8,78.0,No,No,0
+G01621,2025-07-26,Islamabad,BSAI,Female,2,3.0,2.92,AI-ML,No,3,10,1,1,7,7,81.5,62.4,No,No,0
+G00193,2023-11-23,Peshawar,BSSE,Male,3,3.0,2.69,AI-ML,Yes,9,9,2,2,6,20,72.0,53.7,Yes,Yes,1
+G01432,2025-05-09,Karachi,BSCS,Female,2,3.35,2.94,Research,No,4,6,0,6,7,118,77.6,66.9,No,No,0
+G00067,2023-09-25,Rawalpindi,BSDS,Female,3,3.61,3.5,Mobile App,No,10,6,2,9,5,60,73.7,55.1,Yes,Yes,1
+G00520,2024-04-08,Peshawar,BSAI,Female,3,2.97,2.23,Web App,No,19,3,3,7,2,91,59.5,69.4,No,No,0
+G00740,2024-07-12,Karachi,BSCS,Male,4,3.3,2.94,Web App,No,13,7,1,2,5,66,74.3,56.3,No,No,0
+G00385,2024-02-17,Multan,BSAI,Male,1,2.84,2.84,Research,No,4,8,0,9,9,37,80.7,61.8,No,No,0
+G00559,2024-04-22,Peshawar,BSCS,Female,5,2.98,2.69,Research,No,4,9,2,1,1,97,52.2,66.4,No,No,0
+G01375,2025-04-13,Karachi,BSDS,Female,4,2.56,1.66,Web App,No,9,10,4,10,12,114,49.2,48.7,Yes,Yes,1
+G00447,2024-03-11,Rawalpindi,BSCS,Male,3,3.48,3.32,Research,No,3,5,1,3,2,28,70.3,57.7,Yes,Yes,1
+G01094,2024-12-14,Faisalabad,BSCS,Female,3,2.86,2.34,AI-ML,No,6,7,2,2,6,104,69.1,61.4,No,No,0
+G00426,2024-03-01,Karachi,BSIT,Male,5,3.31,3.02,Mobile App,No,7,3,0,3,3,122,76.7,70.5,No,No,0
+G01119,2024-12-28,Lahore,BSDS,Female,3,2.23,1.93,AI-ML,No,7,6,0,1,5,106,72.0,96.5,No,No,0
+G01749,2025-09-28,Lahore,BSIT,Male,2,3.21,2.94,AI-ML,No,3,5,2,5,7,133,83.8,84.4,Yes,No,0
+G00785,2024-08-01,Rawalpindi,BSCS,Male,3,2.97,2.27,Research,Yes,8,6,1,3,2,31,55.2,70.3,No,No,0
+G00435,2024-03-05,Lahore,BSAI,Female,5,3.04,2.75,Mobile App,No,12,4,2,3,3,71,63.5,68.3,No,No,0
+G01725,2025-09-17,Karachi,BSSE,Male,4,3.38,2.48,Web App,Yes,7,8,4,6,4,27,73.0,60.4,No,No,0
+G01491,2025-05-31,Faisalabad,BSCS,Male,3,3.24,3.06,Research,Yes,5,4,0,2,8,73,81.8,76.9,No,No,0
+G01338,2025-03-28,Lahore,BSCS,Female,2,2.92,2.77,Research,No,7,12,2,3,6,26,67.6,81.0,No,No,0
+G00340,2024-01-28,Islamabad,BSCS,Male,3,2.92,2.77,AI-ML,Yes,6,14,1,3,3,21,72.0,89.4,No,No,0
+G00498,2024-03-31,Quetta,BSCS,Female,3,2.89,2.46,Web App,No,3,4,2,7,4,42,62.3,49.4,No,No,0
+G00565,2024-04-23,Islamabad,BSSE,Female,5,3.25,3.12,Web App,No,8,11,1,5,2,62,63.4,56.1,Yes,Yes,1
+G00688,2024-06-15,Lahore,BSSE,Female,3,2.85,2.56,Mobile App,No,7,12,0,5,4,71,57.7,50.7,No,Yes,1
+G01312,2025-03-14,Peshawar,BSCS,Male,4,3.64,3.01,Mobile App,Yes,8,5,1,16,7,57,77.8,61.8,No,No,0
+G00981,2024-10-21,Islamabad,BSCS,Male,3,2.5,1.6,IoT,No,6,6,0,5,7,12,44.0,69.9,No,No,0
+G01357,2025-04-06,Rawalpindi,BSCS,Male,4,3.05,2.74,Web App,No,2,6,4,2,4,8,58.8,47.3,Yes,Yes,1
+G00026,2023-09-09,Rawalpindi,BSAI,Female,3,3.03,2.94,Mobile App,No,9,4,2,5,12,29,71.6,66.1,No,No,0
+G00747,2024-07-15,Lahore,BSCS,Female,3,2.86,1.98,Web App,Yes,12,6,1,5,5,57,66.4,64.5,No,No,0
+G00246,2023-12-16,Lahore,BSSE,Male,2,3.65,3.41,AI-ML,No,5,6,2,1,0,91,72.5,73.0,No,No,0
+G01319,2025-03-17,Islamabad,BSSE,Male,4,3.35,3.13,IoT,No,12,6,2,1,4,38,74.4,69.1,Yes,No,0
+G00185,2023-11-19,Lahore,BSSE,Male,4,2.83,2.69,Mobile App,No,15,4,2,1,6,44,64.2,58.6,No,No,0
+G00254,2023-12-20,Karachi,BSCS,Female,2,2.93,2.64,Web App,Yes,3,12,0,3,5,83,80.0,80.6,No,No,0
+G01043,2024-11-25,Peshawar,BSDS,Male,2,3.34,2.84,Mobile App,Yes,10,9,2,5,7,46,76.2,55.1,Yes,Yes,1
+G00226,2023-12-05,Multan,BSAI,Male,5,3.22,2.94,Mobile App,No,4,8,1,3,6,54,70.2,71.6,No,No,0
+G00737,2024-07-10,Lahore,BSAI,Male,5,2.79,2.59,Mobile App,Yes,14,5,0,4,5,84,59.9,71.4,No,No,0
+G01042,2024-11-24,Lahore,BSAI,Male,3,3.02,2.92,Web App,No,17,7,0,6,6,62,69.5,65.5,No,No,0
+G00784,2024-07-31,Lahore,BSCS,Female,4,2.91,2.61,Mobile App,Yes,3,6,0,3,8,156,86.4,70.0,No,No,0
+G01377,2025-04-13,Lahore,BSAI,Male,5,2.96,2.67,Mobile App,No,4,3,2,3,4,76,57.5,73.1,No,No,0
+G00389,2024-02-18,Lahore,BSCS,Female,3,2.6,1.7,AI-ML,No,6,7,1,7,8,46,72.7,50.6,Yes,Yes,1
+G00387,2024-02-18,Islamabad,BSAI,Female,3,3.42,3.13,Web App,No,6,7,0,1,3,74,74.2,77.6,No,No,0
+G00182,2023-11-19,Islamabad,BSSE,Female,3,3.13,2.75,Research,No,4,9,2,1,5,48,77.7,74.8,No,No,0
+G00868,2024-09-07,Islamabad,BSCS,Male,4,2.58,2.37,Web App,No,6,12,1,3,8,136,74.2,70.7,No,No,0
+G00822,2024-08-14,Islamabad,BSCS,Female,4,3.95,3.35,Mobile App,No,15,3,2,5,2,13,91.2,62.6,No,No,0
+G01364,2025-04-09,Islamabad,BSCS,Female,3,2.88,2.28,Mobile App,Yes,8,2,3,2,6,43,67.1,70.4,Yes,No,0
+G01365,2025-04-09,Lahore,BSSE,Female,2,3.02,2.26,AI-ML,No,6,7,0,3,5,32,66.7,63.5,No,No,0
+G00093,2023-10-10,Quetta,BSSE,Female,4,3.07,2.81,AI-ML,No,4,5,5,3,7,23,65.5,75.7,No,No,0
+G01498,2025-06-02,Lahore,BSCS,Female,3,3.19,2.29,Web App,Yes,6,4,3,5,8,19,65.3,54.7,No,Yes,1
+G01418,2025-05-03,Islamabad,BSAI,Male,3,3.19,3.01,AI-ML,No,7,7,1,4,2,57,69.2,65.3,No,No,0
+G00420,2024-02-29,Peshawar,BSSE,Male,4,3.37,3.01,Web App,No,8,6,1,3,6,92,72.0,76.4,No,No,0
+G00585,2024-05-04,Lahore,BSIT,Female,3,3.21,2.92,Research,Yes,4,7,0,1,4,40,72.0,75.3,Yes,No,0
+G01329,2025-03-21,Peshawar,BSCS,Female,2,3.17,2.64,Web App,No,5,10,1,4,8,149,100.0,71.4,No,No,0
+G00295,2024-01-09,Karachi,BSAI,Male,3,3.3,3.01,AI-ML,Yes,21,6,2,5,1,23,64.4,57.8,No,No,0
+G00944,2024-10-07,Faisalabad,BSIT,Male,4,2.63,2.38,Mobile App,Yes,6,10,1,3,7,185,61.9,79.1,No,No,0
+G00634,2024-05-25,Lahore,BSAI,Male,5,3.17,3.01,IoT,Yes,32,10,1,6,3,133,74.7,71.9,No,No,0
+G00573,2024-04-25,Multan,BSAI,Male,2,2.5,2.08,Web App,No,10,4,1,1,5,53,73.2,70.7,No,No,0
+G01673,2025-08-21,Karachi,BSCS,Female,2,2.58,2.52,Mobile App,No,4,6,2,3,5,27,71.1,67.5,No,No,0
+G00278,2023-12-31,Karachi,BSSE,Male,3,3.05,2.99,Mobile App,No,6,8,2,3,6,57,72.7,63.6,No,No,0
+G01011,2024-11-08,Islamabad,BSSE,Female,2,3.44,3.24,Web App,No,7,4,2,3,6,74,83.3,72.7,No,No,0
+G00551,2024-04-18,Quetta,BSAI,Female,3,2.81,2.55,Web App,No,1,6,1,3,2,55,59.7,80.7,No,No,0
+G01343,2025-03-31,Islamabad,BSCS,Male,3,3.1,2.69,Web App,Yes,2,3,3,4,5,53,80.2,84.5,No,No,0
+G00656,2024-06-03,Karachi,BSAI,Male,4,2.91,2.46,IoT,No,6,7,1,9,1,54,55.0,50.1,Yes,Yes,1
+G01482,2025-05-28,Islamabad,BSDS,Female,3,2.82,2.43,Mobile App,No,2,5,2,2,4,81,56.8,66.2,No,No,0
+G00292,2024-01-07,Faisalabad,BSAI,Male,3,3.37,3.08,AI-ML,Yes,6,6,0,0,6,148,77.3,83.6,No,No,0
+G01486,2025-05-29,Karachi,BSSE,Male,3,3.37,3.31,Mobile App,Yes,16,6,0,0,2,24,79.8,68.1,No,No,0
+G01216,2025-02-05,Faisalabad,BSAI,Male,3,2.93,2.68,Web App,No,2,9,0,2,9,46,81.1,70.5,No,No,0
+G01073,2024-12-07,Peshawar,BSCS,Male,3,3.38,3.27,Web App,No,3,6,2,4,3,46,82.6,86.7,No,No,0
+G00781,2024-07-31,Multan,BSDS,Female,4,2.91,2.68,Web App,No,2,4,2,5,12,117,87.3,80.8,No,No,0
+G01500,2025-06-03,Karachi,BSIT,Female,4,3.04,2.87,Mobile App,Yes,1,8,2,2,4,16,53.8,57.4,No,No,0
+G01026,2024-11-18,Lahore,BSCS,Female,2,2.39,2.12,Web App,No,10,5,0,2,9,73,75.1,74.3,No,No,0
+G00032,2023-09-10,Peshawar,BSDS,Female,3,3.28,3.0,IoT,No,7,6,1,4,1,88,69.1,77.1,No,No,0
+G00712,2024-06-24,Lahore,BSCS,Female,5,2.9,2.73,AI-ML,Yes,6,11,0,6,2,22,72.0,65.5,No,No,0
+G00173,2023-11-17,Quetta,BSDS,Female,2,3.29,3.27,IoT,No,6,6,1,2,3,127,72.0,78.4,No,No,0
+G00553,2024-04-19,Karachi,BSCS,Male,2,3.02,2.4,Mobile App,No,4,5,2,6,0,77,52.8,71.2,No,No,0
+G00608,2024-05-13,Quetta,BSAI,Male,3,3.13,3.01,Mobile App,No,6,5,1,5,1,51,66.0,64.1,No,No,0
+G01541,2025-06-18,Karachi,BSAI,Female,4,2.52,2.02,Research,No,4,3,1,2,4,121,73.5,69.4,No,No,0
+G00598,2024-05-09,Multan,BSAI,Male,3,2.04,1.5,Web App,No,4,6,2,3,3,67,32.2,53.9,Yes,Yes,1
+G00863,2024-09-05,Karachi,BSCS,Male,2,3.58,3.28,Web App,No,2,7,0,1,7,41,80.2,59.3,No,No,0
+G01786,2025-10-13,Lahore,BSAI,Male,3,3.03,2.7,Research,No,6,13,0,2,7,144,91.5,53.8,No,No,0
+G00006,2023-09-03,Islamabad,BSAI,Male,2,3.78,3.37,Web App,No,10,5,0,2,2,20,88.7,74.4,No,No,0
+G00692,2024-06-17,Faisalabad,BSIT,Male,4,3.56,3.22,AI-ML,No,5,4,0,2,5,12,72.2,77.4,No,No,0
+G00299,2024-01-09,Karachi,BSSE,Female,3,3.14,2.7,AI-ML,No,6,12,4,2,6,57,69.7,65.8,No,No,0
+G01331,2025-03-23,Quetta,BSSE,Male,4,2.84,2.55,Web App,No,4,4,4,2,8,27,65.7,86.0,No,No,0
+G00986,2024-10-24,Quetta,BSSE,Male,3,3.32,3.15,Research,No,18,6,1,4,2,24,70.3,46.8,Yes,Yes,1
+G01130,2024-12-31,Islamabad,BSIT,Male,5,2.45,2.36,AI-ML,No,5,5,5,10,4,149,57.5,24.8,Yes,Yes,1
+G00711,2024-06-24,Karachi,BSCS,Female,3,2.29,1.96,IoT,Yes,2,5,2,1,5,75,53.6,71.4,No,No,0
+G00114,2023-10-20,Islamabad,BSDS,Female,3,2.5,2.0,AI-ML,No,5,5,0,10,4,84,66.5,56.0,Yes,Yes,1
+G01492,2025-05-31,Karachi,BSDS,Male,4,3.74,3.66,IoT,No,8,6,1,3,7,57,87.4,85.5,No,No,0
+G00672,2024-06-10,Karachi,BSIT,Female,3,3.26,2.93,AI-ML,No,5,6,0,8,9,36,71.4,73.1,No,No,0
+G01527,2025-06-14,Islamabad,BSCS,Female,3,2.77,2.57,Research,No,10,3,5,2,6,86,72.0,74.7,No,No,0
+G00145,2023-10-31,Rawalpindi,BSCS,Male,3,2.88,2.56,Mobile App,No,15,8,0,2,3,54,66.7,60.3,No,No,0
+G01340,2025-03-28,Karachi,BSIT,Male,3,3.29,2.98,IoT,No,3,7,2,3,4,124,81.9,66.9,No,No,0
+G01218,2025-02-07,Lahore,BSAI,Female,2,3.33,2.84,Research,No,6,4,3,7,1,12,58.8,55.5,Yes,Yes,1
+G00297,2024-01-09,Islamabad,BSIT,Female,3,2.59,2.2,Web App,No,11,6,0,3,1,97,48.3,55.5,No,No,0
+G00695,2024-06-19,Karachi,BSCS,Female,2,2.63,2.34,Mobile App,No,1,4,1,2,8,12,68.5,85.1,No,No,0
+G01110,2024-12-21,Lahore,BSSE,Male,2,3.32,3.03,AI-ML,No,6,6,2,2,4,121,72.0,77.2,Yes,No,0
+G01666,2025-08-17,Peshawar,BSAI,Male,2,3.27,3.16,Web App,Yes,2,4,0,0,1,42,73.4,67.0,No,No,0
+G01348,2025-04-01,Rawalpindi,BSSE,Male,4,3.11,2.86,Web App,No,1,6,2,1,5,126,62.6,72.5,No,No,0
+G00432,2024-03-03,Karachi,BSDS,Male,2,3.3,3.13,Mobile App,No,8,5,5,3,0,20,57.3,44.9,Yes,Yes,1
+G01211,2025-02-02,Lahore,BSAI,Male,2,2.85,2.51,Web App,No,2,6,2,4,8,91,91.8,82.7,No,No,0
+G00550,2024-04-18,Lahore,BSCS,Male,3,3.18,2.59,IoT,No,15,8,2,3,2,127,73.3,90.8,No,No,0
+G00732,2024-07-07,Karachi,BSSE,Male,3,2.82,2.55,Mobile App,No,2,3,1,3,4,44,66.7,58.8,No,No,0
+G00117,2023-10-21,Faisalabad,BSAI,Female,3,3.09,2.89,Web App,No,5,8,1,2,5,55,72.0,80.0,No,No,0
+G00974,2024-10-20,Quetta,BSAI,Male,5,2.73,2.38,AI-ML,Yes,10,9,3,3,2,15,49.6,81.2,No,No,0
+G00296,2024-01-09,Peshawar,BSSE,Male,3,3.55,2.99,IoT,No,3,7,2,1,2,138,78.2,71.3,No,No,0
+G00853,2024-09-01,Quetta,BSSE,Male,4,3.81,3.71,Mobile App,No,10,7,1,2,4,42,87.1,100.0,No,No,0
+G00328,2024-01-23,Faisalabad,BSSE,Male,3,2.09,1.77,Mobile App,Yes,1,3,0,1,2,33,45.3,81.1,No,No,0
+G01441,2025-05-12,Karachi,BSDS,Male,3,3.08,2.18,Mobile App,No,4,5,1,2,9,97,80.9,49.0,Yes,Yes,1
+G01481,2025-05-27,Multan,BSDS,Female,2,2.83,2.64,Web App,Yes,8,7,3,2,8,39,76.2,63.7,No,No,0
+G00028,2023-09-09,Lahore,BSSE,Male,3,3.66,3.62,Mobile App,No,2,6,3,4,4,87,90.8,66.8,No,No,0
+G01503,2025-06-03,Islamabad,BSCS,Female,4,3.95,3.69,Web App,No,7,9,3,9,4,61,72.0,64.0,No,No,0
+G01299,2025-03-10,Islamabad,BSAI,Female,2,2.76,2.44,Mobile App,No,9,5,1,9,6,59,74.3,72.3,No,No,0
+G01242,2025-02-15,Lahore,BSSE,Female,2,2.76,2.7,Web App,No,5,6,2,3,3,97,70.8,76.8,No,No,0
+G01180,2025-01-21,Lahore,BSSE,Female,4,2.55,2.42,Web App,No,17,6,1,3,10,83,84.3,70.0,No,No,0
+G00156,2023-11-07,Karachi,BSSE,Female,3,2.43,1.57,Mobile App,No,5,6,0,10,5,57,60.4,77.7,No,No,0
+G01782,2025-10-12,Lahore,BSSE,Female,2,3.5,2.86,IoT,No,2,9,1,4,9,22,64.3,66.5,No,No,0
+G00406,2024-02-23,Lahore,BSSE,Female,3,2.93,2.59,IoT,No,7,3,3,3,5,55,65.8,82.3,No,No,0
+G01592,2025-07-16,Karachi,BSCS,Male,3,2.8,2.72,Mobile App,No,10,7,2,6,7,66,60.8,75.9,No,No,0
+G01019,2024-11-13,Faisalabad,BSAI,Male,5,2.89,2.42,AI-ML,Yes,6,5,0,2,5,64,80.9,72.6,No,No,0
+G00058,2023-09-23,Islamabad,BSSE,Female,3,2.95,2.71,AI-ML,No,5,1,3,6,5,79,73.8,72.3,No,No,0
+G01646,2025-08-08,Rawalpindi,BSCS,Male,5,2.45,2.33,Research,No,10,7,1,2,1,57,49.7,54.7,Yes,Yes,1
+G00122,2023-10-22,Karachi,BSIT,Female,4,2.22,1.66,Mobile App,No,6,7,1,6,3,98,49.2,63.6,No,No,0
+G00612,2024-05-15,Peshawar,BSAI,Male,3,3.4,3.21,Mobile App,No,13,3,0,3,7,37,84.7,69.8,No,No,0
+G01407,2025-04-29,Multan,BSIT,Female,3,3.39,3.1,Mobile App,No,9,3,1,2,1,27,72.9,74.9,No,No,0
+G00802,2024-08-06,Faisalabad,BSCS,Male,3,3.27,3.15,Web App,No,12,4,0,3,5,67,75.7,65.4,Yes,No,0
+G00489,2024-03-27,Peshawar,BSCS,Male,4,3.74,3.57,Web App,No,4,2,2,4,4,45,76.6,72.2,No,No,0
+G01754,2025-10-01,Quetta,BSCS,Male,3,3.41,2.88,IoT,No,4,5,0,0,5,158,95.3,73.3,No,No,0
+G01561,2025-06-27,Karachi,BSCS,Male,4,3.44,3.12,IoT,No,13,5,3,5,12,52,90.4,74.1,No,No,0
+G00985,2024-10-23,Lahore,BSCS,Male,3,3.45,3.33,AI-ML,No,6,9,2,2,7,142,89.4,77.6,No,No,0
+G00617,2024-05-18,Lahore,BSAI,Female,3,2.91,2.63,Research,No,10,11,2,4,7,83,69.5,78.6,No,No,0
+G00223,2023-12-03,Peshawar,BSSE,Female,2,3.45,3.28,Research,No,3,4,3,5,6,57,88.2,70.1,No,No,0
+G01078,2024-12-09,Karachi,BSCS,Male,3,3.11,3.0,AI-ML,No,12,6,3,7,6,138,88.9,69.0,No,No,0
+G01229,2025-02-09,Multan,BSDS,Female,3,3.26,3.03,Mobile App,No,10,6,3,2,7,106,87.1,67.2,No,No,0
+G01085,2024-12-12,Lahore,BSCS,Female,3,3.19,2.9,Mobile App,Yes,2,6,1,5,4,57,67.3,57.6,No,No,0
+G01307,2025-03-11,Islamabad,BSIT,Male,2,2.6,2.39,IoT,No,10,6,1,5,5,36,75.5,50.0,Yes,Yes,1
+G01367,2025-04-09,Islamabad,BSAI,Male,1,3.47,3.47,AI-ML,No,6,6,1,4,9,73,83.5,64.1,No,No,0
+G00627,2024-05-21,Karachi,BSSE,Female,2,3.5,2.98,AI-ML,No,12,8,1,3,5,105,94.8,78.7,No,No,0
+G01009,2024-11-06,Lahore,BSSE,Female,3,2.92,2.75,Web App,No,2,9,0,3,1,65,60.4,74.1,No,No,0
+G00929,2024-10-02,Faisalabad,BSAI,Female,2,3.03,2.9,Mobile App,No,5,5,0,6,5,41,72.0,72.7,No,No,0
+G01182,2025-01-21,Peshawar,BSDS,Male,5,3.13,3.05,Mobile App,Yes,2,6,3,4,2,54,69.2,81.0,No,No,0
+G01175,2025-01-19,Islamabad,BSSE,Male,4,3.41,3.29,Web App,No,1,3,2,5,8,52,77.4,60.3,No,No,0
+G01328,2025-03-21,Peshawar,BSIT,Female,3,3.36,3.11,IoT,No,13,9,2,3,3,106,71.0,78.2,No,No,0
+G00017,2023-09-07,Rawalpindi,BSAI,Male,4,2.28,1.5,Web App,No,3,9,2,4,4,131,53.5,72.1,No,No,0
+G01505,2025-06-04,Karachi,BSSE,Male,3,2.52,2.03,Research,No,3,3,1,3,3,80,50.0,48.8,Yes,Yes,1
+G00911,2024-09-26,Multan,BSAI,Female,4,2.99,2.52,AI-ML,Yes,14,5,0,10,3,114,65.5,74.4,No,No,0
+G00963,2024-10-16,Karachi,BSIT,Male,3,3.61,3.37,Web App,Yes,6,5,0,4,8,93,72.0,80.7,No,No,0
+G01401,2025-04-25,Lahore,BSCS,Female,2,3.53,3.24,Mobile App,No,2,7,2,5,2,87,82.1,69.3,No,No,0
+G00632,2024-05-23,Faisalabad,BSCS,Female,2,2.95,2.74,Web App,No,2,6,1,7,2,45,75.3,66.6,Yes,Yes,1
+G00423,2024-02-29,Karachi,BSIT,Male,4,2.95,2.6,Web App,No,3,6,4,1,2,211,72.6,66.8,No,No,0
+G00975,2024-10-20,Lahore,BSCS,Male,4,3.1,2.39,IoT,No,4,5,1,2,7,28,63.8,64.8,No,No,0
+G01064,2024-12-04,Karachi,BSCS,Female,1,3.24,3.24,Mobile App,No,6,5,1,2,5,63,89.8,85.6,No,No,0
+G01075,2024-12-07,Quetta,BSCS,Male,4,2.75,2.5,AI-ML,No,3,5,1,10,5,44,50.7,59.6,Yes,Yes,1
+G01421,2025-05-03,Quetta,BSCS,Male,4,2.37,2.25,Web App,No,6,8,2,6,2,136,64.6,63.3,No,No,0
+G01556,2025-06-25,Lahore,BSIT,Female,2,3.25,2.94,Web App,No,11,4,1,4,6,7,70.1,83.4,No,No,0
+G00316,2024-01-19,Lahore,BSIT,Male,4,3.69,3.33,AI-ML,No,4,5,3,2,5,39,81.6,75.3,No,No,0
+G00927,2024-10-02,Multan,BSAI,Female,3,3.54,3.25,Mobile App,No,6,7,5,2,5,57,68.5,68.3,No,No,0
+G00855,2024-09-01,Lahore,BSIT,Female,3,2.49,2.36,Web App,No,13,9,1,4,4,29,45.2,68.6,No,No,0
+G01260,2025-02-19,Lahore,BSIT,Female,2,2.98,2.74,Web App,No,5,5,2,2,5,50,86.2,66.5,No,No,0
+G00366,2024-02-08,Karachi,BSDS,Female,4,2.91,2.74,AI-ML,No,5,8,1,2,10,57,81.8,83.6,No,No,0
+G00755,2024-07-18,Islamabad,BSCS,Female,2,3.54,3.29,Web App,No,4,7,3,8,3,167,81.7,75.5,Yes,No,0
+G01190,2025-01-26,Rawalpindi,BSAI,Female,3,3.6,3.56,AI-ML,No,4,4,1,1,4,57,76.9,67.3,No,No,0
+G01462,2025-05-22,Lahore,BSCS,Male,4,3.13,3.0,Mobile App,No,8,5,2,6,6,90,77.9,70.8,No,No,0
+G01342,2025-03-30,Peshawar,BSDS,Male,5,2.9,2.87,Web App,No,13,6,2,7,7,64,55.0,80.7,No,No,0
+G00664,2024-06-05,Faisalabad,BSDS,Female,2,2.94,2.78,AI-ML,Yes,9,8,1,2,9,18,71.7,83.6,Yes,No,0
+G00378,2024-02-13,Karachi,BSDS,Female,4,2.99,2.76,AI-ML,No,2,3,1,4,7,110,70.9,86.6,No,No,0
+G00373,2024-02-11,Karachi,BSCS,Female,5,3.95,3.92,Web App,No,7,4,0,4,2,117,94.1,61.1,No,No,0
+G01758,2025-10-05,Karachi,BSIT,Female,3,3.16,2.57,Mobile App,No,4,8,2,0,4,120,81.0,70.8,Yes,No,0
+G00919,2024-09-29,Multan,BSAI,Male,4,2.84,2.81,Research,No,3,10,2,2,7,62,72.5,57.8,No,No,0
+G00933,2024-10-03,Rawalpindi,BSIT,Male,2,3.58,3.51,AI-ML,No,6,8,2,3,5,17,93.8,81.0,No,No,0
+G01140,2025-01-04,Faisalabad,BSCS,Female,3,3.51,3.08,Web App,No,1,3,0,3,8,111,83.3,74.5,No,No,0
+G00678,2024-06-12,Peshawar,BSSE,Male,2,3.54,2.64,Mobile App,No,2,6,1,3,7,75,86.1,78.0,No,No,0
+G01430,2025-05-07,Karachi,BSAI,Female,4,2.64,2.24,IoT,No,2,3,2,3,8,66,69.7,69.3,No,No,0
+G00830,2024-08-18,Karachi,BSCS,Male,4,2.81,2.45,Research,No,6,8,1,8,2,141,72.0,90.5,No,No,0
+G01233,2025-02-11,Quetta,BSSE,Male,3,2.64,2.54,AI-ML,No,9,6,0,6,4,111,63.1,73.9,No,No,0
+G00715,2024-06-28,Lahore,BSCS,Female,3,3.15,2.48,Web App,No,3,4,6,3,3,102,68.5,59.1,No,No,0
+G00080,2023-10-02,Karachi,BSAI,Male,2,3.26,2.88,Mobile App,Yes,10,7,0,1,12,31,90.3,89.5,No,No,0
+G01178,2025-01-20,Islamabad,BSDS,Female,3,2.92,2.57,IoT,No,7,7,0,1,2,125,75.3,74.7,No,No,0
+G00945,2024-10-07,Islamabad,BSAI,Female,4,3.34,3.04,Web App,No,7,9,1,3,3,172,73.4,84.1,No,No,0
+G00881,2024-09-11,Quetta,BSCS,Male,3,2.91,2.23,Web App,Yes,0,5,3,1,2,49,72.0,74.2,No,No,0
+G01399,2025-04-23,Quetta,BSAI,Male,4,2.94,2.55,Web App,No,2,7,1,3,6,119,65.5,30.6,Yes,Yes,1
+G00427,2024-03-01,Karachi,BSSE,Female,3,2.59,2.09,AI-ML,No,8,8,0,1,5,208,75.5,79.3,No,No,0
+G00014,2023-09-06,Rawalpindi,BSCS,Male,3,3.03,2.91,Mobile App,No,5,5,1,5,8,14,72.9,58.7,No,No,0
+G01267,2025-02-22,Lahore,BSCS,Female,3,3.71,3.39,Research,No,13,6,3,6,1,57,90.5,62.6,No,No,0
+G00450,2024-03-13,Karachi,BSSE,Female,3,3.02,2.73,AI-ML,No,10,6,0,11,6,34,73.8,46.0,Yes,Yes,1
+G01631,2025-07-31,Rawalpindi,BSDS,Male,3,3.58,2.77,Web App,No,3,4,0,0,3,126,88.5,62.3,No,No,0
+G01716,2025-09-12,Karachi,BSCS,Male,4,2.91,2.29,Web App,No,7,2,3,1,3,62,54.3,78.2,No,No,0
+G00125,2023-10-22,Karachi,BSIT,Female,3,2.49,2.31,AI-ML,No,6,4,0,1,5,58,57.3,63.3,No,No,0
+G00858,2024-09-04,Rawalpindi,BSAI,Male,3,2.98,2.67,Web App,No,3,4,2,3,4,157,83.1,56.3,No,No,0
+G01744,2025-09-25,Islamabad,BSAI,Male,2,3.04,2.93,Research,No,6,8,1,4,6,35,69.9,68.6,No,Yes,1
+G01454,2025-05-17,Karachi,BSCS,Male,5,3.03,2.84,Mobile App,No,4,8,2,1,5,94,83.4,73.7,No,No,0
+G00616,2024-05-17,Karachi,BSAI,Male,4,2.91,2.38,Web App,No,4,7,2,5,9,74,72.6,69.2,No,No,0
+G01738,2025-09-22,Faisalabad,BSCS,Female,2,3.84,3.54,AI-ML,Yes,19,5,0,3,2,12,68.8,78.6,Yes,No,0
+G01113,2024-12-22,Rawalpindi,BSSE,Male,3,3.59,3.14,Mobile App,No,3,8,4,2,6,22,81.3,39.7,Yes,Yes,1
+G00517,2024-04-07,Lahore,BSDS,Male,3,3.36,3.26,Web App,No,4,5,0,2,2,21,77.7,73.6,No,No,0
+G00213,2023-11-30,Karachi,BSCS,Male,4,2.41,2.28,IoT,No,30,6,0,4,8,44,72.0,69.0,No,No,0
+G00978,2024-10-21,Quetta,BSAI,Male,3,2.71,2.3,Web App,Yes,13,4,1,2,6,86,78.2,65.6,No,No,0
+G00821,2024-08-13,Peshawar,BSCS,Male,4,3.78,3.54,Web App,Yes,7,4,4,1,7,101,84.5,70.2,No,No,0
+G00994,2024-10-27,Quetta,BSAI,Female,3,3.21,2.94,AI-ML,No,5,4,4,0,5,136,72.0,78.4,No,No,0
+G00192,2023-11-22,Karachi,BSSE,Female,4,3.79,3.65,IoT,No,15,6,2,4,4,26,75.4,73.5,No,No,0
+G00167,2023-11-14,Lahore,BSCS,Male,5,2.75,2.46,IoT,No,9,5,1,3,5,54,61.3,78.1,No,No,0
+G00745,2024-07-13,Peshawar,BSIT,Male,3,1.86,1.5,Web App,No,6,9,2,2,3,87,42.8,56.2,Yes,Yes,1
+G00637,2024-05-27,Rawalpindi,BSSE,Male,3,2.87,2.77,Mobile App,No,9,8,2,2,3,68,72.9,86.5,No,No,0
+G00410,2024-02-25,Islamabad,BSSE,Female,4,2.62,2.43,IoT,No,3,8,3,3,8,88,79.7,77.1,No,No,0
+G00394,2024-02-20,Multan,BSAI,Male,2,2.76,2.1,Mobile App,Yes,7,3,3,1,6,98,65.9,67.2,No,No,0
+G01129,2024-12-31,Faisalabad,BSAI,Male,2,3.79,3.64,Web App,No,5,5,1,1,6,1,84.5,63.0,No,No,0
+G01549,2025-06-22,Multan,BSDS,Female,3,3.7,3.41,Mobile App,No,9,7,2,2,5,35,80.6,78.4,No,No,0
+G01504,2025-06-03,Faisalabad,BSSE,Male,3,3.14,2.24,Research,No,11,9,2,5,3,42,56.9,50.0,Yes,Yes,1
+G00097,2023-10-11,Karachi,BSAI,Male,4,2.88,2.65,Web App,No,3,8,1,1,4,109,80.2,65.4,No,No,0
+G00968,2024-10-18,Peshawar,BSSE,Female,2,3.32,2.65,Mobile App,No,7,8,2,4,3,66,78.8,76.5,No,No,0
+G01111,2024-12-22,Lahore,BSDS,Male,3,3.15,3.04,Mobile App,No,11,9,0,3,4,2,72.0,42.6,No,Yes,1
+G00908,2024-09-25,Islamabad,BSSE,Female,3,2.73,2.47,AI-ML,No,5,2,2,5,4,55,74.0,73.1,No,No,0
+G00816,2024-08-13,Rawalpindi,BSDS,Male,2,2.8,2.71,Research,Yes,5,4,0,5,9,55,83.4,71.2,No,No,0
+G00171,2023-11-16,Rawalpindi,BSDS,Male,3,2.45,2.31,Web App,No,9,4,1,1,6,17,58.3,76.0,No,No,0
+G01501,2025-06-03,Faisalabad,BSDS,Female,3,3.0,2.85,Web App,No,6,3,0,5,3,83,64.1,85.1,No,No,0
+G00184,2023-11-19,Lahore,BSSE,Female,4,3.3,3.25,Mobile App,No,8,6,1,4,5,41,95.5,84.5,No,No,0
+G01117,2024-12-28,Karachi,BSSE,Male,3,3.08,2.31,AI-ML,No,6,9,2,3,7,49,73.2,67.3,No,No,0
+G00098,2023-10-11,Karachi,BSCS,Male,4,2.29,2.04,AI-ML,No,4,3,6,2,5,132,55.2,73.3,No,No,0
+G01507,2025-06-04,Karachi,BSDS,Female,2,2.95,2.66,Mobile App,No,5,5,3,4,5,125,69.5,67.2,No,No,0
+G00960,2024-10-15,Faisalabad,BSIT,Female,3,3.95,3.66,Mobile App,No,11,4,1,2,7,42,95.2,64.2,No,No,0
+G00899,2024-09-21,Quetta,BSIT,Male,3,2.58,2.33,Mobile App,No,6,6,0,0,4,39,56.2,55.6,No,Yes,1
+G00950,2024-10-11,Peshawar,BSAI,Female,4,2.89,2.74,AI-ML,No,6,7,0,3,1,44,54.2,48.8,Yes,Yes,1
+G01358,2025-04-07,Rawalpindi,BSAI,Male,4,3.16,2.52,IoT,No,5,9,4,6,2,38,47.7,54.1,Yes,Yes,1
+G00268,2023-12-26,Peshawar,BSDS,Male,2,3.17,2.88,Research,No,6,5,4,2,8,108,92.5,73.1,No,No,0
+G00103,2023-10-13,Karachi,BSCS,Female,3,2.56,1.81,Web App,Yes,6,6,1,1,4,113,66.0,99.3,No,No,0
+G00795,2024-08-04,Karachi,BSAI,Female,1,2.87,2.87,Mobile App,No,8,4,1,3,9,100,77.9,74.5,No,No,0
+G00791,2024-08-03,Karachi,BSDS,Male,3,2.62,2.35,Web App,Yes,16,3,2,7,5,100,71.7,65.0,No,No,0
+G00666,2024-06-06,Multan,BSSE,Female,4,3.31,3.04,Mobile App,No,4,6,0,5,1,58,68.7,64.8,No,No,0
+G01422,2025-05-04,Rawalpindi,BSCS,Female,3,3.13,2.88,Mobile App,Yes,4,4,0,1,1,5,59.9,55.2,Yes,Yes,1
+G01785,2025-10-12,Lahore,BSIT,Male,4,2.94,2.58,Mobile App,No,14,5,3,8,4,57,50.6,50.2,Yes,Yes,1
+G01641,2025-08-05,Lahore,BSCS,Male,3,2.23,1.75,Web App,No,11,4,0,4,4,39,18.3,50.1,Yes,Yes,1
+G01390,2025-04-20,Lahore,BSCS,Male,2,2.89,2.58,AI-ML,No,5,5,7,4,6,44,75.7,59.6,No,No,0
+G00774,2024-07-26,Quetta,BSSE,Female,4,3.59,3.52,Web App,No,9,9,2,2,6,86,79.4,69.1,No,No,0
+G01118,2024-12-28,Lahore,BSCS,Male,2,2.86,2.49,IoT,No,3,3,2,4,4,22,42.5,67.6,No,No,0
+G01661,2025-08-15,Faisalabad,BSSE,Male,4,2.56,2.03,AI-ML,No,5,5,2,2,7,111,66.0,69.2,No,No,0
+G00998,2024-10-30,Rawalpindi,BSAI,Male,3,2.51,2.48,Web App,No,29,4,3,7,5,105,69.7,65.0,No,No,0
+G01701,2025-09-07,Karachi,BSSE,Male,3,3.5,3.02,Mobile App,No,1,5,1,3,1,81,70.1,30.9,Yes,Yes,1
+G00236,2023-12-09,Rawalpindi,BSAI,Male,4,2.8,2.73,Mobile App,Yes,5,5,2,4,5,30,76.6,77.5,Yes,No,0
+G01191,2025-01-26,Rawalpindi,BSDS,Female,2,3.21,2.99,IoT,No,4,4,0,7,3,55,60.5,73.8,No,No,0
+G00764,2024-07-23,Islamabad,BSCS,Male,4,3.31,3.28,IoT,No,5,7,1,8,3,41,61.8,70.4,No,No,0
+G01169,2025-01-17,Karachi,BSAI,Male,2,2.77,2.52,AI-ML,No,6,6,0,8,5,53,66.6,83.3,No,No,0
+G01382,2025-04-14,Rawalpindi,BSIT,Female,2,3.36,2.91,Web App,No,7,4,2,3,2,37,74.9,73.3,No,No,0
+G00870,2024-09-08,Peshawar,BSCS,Male,3,3.16,2.55,Mobile App,No,4,7,4,3,7,54,81.4,82.4,No,No,0
+G01272,2025-02-25,Islamabad,BSDS,Female,3,3.95,3.26,Mobile App,No,9,10,1,3,5,45,82.9,67.2,No,No,0
+G00155,2023-11-07,Lahore,BSAI,Female,4,3.22,2.87,Mobile App,No,5,5,3,6,6,88,93.0,44.6,Yes,Yes,1
+G00942,2024-10-06,Lahore,BSDS,Male,3,2.53,2.14,AI-ML,No,2,9,1,5,3,76,53.9,58.8,Yes,Yes,1
+G00725,2024-07-03,Islamabad,BSSE,Male,2,3.26,2.96,Web App,Yes,17,5,1,1,9,57,76.8,89.0,No,No,0
+G01538,2025-06-17,Peshawar,BSDS,Male,4,3.53,2.98,Web App,Yes,4,7,1,4,7,132,87.6,67.4,No,No,0
+G01610,2025-07-22,Multan,BSIT,Male,5,3.19,2.9,Web App,No,0,7,1,3,5,53,58.2,69.5,No,No,0
+G00177,2023-11-17,Lahore,BSAI,Male,2,3.21,2.92,Web App,Yes,5,6,1,4,6,61,85.7,69.5,No,No,0
+G01623,2025-07-26,Lahore,BSAI,Female,4,3.47,3.42,Research,No,2,10,0,8,2,39,68.7,76.3,No,No,0
+G01024,2024-11-17,Karachi,BSAI,Male,2,3.04,2.45,Web App,No,8,5,4,1,5,38,69.8,78.7,No,No,0
+G01639,2025-08-05,Faisalabad,BSIT,Male,3,2.81,2.69,AI-ML,No,7,7,2,1,6,13,61.1,63.6,No,No,0
+G00655,2024-06-02,Lahore,BSCS,Female,2,2.36,2.18,Web App,Yes,4,8,4,7,5,29,54.7,83.3,No,No,0
+G01513,2025-06-07,Karachi,BSIT,Female,3,2.94,2.84,Web App,No,5,7,0,2,5,166,78.1,74.4,No,No,0
+G01281,2025-03-02,Lahore,BSDS,Male,4,3.21,2.93,IoT,No,5,6,1,3,2,29,72.4,45.3,Yes,Yes,1
+G00615,2024-05-16,Quetta,BSCS,Male,3,3.6,3.26,IoT,No,5,6,0,4,11,51,91.2,81.7,No,No,0
+G01690,2025-09-04,Multan,BSCS,Male,3,2.95,2.86,Web App,No,10,4,2,1,4,47,77.1,81.8,No,No,0
+G00675,2024-06-11,Islamabad,BSSE,Male,4,3.16,2.99,AI-ML,No,16,4,1,3,7,106,83.0,74.0,No,No,0
+G01279,2025-03-02,Karachi,BSAI,Female,2,3.51,2.95,Web App,No,1,5,4,3,4,62,91.0,67.3,No,No,0
+G00452,2024-03-14,Faisalabad,BSAI,Female,3,3.02,2.87,Web App,No,8,3,0,3,1,40,59.5,85.1,No,No,0
+G01563,2025-06-28,Faisalabad,BSAI,Male,4,3.33,3.23,Web App,No,4,4,2,2,4,33,78.6,64.5,No,No,0
+G01400,2025-04-24,Karachi,BSSE,Female,4,2.75,2.34,Web App,Yes,2,5,0,3,5,1,70.3,65.6,Yes,Yes,1
+G00943,2024-10-07,Quetta,BSAI,Female,3,2.86,2.56,IoT,Yes,3,4,1,4,4,51,69.8,65.4,No,No,0
+G00842,2024-08-26,Multan,BSCS,Male,3,2.97,2.75,AI-ML,No,6,3,0,5,8,12,78.6,61.4,No,No,0
+G01336,2025-03-27,Faisalabad,BSCS,Male,2,3.02,2.45,Mobile App,No,8,8,2,1,7,134,79.5,86.9,No,No,0
+G01717,2025-09-12,Faisalabad,BSDS,Male,4,3.67,3.61,Web App,No,14,1,1,5,4,74,83.8,87.8,No,No,0
+G00533,2024-04-14,Lahore,BSCS,Female,3,2.57,2.28,Mobile App,No,7,5,0,1,5,27,60.0,83.4,No,No,0
+G01474,2025-05-26,Karachi,BSAI,Male,5,2.78,2.76,IoT,No,15,3,1,9,5,84,76.9,61.1,No,No,0
+G00191,2023-11-22,Faisalabad,BSCS,Male,5,2.85,2.7,Web App,No,3,6,1,1,3,118,71.3,46.4,Yes,Yes,1
+G01508,2025-06-05,Quetta,BSCS,Male,4,3.04,2.83,Web App,No,19,2,2,5,4,103,75.6,49.2,No,No,0
+G01093,2024-12-14,Peshawar,BSCS,Female,2,3.41,3.08,Mobile App,No,13,5,1,3,5,41,88.7,64.1,No,No,0
+G00438,2024-03-06,Karachi,BSSE,Male,3,3.36,2.98,Mobile App,Yes,2,4,2,1,6,39,68.8,72.3,No,No,0
+G00563,2024-04-23,Quetta,BSIT,Female,3,3.15,2.8,IoT,No,10,8,0,3,6,83,67.1,80.3,No,No,0
+G00659,2024-06-04,Quetta,BSCS,Male,2,2.62,1.92,AI-ML,Yes,5,3,3,2,4,99,72.4,87.6,No,No,0
+G00404,2024-02-23,Islamabad,BSSE,Male,3,3.03,2.66,AI-ML,No,6,7,0,4,4,47,78.2,65.5,No,No,0
+G01333,2025-03-23,Rawalpindi,BSIT,Male,2,3.0,2.68,Mobile App,Yes,8,4,0,10,4,42,77.5,76.4,No,No,0
+G00029,2023-09-09,Islamabad,BSIT,Female,4,3.16,2.91,AI-ML,Yes,3,4,1,4,5,42,60.9,67.7,No,No,0
+G01506,2025-06-04,Peshawar,BSIT,Male,2,2.93,2.77,AI-ML,No,10,4,1,3,1,54,71.0,72.8,No,No,0
+G00397,2024-02-22,Karachi,BSAI,Female,4,2.73,2.44,IoT,No,3,5,3,3,7,73,64.1,81.7,Yes,No,0
+G00756,2024-07-19,Lahore,BSCS,Male,2,3.63,3.39,Web App,No,5,4,2,3,4,170,92.6,54.9,No,No,0
+G01655,2025-08-11,Lahore,BSIT,Female,2,2.22,1.9,Web App,No,6,6,0,2,3,41,53.0,69.5,No,No,0
+G00301,2024-01-10,Karachi,BSAI,Female,4,2.96,2.87,Web App,No,3,3,1,5,5,110,76.5,64.3,No,No,0
+G00592,2024-05-07,Karachi,BSSE,Male,3,3.46,3.08,Mobile App,No,2,7,0,10,2,68,71.6,74.4,No,No,0
+G01654,2025-08-11,Karachi,BSCS,Male,2,3.43,3.13,Mobile App,No,5,8,2,2,3,64,69.9,80.8,No,No,0
+G00776,2024-07-27,Lahore,BSIT,Female,3,3.2,2.91,Research,No,9,1,0,2,3,89,74.5,59.6,No,No,0
+G01087,2024-12-12,Peshawar,BSAI,Male,3,2.99,2.61,Web App,No,4,3,1,4,8,69,77.6,66.7,No,No,0
+G01246,2025-02-15,Rawalpindi,BSCS,Male,2,2.42,2.0,AI-ML,No,4,7,1,2,5,17,44.8,44.9,Yes,Yes,1
+G00630,2024-05-23,Islamabad,BSIT,Male,3,3.16,2.87,Web App,No,5,6,2,1,4,24,71.9,75.8,No,No,0
+G01282,2025-03-02,Lahore,BSCS,Female,5,3.95,3.75,AI-ML,No,6,6,0,2,5,30,97.0,74.9,No,No,0
+G01303,2025-03-11,Karachi,BSIT,Female,2,3.63,3.53,AI-ML,No,2,6,1,1,3,28,75.2,69.5,No,No,0
+G01478,2025-05-27,Multan,BSSE,Female,4,2.2,1.64,AI-ML,No,6,11,2,4,2,57,49.5,65.6,No,No,0
+G01144,2025-01-06,Peshawar,BSIT,Female,4,3.04,2.87,AI-ML,No,4,7,2,4,3,58,76.9,74.3,No,No,0
+G00815,2024-08-12,Lahore,BSSE,Male,2,3.11,2.59,AI-ML,No,1,5,3,1,3,117,77.2,68.4,No,No,0
+G00470,2024-03-20,Quetta,BSIT,Male,1,3.47,3.47,Mobile App,No,3,6,1,4,3,34,87.6,71.9,Yes,No,0
+G01023,2024-11-16,Multan,BSSE,Male,3,3.0,2.81,Mobile App,No,6,9,2,4,4,96,72.8,73.0,No,No,0
+G01681,2025-08-26,Multan,BSCS,Male,4,3.31,3.14,Web App,Yes,10,6,0,2,6,22,73.9,52.4,No,No,0
+G01124,2024-12-30,Karachi,BSCS,Female,3,3.04,2.96,IoT,No,6,5,4,1,9,54,86.3,73.9,No,No,0
+G00569,2024-04-24,Rawalpindi,BSIT,Male,2,3.36,3.13,Mobile App,No,2,5,3,6,5,105,80.5,55.8,No,No,0
+G01227,2025-02-08,Lahore,BSIT,Female,3,3.18,3.16,IoT,No,5,12,0,0,4,13,63.2,64.9,No,No,0
+G01457,2025-05-18,Karachi,BSCS,Male,3,3.08,2.77,AI-ML,No,17,2,3,4,5,28,66.3,84.2,No,No,0
+G01632,2025-07-31,Multan,BSSE,Male,3,3.1,2.65,AI-ML,No,9,8,2,3,0,16,38.9,59.4,No,Yes,1
+G00180,2023-11-18,Quetta,BSAI,Male,3,3.61,3.48,IoT,No,12,7,4,3,5,33,81.2,41.3,Yes,Yes,1
+G00549,2024-04-18,Multan,BSDS,Male,3,3.19,2.6,Mobile App,No,14,9,3,3,3,52,69.0,88.7,No,No,0
+G00073,2023-09-28,Quetta,BSSE,Male,4,2.83,2.76,Mobile App,No,10,5,2,3,4,127,79.0,72.7,No,No,0
+G00591,2024-05-06,Rawalpindi,BSCS,Male,4,3.95,3.79,IoT,No,2,7,0,2,0,11,68.1,87.0,No,No,0
+G01142,2025-01-05,Lahore,BSIT,Male,4,2.73,2.27,Mobile App,No,6,6,2,7,4,197,66.7,91.3,No,No,0
+G00188,2023-11-20,Peshawar,BSIT,Male,3,3.08,2.4,Research,No,5,2,2,4,2,53,66.2,68.5,No,No,0
+G01219,2025-02-07,Islamabad,BSCS,Female,3,3.58,2.8,AI-ML,No,1,8,0,1,4,69,76.9,67.0,No,No,0
+G00106,2023-10-13,Faisalabad,BSAI,Male,2,3.24,2.87,Web App,No,7,5,3,0,2,57,72.0,80.1,No,No,0
+G00743,2024-07-13,Quetta,BSIT,Male,3,3.2,2.73,Mobile App,No,10,8,3,4,6,54,72.0,52.2,Yes,Yes,1
+G01426,2025-05-05,Rawalpindi,BSAI,Female,4,2.93,2.23,AI-ML,No,14,2,6,8,5,26,57.6,65.6,No,No,0
+G00377,2024-02-12,Faisalabad,BSDS,Female,4,2.14,1.5,Web App,No,7,6,2,8,4,128,58.2,75.9,No,No,0
+G00808,2024-08-09,Peshawar,BSSE,Male,5,3.53,3.09,Web App,No,4,3,2,4,7,68,84.1,80.0,No,No,0
+G01168,2025-01-17,Faisalabad,BSAI,Female,3,2.65,2.42,Research,No,9,4,2,4,5,154,73.4,81.5,No,No,0
+G00794,2024-08-03,Rawalpindi,BSCS,Male,3,3.81,3.56,AI-ML,No,2,7,2,3,5,59,81.5,73.6,No,No,0
+G01283,2025-03-03,Faisalabad,BSAI,Male,2,2.92,2.53,Web App,No,7,5,2,9,8,55,73.1,78.6,No,No,0
+G00548,2024-04-18,Lahore,BSSE,Male,5,2.65,2.38,AI-ML,No,5,7,3,3,5,57,66.4,52.6,No,Yes,1
+G00468,2024-03-20,Quetta,BSIT,Male,3,3.51,3.23,AI-ML,No,2,10,4,6,5,81,86.8,70.9,No,No,0
+G00906,2024-09-23,Karachi,BSAI,Female,4,2.38,2.0,Mobile App,No,10,8,3,2,5,100,62.9,53.5,No,Yes,1
+G01584,2025-07-13,Quetta,BSSE,Female,2,3.07,2.53,Mobile App,No,5,4,2,1,3,22,73.5,33.9,Yes,Yes,1
+G01643,2025-08-06,Multan,BSSE,Male,2,3.16,2.94,Web App,No,1,10,0,1,3,18,54.5,86.9,No,No,0
+G01442,2025-05-13,Karachi,BSAI,Female,4,3.58,3.29,Web App,No,6,5,1,2,2,63,70.3,69.4,No,No,0
+G01487,2025-05-29,Quetta,BSIT,Male,2,3.33,2.95,AI-ML,No,5,7,2,1,2,14,59.5,49.0,Yes,Yes,1
+G01770,2025-10-08,Islamabad,BSAI,Male,3,2.63,2.34,Mobile App,No,11,14,1,2,4,17,48.7,86.0,No,No,0
+G00362,2024-02-06,Peshawar,BSDS,Male,4,2.74,2.16,AI-ML,No,5,5,1,4,5,186,57.6,67.1,No,No,0
+G00811,2024-08-11,Quetta,BSDS,Female,1,3.72,3.72,Mobile App,No,17,4,3,4,6,14,75.1,80.6,No,No,0
+G00976,2024-10-20,Islamabad,BSAI,Male,3,3.29,3.11,IoT,No,7,7,3,2,2,30,52.2,74.3,No,No,0
+G00766,2024-07-24,Multan,BSAI,Male,3,2.91,2.42,AI-ML,No,5,4,0,4,6,129,76.5,77.4,No,No,0
+G00041,2023-09-14,Karachi,BSDS,Female,3,3.01,2.48,AI-ML,Yes,4,7,1,1,1,140,73.4,73.2,No,No,0
+G01680,2025-08-25,Multan,BSCS,Female,3,2.64,2.47,IoT,No,1,7,2,5,5,20,52.5,38.8,Yes,Yes,1
+G00082,2023-10-03,Multan,BSSE,Female,3,1.87,1.68,AI-ML,No,13,4,0,4,0,45,34.9,88.6,No,No,0
+G00834,2024-08-21,Quetta,BSCS,Female,3,3.18,2.28,Research,No,5,7,1,0,7,72,75.6,77.3,No,No,0
+G00823,2024-08-15,Lahore,BSSE,Male,4,3.65,3.42,Web App,No,3,6,1,2,5,26,96.0,77.3,No,No,0
+G00262,2023-12-22,Karachi,BSSE,Female,4,3.6,3.29,Mobile App,No,4,10,1,2,7,19,81.5,82.0,No,No,0
+G00210,2023-11-29,Faisalabad,BSDS,Male,4,3.18,2.28,Web App,No,9,9,0,3,6,19,69.4,41.1,Yes,Yes,1
+G01257,2025-02-18,Islamabad,BSCS,Male,3,2.34,2.06,Research,No,3,5,0,2,10,32,54.9,55.1,No,No,0
+G00603,2024-05-11,Faisalabad,BSSE,Female,3,2.76,2.69,AI-ML,No,2,4,2,3,7,36,76.0,84.2,No,No,0
+G00790,2024-08-03,Rawalpindi,BSDS,Female,1,2.68,2.68,Mobile App,Yes,3,4,1,2,5,39,73.5,86.9,No,No,0
+G00269,2023-12-27,Lahore,BSAI,Female,4,2.79,2.77,IoT,No,7,7,1,1,4,48,60.0,61.8,No,No,0
+G01402,2025-04-25,Lahore,BSCS,Male,3,3.29,2.8,Web App,No,9,3,3,10,12,33,75.7,29.7,Yes,Yes,1
+G00329,2024-01-24,Islamabad,BSCS,Female,5,3.24,3.08,Mobile App,Yes,14,14,1,3,0,69,69.1,70.9,No,No,0
+G01730,2025-09-19,Karachi,BSSE,Female,3,3.33,3.05,Research,No,11,3,2,5,7,32,76.9,78.9,No,No,0
+G00561,2024-04-22,Multan,BSIT,Female,2,3.07,2.95,Research,No,5,9,4,2,11,19,81.5,82.1,No,No,0
+G01590,2025-07-16,Islamabad,BSDS,Female,4,2.87,2.75,Mobile App,Yes,17,5,4,1,6,62,73.7,67.7,Yes,No,0
+G01752,2025-09-29,Karachi,BSCS,Male,3,3.17,2.74,Research,No,1,3,3,2,7,43,77.3,70.6,No,No,0
+G00352,2024-02-02,Karachi,BSIT,Female,4,2.84,2.76,Mobile App,No,8,7,3,3,6,50,68.6,61.4,No,No,0
+G00803,2024-08-07,Islamabad,BSCS,Male,3,3.53,3.26,Web App,Yes,6,8,0,8,5,126,93.2,59.7,No,No,0
+G00102,2023-10-13,Quetta,BSSE,Male,4,2.93,2.82,Mobile App,No,7,5,1,5,5,57,74.0,78.2,No,No,0
+G01607,2025-07-21,Quetta,BSAI,Male,2,2.66,2.06,Mobile App,No,5,1,3,2,3,141,64.0,61.8,No,No,0
+G00454,2024-03-15,Karachi,BSIT,Female,3,2.88,2.47,Mobile App,No,5,4,1,4,10,57,74.9,79.0,No,No,0
+G01620,2025-07-25,Multan,BSIT,Male,4,2.77,2.4,IoT,No,4,4,1,4,9,51,68.9,57.3,No,No,0
+G00015,2023-09-06,Karachi,BSCS,Female,2,3.18,3.08,IoT,No,2,6,1,3,0,34,61.0,62.3,No,No,0
+G01217,2025-02-06,Multan,BSDS,Female,2,3.39,2.92,Mobile App,Yes,3,9,0,4,2,32,67.5,83.6,No,No,0
+G00531,2024-04-13,Islamabad,BSSE,Male,3,2.9,2.75,AI-ML,Yes,1,11,0,5,1,85,63.2,86.0,No,No,0
+G01565,2025-06-28,Karachi,BSAI,Male,3,2.75,2.0,Mobile App,No,6,9,1,6,7,15,49.6,68.0,No,No,0
+G00493,2024-03-28,Rawalpindi,BSSE,Female,3,2.92,2.51,Web App,No,4,5,2,7,1,60,54.1,49.5,Yes,Yes,1
+G01573,2025-07-01,Lahore,BSDS,Male,3,2.61,2.21,Mobile App,Yes,1,3,3,5,5,33,48.8,77.2,No,No,0
+G01290,2025-03-06,Karachi,BSIT,Male,5,2.81,2.52,AI-ML,Yes,3,3,0,5,7,98,75.6,77.5,No,No,0
+G00524,2024-04-10,Lahore,BSSE,Female,4,2.78,2.27,Mobile App,No,24,8,0,1,5,145,88.6,70.5,No,No,0
+G01480,2025-05-27,Multan,BSAI,Female,2,3.01,2.75,Web App,No,5,5,2,4,5,19,62.4,63.1,No,No,0
+G01564,2025-06-28,Peshawar,BSDS,Male,2,3.23,2.9,Mobile App,Yes,9,6,0,4,6,29,76.9,82.0,No,No,0
+G00283,2024-01-02,Karachi,BSIT,Male,3,3.01,2.87,Mobile App,No,13,8,1,5,4,82,72.0,81.7,No,No,0
+G01741,2025-09-23,Quetta,BSIT,Female,2,2.56,1.93,AI-ML,No,6,4,0,2,3,205,63.5,76.7,No,No,0
+G00977,2024-10-20,Faisalabad,BSCS,Female,2,2.9,2.51,IoT,No,4,10,1,4,6,28,57.6,66.6,No,No,0
+G00208,2023-11-28,Islamabad,BSIT,Male,2,2.45,2.42,Web App,No,10,8,0,1,3,57,72.0,70.7,No,No,0
+G00259,2023-12-21,Peshawar,BSSE,Male,3,2.73,2.64,AI-ML,No,7,8,1,4,9,53,78.2,56.9,No,No,0
+G01302,2025-03-10,Faisalabad,BSIT,Male,4,3.62,3.29,Web App,No,7,7,1,2,6,44,79.5,84.1,Yes,No,0
+G01736,2025-09-21,Islamabad,BSCS,Male,2,3.11,3.01,Mobile App,No,13,6,0,3,9,2,84.0,59.8,No,No,0
+G00144,2023-10-31,Quetta,BSAI,Male,3,2.63,2.03,AI-ML,No,5,4,1,4,4,57,54.1,42.7,No,Yes,1
+G00910,2024-09-25,Multan,BSAI,Male,4,2.32,2.13,Web App,No,12,10,1,3,5,76,48.1,76.3,No,No,0
+G00763,2024-07-23,Faisalabad,BSSE,Female,3,3.25,2.77,IoT,No,7,4,3,3,4,57,71.0,67.9,No,No,0
+G00319,2024-01-20,Islamabad,BSSE,Female,3,3.65,3.53,Mobile App,No,9,6,2,2,7,89,89.3,72.2,No,No,0
+G00514,2024-04-06,Karachi,BSAI,Male,2,3.6,3.15,Research,No,15,13,2,4,2,38,67.3,48.5,Yes,Yes,1
+G00303,2024-01-11,Faisalabad,BSIT,Female,3,2.68,2.61,Research,No,6,5,1,3,3,61,63.5,81.7,No,No,0
+G01762,2025-10-06,Faisalabad,BSAI,Male,4,3.62,3.33,Mobile App,No,5,6,1,3,1,117,86.2,72.3,No,No,0
+G01248,2025-02-16,Karachi,BSCS,Female,4,2.76,2.49,Web App,No,11,7,2,3,7,109,80.3,68.4,No,No,0
+G01259,2025-02-19,Rawalpindi,BSCS,Female,3,3.4,3.19,Web App,No,1,7,3,7,4,99,75.3,70.2,No,No,0
+G00056,2023-09-22,Rawalpindi,BSCS,Male,3,2.98,2.51,Web App,No,16,3,4,2,6,62,69.7,62.3,No,No,0
+G01659,2025-08-13,Faisalabad,BSDS,Female,3,2.98,2.33,Research,No,4,8,0,4,6,102,75.9,66.5,No,No,0
+G01410,2025-04-30,Faisalabad,BSSE,Male,4,3.84,3.27,Mobile App,No,5,6,3,6,7,38,92.8,80.5,No,No,0
+G00676,2024-06-11,Karachi,BSCS,Male,1,2.79,2.79,Web App,No,15,8,3,1,5,47,72.0,60.1,No,No,0
+G01354,2025-04-05,Lahore,BSDS,Female,4,3.44,3.3,Web App,No,3,4,1,5,5,132,72.4,67.3,No,No,0
+G00376,2024-02-12,Lahore,BSSE,Female,4,2.53,1.63,Mobile App,No,10,6,2,1,5,58,58.4,43.3,No,Yes,1
+G01784,2025-10-12,Rawalpindi,BSIT,Male,1,2.75,2.75,Web App,No,6,5,3,4,1,39,59.6,73.8,No,No,0
+G00516,2024-04-07,Karachi,BSSE,Male,4,2.8,2.58,AI-ML,Yes,9,4,0,2,3,128,80.9,83.4,No,No,0
+G01204,2025-01-31,Rawalpindi,BSCS,Female,3,2.26,1.84,Web App,No,2,8,1,4,5,80,58.0,49.9,No,Yes,1
+G00264,2023-12-23,Lahore,BSDS,Female,4,2.89,2.75,Web App,No,9,5,2,2,3,57,72.2,67.8,No,No,0
+G01670,2025-08-19,Multan,BSDS,Male,2,2.52,2.29,AI-ML,No,7,4,2,1,10,95,69.4,71.5,No,No,0
+G00825,2024-08-16,Karachi,BSCS,Female,2,3.17,2.79,Research,No,13,7,2,6,7,83,80.5,83.2,No,No,0
+G01638,2025-08-04,Peshawar,BSSE,Male,3,3.37,3.01,Mobile App,No,6,6,0,5,8,147,85.5,60.3,No,No,0
+G00072,2023-09-27,Karachi,BSIT,Male,4,3.06,2.93,Web App,No,11,5,2,6,5,119,79.9,68.7,Yes,No,0
+G00643,2024-05-30,Multan,BSCS,Female,2,2.78,2.4,IoT,No,12,9,1,3,0,140,60.5,78.9,No,No,0
+G01012,2024-11-10,Multan,BSCS,Male,4,2.82,2.36,Mobile App,No,8,6,0,1,4,16,54.1,66.7,Yes,No,0
+G00163,2023-11-13,Multan,BSSE,Male,5,3.34,2.94,Web App,No,13,7,4,7,7,77,75.2,55.0,Yes,No,0
+G00024,2023-09-09,Multan,BSDS,Female,3,2.96,2.27,AI-ML,Yes,5,10,2,3,0,211,62.9,75.2,No,No,0
+G00657,2024-06-03,Islamabad,BSIT,Female,2,3.34,2.92,AI-ML,Yes,6,4,2,4,3,48,70.9,67.8,No,No,0
+G00628,2024-05-22,Multan,BSSE,Female,2,2.96,2.06,AI-ML,No,7,5,1,2,12,28,72.0,59.8,Yes,No,0
+G00872,2024-09-09,Lahore,BSSE,Female,2,2.67,2.54,Web App,No,4,6,0,3,4,57,55.4,67.0,No,No,0
+G00375,2024-02-11,Islamabad,BSAI,Male,1,3.34,3.34,Web App,No,5,10,5,2,2,14,64.4,66.7,No,No,0
+G01244,2025-02-15,Karachi,BSCS,Male,2,2.82,2.44,Research,No,7,10,2,5,3,159,58.7,67.7,No,No,0
+G00275,2023-12-28,Lahore,BSIT,Female,1,3.18,3.18,Mobile App,No,9,6,3,1,12,38,78.5,84.8,No,No,0
+G01071,2024-12-07,Karachi,BSSE,Female,4,3.3,2.82,AI-ML,Yes,4,5,2,6,6,95,74.2,76.2,No,No,0
+G01799,2025-10-18,Peshawar,BSAI,Male,4,3.67,3.54,AI-ML,Yes,15,5,1,1,5,117,94.0,82.7,No,No,0
+G00201,2023-11-25,Peshawar,BSIT,Female,2,2.7,2.41,Web App,No,11,4,2,5,8,24,68.2,83.0,No,No,0
+G01159,2025-01-13,Faisalabad,BSIT,Female,2,2.76,2.17,Mobile App,No,11,5,2,4,4,41,71.6,78.7,No,No,0
+G00686,2024-06-15,Lahore,BSAI,Female,3,2.8,2.44,Web App,No,7,6,4,2,5,187,68.7,75.2,No,No,0
+G00021,2023-09-08,Karachi,BSSE,Male,3,3.54,3.17,Web App,No,8,6,2,5,9,37,85.1,84.8,No,No,0
+G01479,2025-05-27,Rawalpindi,BSDS,Female,4,3.23,2.92,Web App,No,5,6,1,4,3,49,79.9,78.1,No,No,0
+G01314,2025-03-15,Lahore,BSSE,Female,4,2.05,1.71,Web App,No,12,11,3,4,6,24,72.0,47.0,Yes,Yes,1
+G01419,2025-05-03,Peshawar,BSIT,Female,2,2.85,2.61,Web App,No,10,7,1,3,6,106,78.4,68.3,No,No,0
+G00088,2023-10-07,Lahore,BSSE,Female,3,3.27,3.07,AI-ML,Yes,4,11,2,1,3,42,65.1,92.8,No,No,0
+G01195,2025-01-28,Faisalabad,BSCS,Female,2,3.16,2.78,AI-ML,No,2,7,1,6,8,41,90.2,61.6,No,No,0
+G01306,2025-03-11,Karachi,BSSE,Male,5,3.46,3.36,IoT,No,7,9,2,2,12,105,72.0,63.4,No,No,0
+G00358,2024-02-04,Islamabad,BSSE,Male,4,3.13,2.84,AI-ML,No,2,12,1,3,1,114,78.0,68.7,No,No,0
+G00746,2024-07-14,Rawalpindi,BSIT,Male,2,3.64,3.25,AI-ML,No,6,5,0,2,4,120,88.8,65.4,No,No,0
+G00307,2024-01-13,Lahore,BSIT,Male,1,3.34,3.34,Mobile App,No,4,5,1,4,1,75,77.2,73.6,No,No,0
+G00484,2024-03-25,Karachi,BSAI,Male,2,3.19,2.9,Web App,No,1,4,2,7,5,22,82.8,47.1,No,Yes,1
+G01791,2025-10-15,Islamabad,BSCS,Male,2,2.92,2.78,Mobile App,No,1,5,3,1,2,39,47.7,81.1,Yes,No,0
+G01160,2025-01-13,Karachi,BSAI,Male,2,3.76,3.3,AI-ML,No,22,6,1,2,12,73,100.0,72.7,No,No,0
+G01172,2025-01-17,Faisalabad,BSAI,Male,2,2.4,1.91,AI-ML,No,12,9,3,10,4,83,58.5,76.2,No,No,0
+G00700,2024-06-21,Islamabad,BSCS,Female,5,3.57,3.28,AI-ML,No,9,7,1,4,2,37,83.9,87.8,No,No,0
+G01292,2025-03-06,Faisalabad,BSIT,Female,4,2.8,2.53,Mobile App,No,6,6,3,4,7,26,68.7,53.6,Yes,Yes,1
+G00848,2024-08-29,Karachi,BSAI,Female,3,3.44,3.23,AI-ML,No,6,3,2,1,7,207,97.7,77.9,No,No,0
+G01262,2025-02-21,Islamabad,BSAI,Male,3,3.91,3.33,Web App,No,3,8,1,15,2,119,100.0,70.2,No,No,0
+G00112,2023-10-19,Faisalabad,BSIT,Male,4,2.71,1.81,Web App,No,5,6,1,3,6,57,60.1,79.8,No,No,0
+G01424,2025-05-05,Rawalpindi,BSSE,Male,1,2.77,2.77,Web App,No,3,9,2,5,4,15,49.2,75.4,No,No,0
+G00199,2023-11-25,Rawalpindi,BSSE,Male,3,2.58,2.47,IoT,Yes,1,6,0,3,6,50,67.1,82.4,No,No,0
+G01562,2025-06-27,Peshawar,BSCS,Female,5,2.87,2.66,AI-ML,No,7,2,3,2,6,201,77.1,75.9,No,No,0
+G00560,2024-04-22,Lahore,BSDS,Male,3,3.23,3.11,Mobile App,No,8,7,1,0,3,68,76.8,64.1,No,No,0
+G01438,2025-05-12,Lahore,BSAI,Male,3,2.98,2.24,Mobile App,No,5,8,1,1,3,57,66.2,54.9,Yes,Yes,1
+G01054,2024-11-29,Karachi,BSAI,Male,3,3.27,2.71,Mobile App,No,4,6,1,3,2,31,69.5,58.2,Yes,Yes,1
+G00050,2023-09-18,Lahore,BSCS,Female,4,3.95,3.9,Web App,Yes,5,4,0,1,6,10,92.2,64.6,No,No,0
+G01574,2025-07-03,Karachi,BSAI,Male,3,3.29,3.02,Web App,Yes,1,6,2,3,6,161,99.6,66.6,No,No,0
+G01502,2025-06-03,Multan,BSAI,Male,2,3.15,2.64,Web App,No,2,11,1,2,7,79,90.3,56.1,No,No,0
+G00760,2024-07-21,Rawalpindi,BSAI,Male,4,3.35,2.73,Mobile App,No,13,4,1,12,9,78,75.5,82.4,No,No,0
+G01081,2024-12-10,Peshawar,BSIT,Male,4,2.62,1.75,Research,No,18,5,1,1,10,17,51.9,41.3,Yes,Yes,1
+G00391,2024-02-19,Quetta,BSCS,Male,5,2.37,1.82,Mobile App,Yes,6,6,2,2,5,172,64.9,82.8,No,No,0
+G01255,2025-02-18,Islamabad,BSIT,Female,2,3.21,3.12,Web App,No,6,3,1,2,5,16,79.1,91.8,No,No,0
+G01228,2025-02-09,Faisalabad,BSSE,Male,4,3.3,3.2,Web App,No,8,6,0,6,6,137,67.5,69.2,No,No,0
+G01120,2024-12-29,Quetta,BSAI,Female,3,2.97,2.83,IoT,No,1,9,2,2,1,44,46.2,62.0,No,No,0
+G00646,2024-06-01,Karachi,BSIT,Male,3,3.6,3.31,Mobile App,No,2,8,0,2,7,131,76.4,67.5,No,No,0
+G01154,2025-01-10,Faisalabad,BSDS,Male,4,2.72,2.36,IoT,No,4,5,1,1,12,31,72.0,81.8,No,No,0
+G00338,2024-01-28,Islamabad,BSAI,Female,3,3.36,3.09,Research,No,2,9,0,9,6,57,74.2,89.1,No,No,0
+G00769,2024-07-24,Rawalpindi,BSSE,Male,5,3.02,2.75,AI-ML,No,8,6,2,16,2,35,42.6,48.0,Yes,Yes,1
+G01509,2025-06-06,Islamabad,BSIT,Female,3,2.91,2.49,Web App,No,13,6,4,3,6,111,77.0,71.6,No,No,0
+G00955,2024-10-12,Karachi,BSAI,Female,3,2.68,2.59,Mobile App,No,8,5,1,1,2,56,58.6,65.3,No,No,0
+G01224,2025-02-08,Faisalabad,BSIT,Male,3,3.07,2.53,Mobile App,No,6,4,4,3,1,84,67.1,59.6,No,No,0
+G00085,2023-10-05,Peshawar,BSDS,Female,3,2.48,2.05,Mobile App,No,2,6,1,2,2,31,53.6,75.0,No,No,0
+G00132,2023-10-24,Islamabad,BSSE,Female,3,3.49,3.32,Web App,Yes,7,2,0,13,0,68,75.3,72.4,No,No,0
+G00904,2024-09-22,Rawalpindi,BSSE,Male,3,3.23,2.84,Web App,No,7,6,3,5,5,80,76.3,70.3,No,No,0
+G01429,2025-05-07,Karachi,BSIT,Female,3,2.64,2.46,Mobile App,No,1,7,1,4,6,57,69.2,56.8,No,No,0
+G00342,2024-01-29,Multan,BSCS,Female,3,2.7,2.07,IoT,No,9,6,2,4,0,78,42.8,37.6,Yes,Yes,1
+G00889,2024-09-16,Karachi,BSDS,Female,4,2.83,2.48,AI-ML,No,12,6,3,2,5,188,75.1,55.6,No,No,0
+G01656,2025-08-11,Peshawar,BSAI,Female,3,2.4,2.02,AI-ML,No,4,7,1,2,5,56,56.0,63.4,No,No,0
+G01183,2025-01-21,Karachi,BSAI,Male,2,2.91,2.75,AI-ML,No,3,4,1,2,3,52,59.6,76.1,No,No,0
+G01089,2024-12-13,Multan,BSAI,Male,5,3.11,2.75,Mobile App,No,3,6,1,6,3,17,39.1,49.4,Yes,Yes,1
+G01359,2025-04-07,Lahore,BSCS,Male,4,3.08,2.84,AI-ML,No,6,6,0,2,7,95,79.7,51.6,No,No,0
+G01647,2025-08-08,Karachi,BSDS,Female,2,3.04,2.94,AI-ML,No,3,9,1,3,4,44,68.5,86.8,No,No,0
+G00079,2023-10-02,Karachi,BSSE,Female,2,2.76,2.43,Mobile App,No,4,4,2,6,10,126,85.7,73.8,No,No,0
+G01528,2025-06-15,Quetta,BSCS,Male,4,3.65,2.75,AI-ML,No,8,4,3,4,7,57,88.6,62.5,No,No,0
+G00005,2023-09-03,Lahore,BSCS,Male,4,3.35,3.18,IoT,No,18,5,3,3,3,76,77.7,76.4,No,No,0
+G00063,2023-09-24,Multan,BSSE,Female,4,3.51,3.41,Web App,No,6,10,3,2,11,170,96.2,74.8,No,No,0
+G01463,2025-05-22,Lahore,BSCS,Female,4,3.39,3.27,IoT,Yes,17,8,2,4,2,39,72.0,76.5,No,No,0
+G00814,2024-08-12,Karachi,BSDS,Male,3,3.38,2.51,Mobile App,No,6,6,3,4,4,56,70.1,57.3,No,No,0
+G00220,2023-12-03,Karachi,BSAI,Female,3,3.32,3.13,AI-ML,No,1,8,4,1,7,57,82.9,59.5,No,No,0
+G01387,2025-04-16,Peshawar,BSCS,Male,2,2.35,1.67,Mobile App,No,3,3,1,2,9,121,65.1,57.7,Yes,No,0
+G00838,2024-08-23,Karachi,BSCS,Female,4,3.6,3.13,IoT,No,3,4,3,3,9,53,90.9,57.1,No,No,0
+G00308,2024-01-14,Rawalpindi,BSCS,Male,4,3.09,2.86,Web App,Yes,2,9,1,4,5,38,70.7,76.8,No,No,0
+G01226,2025-02-08,Karachi,BSSE,Female,2,2.86,2.52,AI-ML,No,3,7,1,2,3,79,61.8,80.4,No,No,0
+G00871,2024-09-08,Faisalabad,BSIT,Female,2,3.45,3.12,Web App,No,8,4,0,2,7,57,84.3,68.6,No,No,0
+G00302,2024-01-10,Lahore,BSAI,Male,1,3.07,3.07,Mobile App,No,3,10,4,2,6,110,85.6,73.5,No,No,0
+G01599,2025-07-18,Faisalabad,BSSE,Male,4,3.48,3.28,Mobile App,No,4,5,1,3,4,68,85.4,62.6,No,No,0
+G00798,2024-08-05,Karachi,BSCS,Male,2,3.11,2.82,Mobile App,No,21,5,2,3,5,49,73.9,74.3,No,No,0
+G01275,2025-02-28,Islamabad,BSCS,Female,4,3.29,3.16,IoT,No,3,4,0,1,5,140,83.9,84.3,No,No,0
+G01557,2025-06-26,Rawalpindi,BSAI,Female,5,3.03,2.54,Mobile App,No,4,9,1,2,3,162,72.3,56.3,No,No,0
+G01781,2025-10-12,Multan,BSCS,Male,2,2.94,2.66,Mobile App,No,6,5,0,3,3,39,58.6,68.7,No,No,0
+G01651,2025-08-09,Islamabad,BSCS,Male,3,2.96,2.13,IoT,No,6,3,1,6,11,44,67.0,74.5,Yes,No,0
+G00693,2024-06-17,Peshawar,BSCS,Male,1,3.17,3.17,IoT,No,3,5,1,3,5,25,72.3,84.0,No,No,0
+G01258,2025-02-19,Karachi,BSIT,Male,3,3.58,3.24,IoT,Yes,7,3,2,3,1,55,82.3,58.7,No,No,0
+G01778,2025-10-11,Multan,BSCS,Male,2,3.54,3.31,AI-ML,No,6,4,2,4,5,20,82.1,65.1,No,No,0
+G01214,2025-02-03,Multan,BSIT,Male,1,3.11,3.11,AI-ML,No,0,4,5,1,3,113,76.6,70.7,No,No,0
+G01759,2025-10-05,Islamabad,BSDS,Female,2,3.28,3.12,AI-ML,No,7,4,1,2,1,50,70.5,85.5,No,No,0
+G00583,2024-04-30,Karachi,BSSE,Male,1,2.86,2.86,Mobile App,No,4,3,0,6,8,50,84.1,68.9,No,No,0
+G00698,2024-06-20,Lahore,BSDS,Male,4,2.83,2.43,Web App,No,5,8,2,1,7,71,72.6,71.6,No,No,0
+G01554,2025-06-24,Lahore,BSCS,Male,2,2.59,2.52,IoT,No,8,6,0,3,6,126,76.9,56.4,No,No,0
+G00135,2023-10-26,Karachi,BSCS,Male,2,3.3,2.71,Web App,Yes,3,5,2,13,4,22,62.9,40.2,Yes,Yes,1
+G01134,2025-01-02,Lahore,BSAI,Male,1,3.16,3.16,Research,Yes,5,6,0,2,7,21,77.3,68.0,No,No,0
+G00734,2024-07-07,Rawalpindi,BSSE,Male,4,2.78,2.51,Web App,No,3,3,1,10,7,71,70.6,92.9,No,No,0
+G00952,2024-10-11,Faisalabad,BSDS,Female,3,2.91,2.36,IoT,Yes,4,4,4,3,8,65,68.6,78.9,No,No,0
+G01672,2025-08-20,Lahore,BSSE,Male,2,3.15,2.51,AI-ML,No,6,3,0,2,5,16,71.3,59.4,No,No,0
+G00917,2024-09-28,Multan,BSCS,Female,5,2.67,2.0,Research,Yes,2,8,1,6,6,282,72.0,58.4,No,No,0
+G01695,2025-09-06,Rawalpindi,BSIT,Female,2,3.17,2.88,Web App,No,8,3,0,3,1,12,59.8,46.7,No,No,0
+G01642,2025-08-05,Peshawar,BSIT,Male,3,2.92,2.81,Web App,No,14,6,1,2,9,79,72.4,84.0,No,No,0
+G01339,2025-03-28,Quetta,BSDS,Male,3,3.3,2.64,Web App,No,4,7,3,3,2,76,72.6,72.9,No,No,0
+G00905,2024-09-22,Islamabad,BSIT,Male,3,3.11,2.99,AI-ML,Yes,5,6,1,5,5,29,61.8,75.4,Yes,No,0
+G00211,2023-11-29,Faisalabad,BSSE,Male,3,2.34,1.71,Research,No,3,5,2,4,0,57,34.7,84.5,No,No,0
+G00388,2024-02-18,Quetta,BSCS,Female,5,2.7,2.41,AI-ML,No,10,8,3,3,1,106,52.6,61.7,Yes,Yes,1
+G00818,2024-08-13,Multan,BSDS,Female,4,2.62,2.38,Web App,No,9,7,1,2,4,55,57.6,84.1,No,No,0
+G00775,2024-07-26,Multan,BSIT,Male,4,3.27,2.72,Mobile App,No,6,5,0,5,2,283,71.4,70.6,No,No,0
+G00817,2024-08-13,Faisalabad,BSDS,Male,2,3.1,2.62,Web App,No,3,5,3,4,4,54,77.3,55.7,No,Yes,1
+G00422,2024-02-29,Quetta,BSAI,Male,1,3.6,3.6,Web App,No,5,2,1,6,6,13,86.4,79.8,No,No,0
+G01734,2025-09-21,Lahore,BSAI,Female,4,2.8,2.21,IoT,No,2,7,0,1,2,11,44.5,78.3,No,No,0
+G01088,2024-12-12,Multan,BSSE,Male,3,2.81,2.15,Mobile App,Yes,4,4,1,1,7,127,67.1,71.6,No,No,0
+G00959,2024-10-15,Peshawar,BSAI,Female,5,3.24,2.91,Mobile App,No,10,6,3,4,1,12,50.1,80.2,No,No,0
+G00668,2024-06-08,Islamabad,BSCS,Male,3,3.57,2.77,Web App,No,6,1,0,9,7,55,88.8,72.1,No,No,0
+G00920,2024-09-29,Faisalabad,BSIT,Male,4,2.6,1.93,Mobile App,No,6,6,0,2,7,32,61.4,83.2,No,No,0
+G01059,2024-11-30,Lahore,BSCS,Male,4,2.48,1.96,Mobile App,No,11,2,0,5,4,25,63.1,82.7,No,No,0
+G01721,2025-09-13,Faisalabad,BSCS,Male,3,3.09,2.86,Web App,No,6,6,2,2,8,124,83.6,87.1,No,No,0
+G00662,2024-06-05,Faisalabad,BSAI,Male,3,3.47,3.18,AI-ML,No,8,7,1,6,1,91,83.4,74.1,No,No,0
+G00109,2023-10-16,Quetta,BSAI,Female,3,3.11,2.49,AI-ML,No,4,1,2,2,6,13,63.1,43.5,Yes,Yes,1
+G01186,2025-01-23,Faisalabad,BSAI,Male,3,2.45,2.28,Mobile App,No,8,6,3,5,7,16,66.7,62.8,No,No,0
+G01703,2025-09-07,Peshawar,BSIT,Female,3,3.1,2.88,AI-ML,No,4,6,0,2,9,104,83.6,81.3,No,No,0
+G01696,2025-09-06,Multan,BSCS,Male,1,3.31,3.31,AI-ML,No,6,2,5,1,4,28,71.9,80.0,No,No,0
+G00038,2023-09-13,Rawalpindi,BSSE,Female,3,2.77,2.67,Mobile App,No,3,3,1,2,4,176,59.3,69.0,No,No,0
+G01206,2025-02-01,Multan,BSCS,Female,4,3.0,2.62,AI-ML,No,3,9,0,5,3,30,71.0,71.0,No,No,0
+G01099,2024-12-16,Islamabad,BSCS,Male,3,2.99,2.92,AI-ML,No,5,7,2,4,4,86,63.6,53.2,Yes,No,0
+G00879,2024-09-10,Faisalabad,BSSE,Female,4,2.83,2.75,Mobile App,No,6,4,2,1,9,136,87.3,68.5,No,No,0
+G01577,2025-07-05,Islamabad,BSCS,Female,3,2.47,2.23,Web App,No,6,6,2,2,7,109,79.8,50.2,Yes,Yes,1
+G00012,2023-09-05,Karachi,BSCS,Female,3,2.98,2.35,Web App,No,1,7,1,2,9,37,60.5,73.1,No,No,0
+G01796,2025-10-18,Peshawar,BSCS,Male,3,3.32,2.66,Web App,No,4,5,0,4,3,51,83.7,71.7,No,No,0
+G01591,2025-07-16,Lahore,BSCS,Female,4,3.3,3.13,Research,No,4,8,1,2,3,62,68.3,72.7,No,No,0
+G00331,2024-01-24,Lahore,BSAI,Male,4,3.44,3.23,Mobile App,No,6,9,1,4,3,229,78.4,73.3,No,No,0
+G01236,2025-02-12,Lahore,BSAI,Male,5,3.76,3.21,Web App,No,1,8,1,1,6,62,91.3,82.0,No,No,0
+G00915,2024-09-28,Lahore,BSCS,Male,4,3.56,3.32,Mobile App,No,8,6,3,4,5,14,68.4,62.5,No,No,0
+G00704,2024-06-21,Faisalabad,BSSE,Female,4,2.68,2.51,Mobile App,No,3,6,1,1,4,50,70.3,64.1,Yes,No,0
+G00306,2024-01-13,Lahore,BSCS,Male,3,3.61,3.31,Mobile App,No,2,4,2,0,9,57,90.6,82.7,No,No,0
+G01467,2025-05-23,Lahore,BSCS,Female,4,3.76,3.55,Web App,No,4,7,3,6,5,144,100.0,81.1,No,No,0
+G01164,2025-01-16,Islamabad,BSSE,Male,3,3.59,3.3,AI-ML,No,11,7,2,3,8,57,87.0,70.4,No,No,0
+G00810,2024-08-09,Islamabad,BSDS,Female,5,3.13,2.99,IoT,No,4,7,2,1,3,142,74.6,79.8,No,No,0
+G00654,2024-06-02,Rawalpindi,BSIT,Male,5,3.03,2.73,Web App,No,4,4,2,3,5,92,95.8,82.5,No,No,0
+G01777,2025-10-11,Peshawar,BSSE,Female,3,3.1,2.87,Web App,Yes,7,8,4,1,4,358,84.5,80.9,No,No,0
+G01039,2024-11-23,Karachi,BSCS,Male,2,3.19,3.02,Web App,No,2,8,3,5,6,71,72.0,79.9,No,No,0
+G00653,2024-06-02,Islamabad,BSCS,Male,4,2.89,2.27,Mobile App,Yes,15,6,2,8,8,57,71.9,70.9,No,No,0
+G00437,2024-03-05,Faisalabad,BSSE,Male,3,2.94,2.9,Web App,No,11,8,4,3,4,17,67.3,78.8,No,No,0
+G01372,2025-04-12,Lahore,BSAI,Female,3,3.37,2.79,AI-ML,No,3,4,0,2,4,25,75.5,68.0,No,No,0
+G00885,2024-09-14,Quetta,BSDS,Female,2,3.67,3.16,Web App,No,4,9,2,3,12,55,75.7,75.2,No,No,0
+G01196,2025-01-28,Faisalabad,BSDS,Female,2,3.17,2.86,AI-ML,No,15,5,0,1,0,91,64.0,65.9,No,No,0
+G00417,2024-02-28,Islamabad,BSIT,Male,3,3.15,2.82,AI-ML,No,3,5,2,2,3,94,81.4,69.5,No,No,0
+G00962,2024-10-16,Lahore,BSSE,Male,3,2.75,2.45,AI-ML,Yes,9,9,4,1,5,28,63.5,62.7,No,No,0
+G01033,2024-11-20,Peshawar,BSAI,Female,3,3.16,2.93,IoT,Yes,2,8,1,0,7,30,91.7,70.3,No,No,0
+G00779,2024-07-29,Faisalabad,BSSE,Female,2,3.53,3.25,IoT,No,8,4,0,0,4,69,67.2,68.9,No,No,0
+G01531,2025-06-15,Peshawar,BSAI,Male,3,3.35,3.05,IoT,No,5,5,4,4,7,211,72.0,68.6,No,No,0
+G00408,2024-02-24,Peshawar,BSCS,Male,4,2.75,2.43,Web App,No,8,3,3,1,5,82,64.8,61.6,No,No,0
+G00588,2024-05-06,Peshawar,BSAI,Male,3,2.74,2.57,Research,No,2,5,0,1,4,29,61.3,50.8,Yes,Yes,1
+G01349,2025-04-01,Multan,BSCS,Female,4,2.7,2.22,IoT,No,2,2,1,4,3,48,51.0,55.0,Yes,Yes,1
+G00797,2024-08-05,Multan,BSDS,Male,3,2.25,1.5,Web App,No,12,5,0,1,6,75,65.2,54.6,Yes,Yes,1
+G01459,2025-05-21,Rawalpindi,BSIT,Male,3,3.58,3.52,AI-ML,No,12,4,1,5,6,42,86.3,64.5,No,No,0
+G01017,2024-11-11,Karachi,BSAI,Male,3,3.71,3.14,AI-ML,No,6,5,3,3,2,65,81.0,64.9,No,No,0
+G01293,2025-03-07,Rawalpindi,BSDS,Female,3,2.18,1.84,Mobile App,No,4,3,3,5,3,41,45.3,73.9,No,No,0
+G01515,2025-06-07,Karachi,BSDS,Male,3,2.69,2.38,AI-ML,No,1,4,1,2,6,123,85.4,52.2,No,No,0
+G00300,2024-01-10,Lahore,BSAI,Female,3,2.97,2.93,IoT,No,3,7,0,0,4,92,73.0,72.3,No,No,0
+G01189,2025-01-24,Faisalabad,BSSE,Female,3,3.18,2.4,AI-ML,No,8,6,3,1,2,88,73.5,63.4,Yes,Yes,1
+G00888,2024-09-15,Karachi,BSAI,Male,5,3.61,2.92,Web App,No,10,4,2,3,6,29,73.6,77.4,No,No,0
+G01552,2025-06-24,Multan,BSAI,Male,3,3.17,2.93,Web App,No,7,5,0,7,5,57,71.1,43.4,Yes,Yes,1
+G00241,2023-12-11,Karachi,BSIT,Female,3,3.33,3.09,Research,No,2,3,4,8,2,110,66.8,74.0,No,No,0
+G00200,2023-11-25,Islamabad,BSAI,Male,4,2.56,2.33,Mobile App,No,4,4,1,2,5,70,83.0,57.2,Yes,Yes,1
+G00046,2023-09-16,Lahore,BSCS,Male,4,2.79,2.53,Mobile App,No,4,6,3,4,4,57,67.9,62.9,No,No,0
+G01310,2025-03-13,Islamabad,BSAI,Female,3,2.21,1.5,AI-ML,No,4,5,1,2,4,165,57.9,88.4,No,No,0
+G01221,2025-02-08,Lahore,BSAI,Female,4,2.31,2.07,Web App,No,11,8,0,2,9,42,67.4,69.9,No,No,0
+G00138,2023-10-28,Karachi,BSDS,Male,5,2.89,2.81,Research,No,6,10,3,5,2,77,47.1,57.2,Yes,Yes,1
+G01184,2025-01-22,Lahore,BSIT,Male,3,2.78,2.63,AI-ML,Yes,3,8,1,3,2,59,66.3,70.6,No,No,0
+G01060,2024-12-01,Karachi,BSCS,Female,4,2.7,2.04,Mobile App,No,6,6,2,0,4,81,57.4,78.7,No,No,0
+G01567,2025-06-29,Lahore,BSCS,Male,3,2.76,2.55,Web App,Yes,16,10,1,1,2,16,54.5,84.2,No,No,0
+G01274,2025-02-26,Lahore,BSIT,Male,4,2.52,2.23,Web App,No,4,2,4,2,3,48,38.2,28.5,Yes,Yes,1
+G01537,2025-06-17,Multan,BSAI,Male,2,3.95,3.81,IoT,No,2,1,1,1,11,31,77.8,84.5,Yes,No,0
+G00119,2023-10-21,Karachi,BSIT,Female,2,3.45,3.22,IoT,No,7,7,0,1,3,26,86.2,73.5,Yes,No,0
+G00382,2024-02-15,Faisalabad,BSSE,Male,3,3.09,2.95,Mobile App,No,1,6,0,4,5,66,75.9,63.1,No,No,0
+G00206,2023-11-27,Quetta,BSSE,Male,5,3.36,3.16,IoT,No,8,5,1,4,6,58,83.4,38.3,Yes,Yes,1
+G01559,2025-06-27,Faisalabad,BSAI,Male,3,3.15,2.86,Web App,No,4,4,2,3,7,62,80.5,60.7,No,No,0
+G01521,2025-06-11,Faisalabad,BSAI,Female,2,3.06,2.88,Web App,No,3,5,0,4,5,20,72.3,62.2,No,No,0
+G00639,2024-05-29,Lahore,BSSE,Male,4,3.22,2.61,AI-ML,No,6,6,1,3,5,143,86.5,83.5,No,No,0
+G00449,2024-03-12,Islamabad,BSCS,Male,3,2.55,2.23,Web App,No,10,5,2,5,2,67,33.0,43.4,Yes,Yes,1
+G00511,2024-04-05,Lahore,BSSE,Male,3,3.34,3.03,AI-ML,Yes,17,4,2,1,3,57,58.2,74.4,No,No,0
+G00424,2024-03-01,Lahore,BSCS,Male,2,3.29,2.88,Web App,No,16,3,3,4,8,43,81.7,69.9,No,No,0
+G00007,2023-09-03,Karachi,BSSE,Male,4,2.65,2.17,IoT,No,12,6,0,4,0,33,34.9,42.7,Yes,Yes,1
+G01122,2024-12-29,Peshawar,BSAI,Female,3,3.53,3.35,IoT,No,3,10,2,3,4,97,82.8,75.7,No,No,0
+G00159,2023-11-10,Islamabad,BSCS,Female,3,2.78,2.51,Mobile App,No,8,6,1,2,2,14,57.4,46.5,Yes,Yes,1
+G00033,2023-09-10,Peshawar,BSDS,Female,4,3.32,3.29,Research,No,3,4,2,3,1,99,71.1,74.7,No,No,0
+G01268,2025-02-24,Rawalpindi,BSIT,Male,3,2.84,2.29,IoT,Yes,4,8,0,3,3,134,71.2,78.7,No,No,0
+G00157,2023-11-09,Islamabad,BSAI,Male,2,3.07,2.25,Web App,Yes,7,6,1,3,5,64,72.0,77.2,No,No,0
+G00522,2024-04-09,Karachi,BSSE,Female,3,3.29,3.12,Research,No,2,7,4,10,3,30,76.5,68.4,No,No,0
+G00491,2024-03-27,Faisalabad,BSCS,Male,3,2.69,2.41,Web App,No,3,12,1,1,8,68,63.8,60.4,No,No,0
+G01005,2024-11-03,Islamabad,BSIT,Male,1,2.72,2.72,Mobile App,No,13,4,1,8,2,89,67.6,67.8,No,No,0
+G00594,2024-05-08,Peshawar,BSCS,Male,4,3.04,2.89,IoT,No,12,3,1,3,4,51,59.2,79.3,No,No,0
+G00623,2024-05-19,Multan,BSAI,Male,4,2.77,2.45,Web App,No,6,3,1,2,9,74,83.6,60.7,Yes,Yes,1
+G00995,2024-10-28,Karachi,BSDS,Male,3,3.12,3.07,IoT,No,4,3,3,5,6,69,79.9,63.1,No,No,0
+G01569,2025-06-30,Islamabad,BSSE,Male,2,3.3,3.02,IoT,No,7,6,1,4,4,139,84.1,79.7,No,No,0
+G00407,2024-02-24,Karachi,BSCS,Male,4,2.85,2.48,Research,No,5,5,2,11,2,318,72.0,69.1,Yes,No,0
+G00940,2024-10-05,Peshawar,BSAI,Male,4,3.47,3.27,AI-ML,No,4,8,1,3,4,128,87.8,65.9,No,No,0
+G00546,2024-04-18,Islamabad,BSDS,Male,3,3.01,2.11,IoT,Yes,16,8,1,6,2,84,62.6,43.9,Yes,Yes,1
+G01645,2025-08-07,Karachi,BSAI,Female,2,3.64,3.09,Mobile App,No,13,6,0,2,1,146,78.1,77.8,No,No,0
+G01568,2025-06-30,Faisalabad,BSCS,Male,3,3.42,3.2,IoT,No,6,8,2,3,2,49,77.5,77.2,No,No,0
+G01608,2025-07-21,Rawalpindi,BSCS,Male,3,2.8,1.9,Mobile App,No,3,5,0,3,1,54,47.6,34.3,Yes,Yes,1
+G01321,2025-03-18,Faisalabad,BSDS,Female,2,2.74,2.42,Mobile App,No,7,10,1,3,4,98,66.8,61.9,No,No,0
+G00682,2024-06-13,Islamabad,BSDS,Female,3,2.51,2.17,IoT,No,9,4,0,1,9,144,78.5,74.0,No,No,0
+G00896,2024-09-19,Lahore,BSSE,Female,3,3.08,2.86,AI-ML,No,5,4,4,1,5,57,72.0,61.2,No,No,0
+G00154,2023-11-06,Rawalpindi,BSSE,Male,3,3.17,2.64,Mobile App,Yes,4,2,1,1,5,82,76.7,72.2,No,No,0
+G00123,2023-10-22,Peshawar,BSCS,Male,1,3.34,3.34,AI-ML,No,5,6,2,4,7,32,88.6,81.6,No,No,0
+G01710,2025-09-09,Lahore,BSSE,Male,1,2.84,2.84,Research,Yes,6,4,1,1,8,69,79.5,80.1,No,No,0
+G00121,2023-10-21,Peshawar,BSAI,Female,2,2.88,2.34,Mobile App,No,7,3,0,5,7,75,68.8,75.8,No,No,0
+G01488,2025-05-29,Karachi,BSIT,Male,4,3.24,3.12,Web App,No,2,6,3,2,0,104,80.7,61.1,No,No,0
+G00847,2024-08-29,Faisalabad,BSDS,Male,3,3.23,2.94,Web App,No,8,8,0,1,5,15,66.6,75.4,No,No,0
+G00601,2024-05-11,Lahore,BSAI,Male,2,3.04,2.82,Research,No,0,5,0,4,5,20,65.4,73.6,No,No,0
+G00464,2024-03-18,Islamabad,BSAI,Male,4,2.94,2.54,AI-ML,No,10,2,1,3,3,86,65.1,76.5,Yes,No,0
+G01239,2025-02-13,Rawalpindi,BSIT,Male,2,3.46,3.17,IoT,No,3,8,4,1,7,77,72.0,60.7,No,No,0
+G01232,2025-02-10,Rawalpindi,BSIT,Male,5,2.7,1.99,Web App,No,2,7,1,3,6,52,60.7,78.7,No,No,0
+G01793,2025-10-16,Multan,BSAI,Female,3,3.03,2.77,IoT,Yes,3,5,1,1,5,71,78.2,81.4,Yes,No,0
+G01622,2025-07-26,Multan,BSSE,Male,3,3.33,2.78,Web App,Yes,6,6,3,1,3,55,78.0,76.7,No,No,0
+G00587,2024-05-05,Faisalabad,BSCS,Male,4,2.77,1.88,Mobile App,Yes,7,5,1,4,6,35,50.3,66.6,No,No,0
+G00947,2024-10-09,Islamabad,BSAI,Male,2,3.23,2.46,Web App,No,3,7,0,3,6,22,85.3,36.4,Yes,Yes,1
+G01435,2025-05-10,Rawalpindi,BSDS,Male,5,3.48,3.46,Mobile App,No,6,7,1,2,1,62,71.6,69.6,No,No,0
+G01386,2025-04-15,Karachi,BSAI,Male,3,3.95,3.63,Research,Yes,10,6,1,4,6,63,92.5,73.2,No,No,0
+G01416,2025-05-02,Peshawar,BSDS,Female,2,3.5,2.73,Research,No,1,11,5,3,6,27,68.9,42.3,No,Yes,1
+G00523,2024-04-09,Karachi,BSCS,Female,3,2.59,2.23,AI-ML,No,10,5,1,2,6,69,64.5,40.7,Yes,Yes,1
+G00198,2023-11-24,Rawalpindi,BSDS,Male,3,2.78,2.27,AI-ML,No,6,6,0,0,5,35,79.6,64.7,No,No,0
+G00151,2023-11-02,Karachi,BSAI,Male,4,2.39,2.08,Web App,No,1,4,0,4,10,28,54.0,63.4,No,No,0
+G00529,2024-04-13,Karachi,BSAI,Female,4,3.04,2.66,Web App,Yes,8,3,4,5,4,60,81.3,83.1,No,No,0
+G00691,2024-06-17,Lahore,BSAI,Female,2,3.17,2.61,Mobile App,Yes,5,5,0,3,3,93,58.9,72.4,No,No,0
+G00181,2023-11-19,Faisalabad,BSSE,Male,2,3.11,3.01,AI-ML,Yes,3,7,1,1,5,33,69.0,68.2,No,No,0
+G00993,2024-10-26,Peshawar,BSAI,Male,3,2.77,2.51,Web App,Yes,1,6,4,7,8,68,77.5,66.3,No,No,0
+G01628,2025-07-28,Karachi,BSCS,Male,4,2.61,2.05,Research,No,9,8,3,2,12,97,72.9,53.2,Yes,Yes,1
+G00833,2024-08-20,Multan,BSIT,Female,4,3.13,2.73,Mobile App,No,2,6,2,1,0,23,59.7,42.8,Yes,Yes,1
+G01199,2025-01-29,Lahore,BSCS,Male,4,2.87,2.65,Web App,No,4,3,2,3,5,44,67.7,69.2,No,No,0
+G01345,2025-03-31,Lahore,BSCS,Male,3,2.99,2.86,AI-ML,No,7,5,3,2,8,57,72.6,69.2,No,No,0
+G00651,2024-06-02,Multan,BSCS,Female,2,3.12,2.84,IoT,No,10,5,0,0,5,25,69.2,57.4,No,No,0
+G00258,2023-12-21,Karachi,BSSE,Female,4,2.74,2.59,AI-ML,No,2,6,1,2,4,78,70.4,57.6,Yes,Yes,1
+G01765,2025-10-07,Quetta,BSSE,Male,2,2.92,2.8,AI-ML,No,5,6,2,3,8,33,78.4,81.0,No,No,0
+G01046,2024-11-27,Multan,BSCS,Male,2,3.39,3.28,IoT,No,11,6,4,6,3,92,68.6,66.1,No,No,0
+G01450,2025-05-16,Faisalabad,BSCS,Male,5,3.01,2.72,AI-ML,Yes,4,3,3,6,4,126,71.4,71.2,No,No,0
+G01363,2025-04-08,Multan,BSDS,Male,3,2.98,2.9,AI-ML,Yes,1,4,1,1,10,62,82.8,87.8,No,No,0
+G00475,2024-03-22,Islamabad,BSAI,Male,3,3.45,2.9,Mobile App,No,19,5,3,2,2,54,87.7,79.4,No,No,0
+G00179,2023-11-18,Peshawar,BSAI,Female,3,3.12,2.96,Mobile App,No,1,9,0,2,4,57,62.5,54.9,No,No,0
+G00687,2024-06-15,Rawalpindi,BSIT,Male,4,3.04,2.67,Research,No,5,7,1,3,4,53,66.6,71.6,No,No,0
+G00298,2024-01-09,Karachi,BSSE,Male,3,2.88,2.57,Mobile App,No,9,5,2,3,6,159,80.7,75.0,No,No,0
+G01475,2025-05-26,Lahore,BSSE,Female,3,2.79,2.21,AI-ML,No,5,6,1,3,3,121,57.6,83.7,No,No,0
+G00762,2024-07-22,Rawalpindi,BSAI,Female,4,3.04,2.97,Research,No,6,5,2,2,1,102,63.5,69.9,No,No,0
+G01714,2025-09-11,Lahore,BSAI,Female,2,3.58,3.37,Research,No,1,10,1,2,0,80,100.0,88.9,No,No,0
+G00110,2023-10-16,Lahore,BSCS,Male,3,2.81,2.69,AI-ML,No,6,7,2,4,1,44,62.8,76.8,No,No,0
+G01699,2025-09-07,Faisalabad,BSCS,Female,4,2.57,2.22,Web App,No,13,11,0,3,4,69,53.4,69.4,No,No,0
+G00543,2024-04-17,Peshawar,BSSE,Female,4,3.02,2.87,AI-ML,No,3,7,4,3,1,86,61.2,78.1,No,No,0
+G00936,2024-10-04,Karachi,BSAI,Male,4,3.7,2.8,Mobile App,No,3,9,0,2,4,102,87.8,59.7,No,No,0
+G00650,2024-06-02,Lahore,BSCS,Male,4,2.81,2.65,Mobile App,No,2,3,2,6,12,57,80.7,62.6,Yes,Yes,1
+G00713,2024-06-25,Faisalabad,BSDS,Male,4,3.1,2.88,Web App,No,3,6,0,4,5,98,77.0,67.4,No,No,0
+G01627,2025-07-27,Islamabad,BSCS,Male,3,2.66,2.18,AI-ML,No,7,5,3,2,8,45,63.6,75.3,No,No,0
+G01045,2024-11-27,Karachi,BSCS,Male,2,3.13,3.11,AI-ML,No,3,6,1,3,3,8,57.9,67.6,No,No,0
+G01035,2024-11-21,Multan,BSCS,Male,4,2.8,2.56,Web App,No,6,7,1,3,1,42,53.4,66.6,No,No,0
+G00733,2024-07-07,Islamabad,BSSE,Male,3,3.1,2.89,Web App,No,6,12,3,3,5,62,83.3,51.1,No,No,0
+G00918,2024-09-28,Islamabad,BSCS,Male,2,2.83,2.51,AI-ML,No,2,6,2,4,8,29,63.2,77.1,No,No,0
+G01126,2024-12-30,Islamabad,BSIT,Female,4,2.64,2.41,Web App,No,3,4,2,1,9,5,60.1,33.8,Yes,Yes,1
+G01466,2025-05-23,Lahore,BSCS,Male,3,3.55,3.44,AI-ML,No,3,5,1,8,6,33,81.2,87.2,No,No,0
+G00140,2023-10-29,Faisalabad,BSIT,Female,3,3.33,3.23,IoT,No,4,6,2,3,5,42,76.0,75.5,No,No,0
+G00224,2023-12-03,Rawalpindi,BSCS,Male,3,2.88,2.43,Web App,No,6,6,2,1,4,63,62.4,55.7,Yes,Yes,1
+G00076,2023-09-30,Lahore,BSCS,Female,2,2.94,2.88,Mobile App,No,3,8,3,2,4,17,64.0,75.7,No,No,0
+G00883,2024-09-13,Quetta,BSCS,Female,3,3.37,2.73,Research,Yes,7,4,1,1,1,25,40.6,37.2,Yes,Yes,1
+G01616,2025-07-24,Faisalabad,BSSE,Male,4,3.51,3.09,Mobile App,No,5,5,0,8,0,46,66.7,74.8,No,No,0
+G01230,2025-02-09,Islamabad,BSIT,Female,3,3.05,2.96,Web App,No,3,7,1,4,2,54,72.0,83.4,No,No,0
+G00644,2024-05-31,Peshawar,BSCS,Male,5,3.22,3.06,IoT,No,5,8,4,4,4,39,74.8,66.7,No,No,0
+G00589,2024-05-06,Rawalpindi,BSAI,Male,3,3.0,2.71,Mobile App,No,9,1,0,7,5,34,74.4,65.0,No,No,0
+G00709,2024-06-23,Lahore,BSCS,Male,2,2.98,2.53,AI-ML,No,4,5,2,2,6,51,67.4,83.3,No,No,0
+G01149,2025-01-08,Peshawar,BSSE,Female,2,2.65,1.91,Web App,Yes,13,6,0,7,12,39,72.0,69.0,No,No,0
+G00624,2024-05-19,Lahore,BSIT,Female,3,3.03,2.9,Web App,No,13,6,1,3,2,38,72.3,77.6,No,No,0
+G00724,2024-07-03,Karachi,BSAI,Female,5,3.14,2.94,Web App,No,7,7,0,6,5,67,64.5,73.1,No,No,0
+G01594,2025-07-16,Faisalabad,BSCS,Female,4,3.37,3.28,Mobile App,No,14,5,2,2,4,101,72.0,79.4,No,No,0
+G01625,2025-07-27,Karachi,BSAI,Female,2,3.65,3.48,IoT,No,5,2,1,2,4,56,71.8,78.9,No,No,0
+G01495,2025-06-01,Faisalabad,BSAI,Female,3,2.68,2.48,AI-ML,No,18,4,4,8,7,38,72.0,48.6,No,Yes,1
+G01403,2025-04-25,Islamabad,BSCS,Female,4,3.09,2.76,Research,No,13,8,2,5,5,72,82.5,42.6,Yes,Yes,1
+G00396,2024-02-21,Peshawar,BSAI,Male,3,2.39,1.76,Web App,No,4,3,1,2,9,57,50.4,72.9,No,No,0
+G00840,2024-08-26,Karachi,BSSE,Male,3,3.15,3.01,Mobile App,No,3,5,0,7,4,131,73.3,68.5,No,No,0
+G01209,2025-02-02,Peshawar,BSCS,Male,3,3.17,3.04,Mobile App,No,15,6,1,4,2,65,60.4,69.4,No,No,0
+G01080,2024-12-09,Lahore,BSSE,Female,4,3.5,3.44,Mobile App,No,8,4,2,3,6,39,79.6,69.5,No,No,0
+G01583,2025-07-12,Islamabad,BSCS,Male,2,2.76,2.59,Research,No,8,7,1,10,6,44,59.8,48.3,Yes,Yes,1
+G01700,2025-09-07,Karachi,BSCS,Male,4,3.34,3.09,Mobile App,Yes,3,6,0,1,6,75,85.8,77.2,No,No,0
+G00166,2023-11-14,Karachi,BSSE,Male,3,2.91,2.69,IoT,No,8,8,0,1,0,40,43.4,82.3,No,No,0
+G01596,2025-07-17,Peshawar,BSAI,Male,5,2.91,2.54,AI-ML,No,13,4,1,7,5,96,88.7,56.6,Yes,Yes,1
+G00116,2023-10-21,Faisalabad,BSCS,Male,5,2.64,1.96,Research,Yes,8,5,2,3,5,20,43.6,46.7,Yes,Yes,1
+G00683,2024-06-14,Multan,BSIT,Female,2,2.93,2.56,Mobile App,No,8,6,0,1,4,26,72.9,84.2,No,No,0
+G00311,2024-01-17,Multan,BSAI,Female,4,2.82,2.7,Mobile App,No,12,8,1,3,2,155,75.4,58.3,No,No,0
+G00476,2024-03-23,Quetta,BSDS,Male,3,3.25,2.53,Mobile App,Yes,3,8,2,1,6,39,79.0,72.4,No,No,0
+G00421,2024-02-29,Lahore,BSAI,Male,3,2.86,2.41,Web App,No,8,5,0,2,7,32,70.4,76.5,No,No,0
+G01223,2025-02-08,Lahore,BSAI,Male,3,2.18,2.01,AI-ML,No,3,6,3,3,7,70,59.1,42.7,No,Yes,1
+G00555,2024-04-20,Karachi,BSCS,Male,3,2.38,1.87,Web App,No,4,6,2,3,2,58,42.1,36.8,Yes,Yes,1
+G01456,2025-05-18,Islamabad,BSIT,Female,3,2.87,2.72,Mobile App,Yes,4,11,5,5,6,57,67.2,77.5,No,No,0
+G00219,2023-12-02,Karachi,BSCS,Female,3,3.71,3.47,Web App,No,4,8,0,2,0,4,65.2,83.0,No,No,0
+G00212,2023-11-30,Islamabad,BSCS,Male,5,2.48,1.81,AI-ML,No,6,7,2,11,3,172,52.9,37.0,Yes,Yes,1
+G00635,2024-05-25,Quetta,BSAI,Male,4,3.65,3.36,Mobile App,No,9,6,3,3,0,31,71.3,75.9,No,No,0
+G00055,2023-09-20,Peshawar,BSDS,Female,2,3.2,2.49,AI-ML,No,2,8,3,4,5,93,89.3,48.4,Yes,Yes,1
+G01079,2024-12-09,Islamabad,BSDS,Female,3,2.59,1.95,Web App,No,12,12,1,2,8,74,79.5,69.9,No,No,0
+G01586,2025-07-13,Quetta,BSAI,Female,3,3.62,3.34,AI-ML,No,2,7,2,3,1,6,64.3,75.8,No,No,0
+G00649,2024-06-01,Karachi,BSSE,Female,4,3.9,3.29,Web App,No,20,6,4,5,0,35,81.5,73.4,No,No,0
+G01720,2025-09-13,Peshawar,BSSE,Female,3,2.97,2.89,Web App,No,3,7,1,3,4,5,76.4,81.9,No,No,0
+G01518,2025-06-08,Multan,BSDS,Male,2,2.72,2.4,AI-ML,Yes,6,8,3,2,0,79,60.3,67.3,No,No,0
+G00719,2024-06-29,Karachi,BSCS,Male,3,3.52,2.87,Web App,No,3,8,3,3,10,161,88.5,52.1,No,No,0
+G01425,2025-05-05,Karachi,BSIT,Female,1,3.5,3.5,Web App,No,7,9,1,2,2,75,83.4,78.8,No,No,0
+G00148,2023-11-01,Karachi,BSIT,Male,3,2.92,2.62,Mobile App,No,7,4,3,4,6,20,71.6,45.9,Yes,Yes,1
+G00954,2024-10-11,Lahore,BSSE,Female,2,3.38,3.21,Web App,No,5,5,3,1,3,105,72.0,76.9,No,No,0
+G00255,2023-12-20,Lahore,BSCS,Female,4,2.66,2.51,Web App,No,5,7,0,4,5,59,70.3,67.4,No,No,0
+G00107,2023-10-14,Lahore,BSAI,Female,3,3.19,2.9,AI-ML,Yes,10,2,1,1,9,21,61.7,70.6,No,No,0
+G00566,2024-04-24,Faisalabad,BSSE,Male,3,2.96,2.3,Mobile App,No,11,6,1,3,9,14,71.9,67.8,Yes,No,0
+G00393,2024-02-20,Lahore,BSDS,Female,4,3.21,2.61,Web App,Yes,6,5,0,3,4,170,82.9,72.9,No,No,0
+G00231,2023-12-07,Peshawar,BSSE,Female,3,2.16,1.66,AI-ML,No,4,6,3,4,0,57,42.1,51.9,Yes,Yes,1
+G00147,2023-11-01,Islamabad,BSIT,Male,2,2.56,1.97,Web App,No,4,4,1,4,7,156,65.7,74.5,No,No,0
+G01761,2025-10-05,Lahore,BSAI,Male,4,2.51,2.2,Research,Yes,5,6,3,2,5,51,58.3,58.0,Yes,Yes,1
+G01020,2024-11-15,Multan,BSSE,Male,2,3.46,3.3,Web App,No,5,6,2,3,8,146,92.6,74.8,No,No,0
+G00168,2023-11-14,Islamabad,BSAI,Female,3,3.09,2.7,Mobile App,No,5,5,1,1,5,70,77.5,79.2,No,No,0
+G00957,2024-10-13,Karachi,BSDS,Female,3,3.41,3.02,IoT,No,6,7,3,1,6,30,90.7,86.3,No,No,0
+G00053,2023-09-19,Multan,BSDS,Male,5,3.02,2.73,IoT,No,6,8,2,0,5,21,72.0,66.3,No,No,0
+G00599,2024-05-10,Islamabad,BSDS,Male,4,3.95,3.71,IoT,No,2,6,0,3,9,109,100.0,86.5,No,No,0
+G00809,2024-08-09,Islamabad,BSDS,Male,1,3.4,3.4,Web App,No,8,5,1,4,5,11,83.2,77.7,No,No,0
+G01626,2025-07-27,Lahore,BSDS,Female,4,3.08,2.27,IoT,Yes,18,6,2,2,5,33,68.2,79.5,No,No,0
+G00400,2024-02-22,Quetta,BSAI,Male,2,2.22,2.02,AI-ML,No,10,10,4,2,4,11,43.3,54.2,No,Yes,1
+G01497,2025-06-01,Karachi,BSIT,Male,3,3.37,2.47,Web App,No,15,8,2,3,1,1,44.5,61.7,No,No,0
+G00652,2024-06-02,Rawalpindi,BSDS,Female,3,2.88,2.65,IoT,Yes,10,6,3,4,4,90,60.5,77.9,No,No,0
+G01187,2025-01-23,Karachi,BSCS,Male,3,2.8,2.55,IoT,No,17,11,1,1,4,50,72.0,81.9,No,No,0
+G00859,2024-09-04,Lahore,BSAI,Male,2,2.87,2.65,Web App,No,3,6,1,3,5,15,69.9,58.2,No,No,0
+G00469,2024-03-20,Karachi,BSSE,Male,3,2.99,2.52,Mobile App,No,2,12,0,0,8,54,72.0,68.6,No,No,0
+G01440,2025-05-12,Quetta,BSCS,Male,4,3.58,3.35,AI-ML,No,4,6,2,6,3,21,71.3,56.5,No,No,0
+G01609,2025-07-21,Peshawar,BSSE,Female,3,3.38,2.61,IoT,No,5,3,2,2,3,14,72.9,53.8,Yes,Yes,1
+G00348,2024-02-01,Faisalabad,BSAI,Male,2,2.6,2.05,IoT,No,2,4,4,3,2,54,45.3,77.8,No,No,0
+G00281,2024-01-01,Rawalpindi,BSAI,Male,2,3.45,2.84,Mobile App,Yes,6,3,2,2,4,18,77.8,70.5,No,No,0
+G00991,2024-10-26,Islamabad,BSSE,Female,2,3.84,3.71,Web App,No,8,7,3,3,1,54,72.0,92.6,No,No,0
+G01484,2025-05-28,Karachi,BSAI,Female,4,2.85,2.56,Mobile App,No,4,9,1,4,9,200,63.2,67.6,No,No,0
+G00716,2024-06-28,Karachi,BSCS,Male,3,3.16,2.7,Web App,No,7,5,3,2,7,78,80.0,84.2,No,No,0
+G00010,2023-09-05,Multan,BSAI,Male,3,3.57,3.44,AI-ML,Yes,2,10,1,3,3,110,79.6,78.4,No,No,0
+G00741,2024-07-13,Karachi,BSIT,Male,3,3.15,2.97,Mobile App,No,3,6,3,2,2,60,75.1,80.2,No,No,0
+G00271,2023-12-27,Lahore,BSCS,Male,3,2.9,2.61,IoT,No,8,6,1,3,4,93,85.2,79.2,No,No,0
+G01551,2025-06-23,Lahore,BSCS,Female,4,2.35,2.23,Web App,Yes,6,5,1,10,9,124,85.3,77.2,No,No,0
+G00286,2024-01-05,Multan,BSIT,Female,5,3.2,2.94,Mobile App,No,1,7,2,2,7,25,74.2,83.8,No,No,0
+G00542,2024-04-16,Multan,BSAI,Female,4,3.02,2.37,Web App,No,11,7,1,2,3,57,66.1,62.2,No,No,0
+G00742,2024-07-13,Islamabad,BSAI,Female,3,3.36,2.67,Research,No,5,3,1,1,0,13,44.8,46.9,Yes,Yes,1
+G00445,2024-03-10,Rawalpindi,BSAI,Male,2,2.78,2.49,IoT,No,3,9,1,3,7,21,67.3,60.7,No,No,0
+G01687,2025-08-29,Lahore,BSIT,Male,3,2.63,1.73,AI-ML,No,10,7,0,4,8,37,68.3,69.5,No,No,0
+G00831,2024-08-19,Lahore,BSSE,Female,4,2.85,2.73,AI-ML,No,5,5,1,4,5,44,62.8,76.7,No,No,0
+G00104,2023-10-13,Peshawar,BSSE,Male,3,2.91,2.23,AI-ML,No,20,2,1,4,4,64,72.9,52.4,Yes,Yes,1
+G01649,2025-08-09,Multan,BSAI,Female,3,3.15,2.78,Research,No,3,8,2,6,2,10,50.7,73.0,No,No,0
+G00100,2023-10-12,Karachi,BSIT,Female,4,2.55,2.13,Web App,No,6,4,4,2,4,50,46.2,65.0,No,No,0
+G00782,2024-07-31,Karachi,BSSE,Male,2,3.44,3.41,Research,No,2,7,2,6,5,170,84.5,85.3,No,No,0
+G00804,2024-08-07,Karachi,BSSE,Female,2,2.71,2.33,Mobile App,No,6,7,5,2,2,9,50.9,65.5,No,No,0
+G00856,2024-09-02,Multan,BSDS,Male,2,3.12,2.82,Web App,No,13,4,2,1,4,52,69.1,80.4,Yes,No,0
+G01444,2025-05-14,Faisalabad,BSSE,Female,1,3.54,3.54,AI-ML,Yes,6,10,3,2,2,2,66.2,58.1,Yes,No,0
+G00496,2024-03-31,Lahore,BSIT,Male,3,3.34,2.81,AI-ML,Yes,4,8,1,6,10,57,76.7,76.8,No,No,0
+G00433,2024-03-03,Lahore,BSDS,Male,3,2.88,2.53,AI-ML,Yes,5,5,2,8,9,35,75.2,80.1,No,No,0
+G00143,2023-10-30,Faisalabad,BSAI,Male,3,3.1,2.82,Research,No,5,7,2,6,3,45,68.7,39.7,Yes,Yes,1
+G00828,2024-08-17,Rawalpindi,BSAI,Male,5,2.83,2.42,AI-ML,No,8,3,1,3,4,15,55.6,84.5,No,No,0
+G00162,2023-11-12,Peshawar,BSSE,Female,3,2.53,2.36,IoT,No,5,7,1,2,2,18,72.0,69.3,No,No,0
+G01161,2025-01-14,Lahore,BSDS,Male,3,3.31,2.99,AI-ML,No,8,5,3,6,3,72,73.2,53.2,No,No,0
+G01041,2024-11-24,Rawalpindi,BSSE,Female,4,3.23,2.9,Research,Yes,6,6,1,4,8,126,86.9,71.6,No,No,0
+G01138,2025-01-04,Peshawar,BSAI,Male,2,2.97,2.49,Web App,Yes,8,6,3,8,1,74,60.6,59.3,No,No,0
+G00008,2023-09-03,Lahore,BSDS,Female,4,3.27,2.81,Research,No,1,7,2,0,6,52,84.4,72.2,Yes,No,0
+G01220,2025-02-08,Peshawar,BSAI,Male,3,3.34,3.14,Mobile App,Yes,6,10,1,3,5,75,82.7,63.3,No,No,0
+G01461,2025-05-21,Karachi,BSDS,Male,2,2.89,2.68,IoT,Yes,6,7,2,1,4,28,61.3,77.8,No,No,0
+G00174,2023-11-17,Lahore,BSAI,Female,2,2.98,2.64,Research,No,6,4,3,9,5,10,57.8,50.4,Yes,Yes,1
+G01709,2025-09-09,Rawalpindi,BSIT,Male,3,3.44,3.32,Web App,No,4,5,1,5,6,57,79.8,93.1,No,No,0
+G00867,2024-09-07,Quetta,BSAI,Male,4,3.17,3.02,IoT,No,6,8,1,2,5,68,80.5,52.4,Yes,Yes,1
+G00580,2024-04-30,Lahore,BSCS,Female,3,3.27,2.37,Web App,No,8,9,2,1,2,106,81.8,74.6,Yes,No,0
+G01733,2025-09-21,Rawalpindi,BSAI,Male,3,3.69,3.67,AI-ML,No,5,9,3,1,5,35,76.2,79.8,Yes,No,0
+G00205,2023-11-26,Islamabad,BSAI,Male,3,3.09,2.45,Web App,Yes,11,1,1,0,7,164,82.1,80.9,No,No,0
+G00903,2024-09-21,Quetta,BSSE,Female,4,3.51,2.61,AI-ML,No,4,8,1,1,6,73,91.0,72.0,No,No,0
+G00581,2024-04-30,Islamabad,BSSE,Female,4,3.52,2.88,Web App,No,9,5,5,4,3,124,75.5,93.7,No,No,0
+G01688,2025-08-30,Lahore,BSAI,Female,4,2.86,2.73,IoT,No,8,5,2,5,8,32,64.9,77.1,No,No,0
+G01137,2025-01-04,Lahore,BSAI,Male,4,3.05,2.84,Web App,Yes,2,5,4,2,7,43,81.4,65.9,No,No,0
+G01603,2025-07-19,Rawalpindi,BSSE,Male,2,2.03,1.67,Research,No,5,6,2,2,4,37,53.7,80.8,No,No,0
+G00486,2024-03-26,Faisalabad,BSSE,Female,3,3.14,2.69,AI-ML,Yes,10,13,3,4,4,56,63.7,51.4,Yes,Yes,1
+G01001,2024-11-02,Islamabad,BSDS,Male,3,3.45,2.61,Mobile App,No,5,4,1,3,2,50,71.6,70.7,Yes,No,0
+G00645,2024-06-01,Peshawar,BSSE,Female,4,2.75,2.37,Web App,No,6,6,1,3,1,48,72.0,71.2,No,No,0
+G01745,2025-09-26,Lahore,BSSE,Male,1,2.81,2.81,IoT,No,6,3,1,5,5,56,71.7,77.3,No,No,0
+G00860,2024-09-04,Karachi,BSIT,Female,4,2.84,1.94,AI-ML,No,2,4,1,2,6,196,75.9,70.5,No,No,0
+G01465,2025-05-23,Lahore,BSCS,Female,5,3.07,2.17,Mobile App,No,17,7,1,4,6,78,76.7,81.1,No,No,0
+G00004,2023-09-02,Faisalabad,BSSE,Female,1,3.22,3.22,AI-ML,No,6,7,1,6,2,53,78.8,81.6,Yes,No,0
+G01575,2025-07-03,Islamabad,BSIT,Male,4,3.25,2.93,Web App,No,9,4,1,3,2,38,67.6,70.7,No,No,0
+G00359,2024-02-05,Islamabad,BSIT,Male,3,3.35,3.01,Web App,No,6,5,1,5,4,57,83.0,73.2,No,No,0
+G00429,2024-03-02,Karachi,BSDS,Male,2,2.97,2.41,AI-ML,No,4,9,2,1,2,89,74.6,84.0,No,No,0
+G00277,2023-12-30,Lahore,BSIT,Male,3,3.34,3.2,Research,Yes,2,7,0,3,5,98,88.7,77.0,No,No,0
+G00267,2023-12-26,Peshawar,BSAI,Male,5,3.82,3.09,AI-ML,Yes,6,7,0,9,4,66,77.8,32.7,Yes,Yes,1
+G00750,2024-07-17,Karachi,BSAI,Female,2,3.02,2.33,IoT,No,13,7,1,7,2,92,61.0,51.6,Yes,Yes,1
+G01254,2025-02-17,Lahore,BSDS,Male,3,2.35,2.18,IoT,No,22,8,1,3,3,19,56.3,65.2,Yes,Yes,1
+G01598,2025-07-17,Peshawar,BSAI,Female,3,3.02,2.96,Mobile App,No,3,4,2,8,4,32,62.2,48.4,Yes,Yes,1
+G00031,2023-09-09,Islamabad,BSCS,Male,3,2.92,2.63,Mobile App,No,2,3,1,1,3,23,68.0,89.2,Yes,No,0
+G00446,2024-03-10,Rawalpindi,BSCS,Female,3,3.57,3.24,Research,No,8,6,1,3,3,105,78.0,74.9,Yes,No,0
+G00761,2024-07-21,Lahore,BSAI,Female,3,2.49,2.26,Web App,No,6,9,4,1,3,28,43.3,59.4,No,No,0
+G00374,2024-02-11,Rawalpindi,BSAI,Female,4,2.15,2.04,Web App,No,5,10,3,5,7,29,48.6,46.2,Yes,Yes,1
+G01420,2025-05-03,Peshawar,BSSE,Male,4,3.24,2.62,AI-ML,No,5,7,1,5,3,57,67.0,46.2,Yes,Yes,1
+G01448,2025-05-14,Faisalabad,BSAI,Male,5,2.9,2.61,Web App,No,2,6,0,8,8,24,81.3,61.6,Yes,Yes,1
+G01141,2025-01-04,Multan,BSAI,Male,2,2.17,1.93,Research,No,12,10,3,10,7,51,40.6,55.6,No,No,0
+G01247,2025-02-15,Peshawar,BSIT,Female,2,2.34,2.01,AI-ML,No,10,6,3,1,5,22,48.3,48.5,Yes,Yes,1
+G00618,2024-05-18,Multan,BSAI,Female,2,2.78,2.63,Web App,No,8,1,3,3,2,78,66.2,83.9,No,No,0
+G01780,2025-10-11,Multan,BSSE,Female,2,3.25,2.49,Web App,No,17,5,2,5,6,57,72.0,67.3,No,No,0
+G01225,2025-02-08,Islamabad,BSIT,Female,3,2.57,1.91,IoT,No,6,3,0,3,8,44,63.4,59.5,Yes,Yes,1
+G01523,2025-06-12,Multan,BSSE,Female,4,3.2,2.93,AI-ML,No,10,2,0,0,6,18,72.9,70.1,No,No,0
+G00343,2024-01-29,Multan,BSDS,Male,5,2.7,2.37,Web App,No,12,9,3,11,4,95,53.6,44.6,Yes,Yes,1
+G01660,2025-08-15,Peshawar,BSCS,Male,3,2.61,2.3,Web App,No,6,3,5,1,5,36,54.7,43.4,Yes,Yes,1
+G01619,2025-07-25,Islamabad,BSAI,Male,5,3.19,3.09,Web App,No,6,5,0,3,5,110,79.6,76.4,No,No,0
+G01615,2025-07-24,Lahore,BSCS,Female,4,2.8,2.16,IoT,No,11,8,4,0,3,134,64.1,61.0,No,Yes,1
+G00392,2024-02-19,Rawalpindi,BSDS,Male,4,3.92,3.42,Web App,No,12,8,2,6,8,57,100.0,62.8,No,No,0
+G00229,2023-12-06,Lahore,BSCS,Male,5,3.55,3.38,Web App,No,6,4,1,0,5,90,72.0,78.6,No,No,0
+G01589,2025-07-15,Rawalpindi,BSIT,Female,3,3.19,2.79,Mobile App,No,2,5,1,1,3,58,78.7,52.8,No,No,0
+G00518,2024-04-07,Lahore,BSSE,Female,3,2.97,2.64,Mobile App,No,3,5,1,1,6,57,72.0,80.1,No,No,0
+G00480,2024-03-23,Karachi,BSIT,Male,3,3.05,2.41,Research,No,4,14,0,1,5,158,64.7,58.0,No,No,0
+G00800,2024-08-06,Karachi,BSAI,Female,2,3.37,3.08,AI-ML,No,3,6,2,3,11,42,89.6,80.9,No,No,0
+G00035,2023-09-11,Lahore,BSCS,Female,3,3.01,2.67,Mobile App,No,2,3,1,2,9,140,76.9,70.9,No,No,0
+G01269,2025-02-24,Multan,BSSE,Male,2,2.8,2.61,Web App,No,7,6,3,6,4,142,73.6,65.7,No,No,0
+G00009,2023-09-04,Faisalabad,BSCS,Female,2,3.38,3.29,Web App,No,3,6,0,3,1,124,80.8,69.1,No,No,0
+G00232,2023-12-08,Rawalpindi,BSSE,Female,3,2.66,1.98,AI-ML,No,7,2,1,7,6,18,59.6,66.6,No,No,0
+G01344,2025-03-31,Karachi,BSCS,Male,3,3.16,2.29,Web App,No,2,4,2,4,4,71,72.5,50.1,Yes,Yes,1
+G00441,2024-03-08,Multan,BSCS,Male,3,3.84,3.77,IoT,No,4,6,0,1,10,9,93.6,83.4,No,No,0
+G00526,2024-04-11,Karachi,BSSE,Male,2,2.9,2.12,Web App,Yes,0,8,3,5,0,54,53.0,45.9,Yes,Yes,1
+G00625,2024-05-21,Karachi,BSSE,Male,3,3.6,3.5,AI-ML,No,4,6,1,4,2,57,80.2,67.0,No,No,0
+G01746,2025-09-26,Karachi,BSCS,Male,3,3.2,3.1,Mobile App,No,10,8,3,3,1,43,56.9,63.9,No,No,0
+G01373,2025-04-13,Islamabad,BSSE,Female,1,3.48,3.48,Mobile App,No,10,3,3,3,5,17,78.7,81.4,No,No,0
+G00095,2023-10-10,Faisalabad,BSIT,Female,2,3.25,2.91,Web App,No,3,6,1,0,6,30,81.8,71.5,No,No,0
+G00544,2024-04-17,Lahore,BSSE,Female,4,3.37,2.47,IoT,No,1,7,2,5,10,19,69.6,74.9,No,No,0
+G01516,2025-06-07,Lahore,BSSE,Male,3,3.68,3.41,Web App,No,4,4,0,3,6,24,83.8,78.7,No,No,0
+G00971,2024-10-18,Faisalabad,BSCS,Male,1,3.58,3.58,Web App,Yes,3,3,3,13,4,46,79.6,70.6,No,No,0
+G01534,2025-06-16,Faisalabad,BSIT,Female,2,2.68,2.39,Web App,No,6,6,2,4,5,40,77.0,70.3,No,No,0
+G01200,2025-01-29,Lahore,BSAI,Female,1,2.59,2.59,AI-ML,No,11,4,0,4,5,21,57.3,76.7,No,No,0
+G00282,2024-01-01,Islamabad,BSAI,Male,2,2.98,2.83,Web App,No,10,5,3,5,3,6,46.5,52.0,No,Yes,1
+G01131,2024-12-31,Karachi,BSAI,Female,2,3.27,2.83,Mobile App,No,4,6,2,6,7,78,82.5,69.0,No,No,0
+G00390,2024-02-19,Karachi,BSIT,Male,4,3.09,2.63,AI-ML,No,6,4,2,8,2,57,64.9,54.4,No,No,0
+G00949,2024-10-10,Karachi,BSCS,Female,4,2.99,2.73,Research,No,2,9,2,3,8,63,84.5,56.2,No,No,0
+G00252,2023-12-19,Islamabad,BSCS,Male,3,3.33,2.66,AI-ML,Yes,3,7,2,4,3,115,67.8,84.9,No,No,0
+G01614,2025-07-23,Karachi,BSIT,Male,3,3.68,3.35,Mobile App,No,7,6,3,3,8,60,86.2,81.8,No,No,0
+G01158,2025-01-13,Multan,BSSE,Female,3,3.48,3.19,AI-ML,No,5,7,0,5,3,15,63.3,59.6,No,No,0
+G00891,2024-09-17,Faisalabad,BSAI,Male,3,2.91,2.84,Mobile App,No,6,4,1,5,12,39,78.0,65.9,No,No,0
+G01414,2025-05-01,Quetta,BSSE,Female,3,2.81,2.61,AI-ML,No,6,4,4,2,5,130,81.0,82.8,No,No,0
+G01624,2025-07-26,Multan,BSSE,Male,3,3.12,3.05,AI-ML,No,6,7,3,2,7,92,85.1,77.6,No,No,0
+G00521,2024-04-08,Multan,BSSE,Male,1,3.47,3.47,Web App,Yes,10,10,1,5,4,55,80.9,81.2,No,No,0
+G01352,2025-04-04,Karachi,BSCS,Male,3,3.62,3.6,IoT,No,2,5,3,6,7,49,81.4,73.4,No,No,0
+G01037,2024-11-23,Faisalabad,BSAI,Female,4,2.67,2.48,Mobile App,No,5,8,0,2,7,67,64.5,54.8,Yes,No,0
+G01582,2025-07-12,Peshawar,BSIT,Male,3,3.12,2.79,IoT,No,9,3,4,1,5,21,77.1,70.5,Yes,Yes,1
+G00669,2024-06-09,Lahore,BSCS,Female,4,3.4,3.19,AI-ML,No,6,5,0,3,3,22,76.9,73.8,No,No,0
+G01650,2025-08-09,Faisalabad,BSAI,Female,3,2.87,2.19,Web App,No,3,7,1,1,2,55,70.3,72.8,No,No,0
+G00877,2024-09-10,Lahore,BSDS,Male,5,2.71,2.55,Web App,No,3,6,1,1,8,80,77.4,74.7,No,No,0
+G01555,2025-06-24,Karachi,BSAI,Female,3,2.83,2.45,IoT,No,16,3,1,4,9,36,72.0,72.6,No,No,0
+G01618,2025-07-24,Quetta,BSDS,Female,2,3.03,2.73,Web App,No,11,8,2,4,0,88,72.0,53.4,No,No,0
+G01014,2024-11-10,Karachi,BSCS,Male,2,3.01,2.61,Web App,No,15,3,1,1,5,45,72.0,72.0,No,No,0
+G01640,2025-08-05,Karachi,BSCS,Female,2,3.54,2.96,AI-ML,No,5,6,2,2,5,24,77.9,73.4,No,No,0
+G00754,2024-07-18,Lahore,BSDS,Female,2,2.72,2.43,Research,No,4,10,3,5,12,5,61.3,87.4,No,No,0
+G01263,2025-02-21,Multan,BSIT,Male,3,2.88,2.59,Web App,No,11,6,2,3,0,37,57.2,79.7,No,No,0
+G00214,2023-12-01,Islamabad,BSDS,Male,4,2.45,2.13,AI-ML,Yes,2,4,3,10,5,71,60.0,69.1,No,No,0
+G01241,2025-02-14,Islamabad,BSDS,Male,3,2.98,2.72,AI-ML,No,4,3,0,4,5,79,68.9,64.5,No,No,0
+G00958,2024-10-14,Lahore,BSSE,Male,2,2.67,2.02,Research,No,4,6,0,2,3,152,74.8,65.4,No,No,0
+G01576,2025-07-04,Karachi,BSSE,Male,3,3.07,2.97,AI-ML,No,4,9,1,5,4,66,75.3,50.3,Yes,Yes,1
+G01447,2025-05-14,Faisalabad,BSIT,Male,2,3.3,2.4,Web App,No,5,3,4,2,10,57,89.0,68.5,No,No,0
+G00568,2024-04-24,Rawalpindi,BSAI,Female,3,2.92,2.47,Research,No,10,4,1,1,3,5,36.3,36.2,Yes,Yes,1
+G01446,2025-05-14,Lahore,BSCS,Male,3,2.87,2.65,Mobile App,No,6,2,1,0,7,51,66.7,74.8,No,No,0
+G00069,2023-09-26,Rawalpindi,BSAI,Male,4,3.36,3.22,AI-ML,No,16,7,1,3,7,139,77.8,82.3,No,No,0
+G00086,2023-10-06,Islamabad,BSCS,Female,4,3.0,2.82,Web App,Yes,9,5,0,2,4,39,84.1,78.3,No,No,0
+G01600,2025-07-18,Islamabad,BSSE,Male,3,3.1,2.81,IoT,No,10,5,3,14,5,58,71.6,85.6,No,No,0
+G00913,2024-09-27,Multan,BSAI,Female,2,2.47,2.14,Mobile App,No,4,6,1,2,6,57,47.3,50.7,Yes,No,0
+G00467,2024-03-20,Islamabad,BSCS,Male,3,3.25,3.23,IoT,Yes,8,6,4,3,2,100,73.4,72.4,No,No,0
+G00880,2024-09-11,Quetta,BSAI,Male,3,3.54,3.47,Research,Yes,5,7,1,2,6,63,78.9,73.6,No,No,0
+G00430,2024-03-02,Multan,BSAI,Female,2,3.48,3.19,AI-ML,No,7,4,0,1,7,130,81.6,71.5,No,No,0
+G00418,2024-02-28,Islamabad,BSCS,Male,4,2.28,1.56,Web App,Yes,9,4,1,1,5,125,74.3,88.9,No,No,0
+G00413,2024-02-26,Peshawar,BSSE,Male,3,3.45,3.16,Research,No,14,5,3,2,5,181,68.9,84.5,No,No,0
+G00197,2023-11-24,Rawalpindi,BSAI,Male,2,3.21,2.76,AI-ML,Yes,7,3,2,3,2,37,70.3,31.8,Yes,Yes,1
+G01682,2025-08-26,Karachi,BSCS,Female,2,3.73,3.29,IoT,No,15,7,1,5,9,53,86.0,84.6,No,No,0
+G00285,2024-01-04,Faisalabad,BSDS,Male,2,2.82,2.75,Mobile App,Yes,0,4,1,9,5,12,61.6,36.1,Yes,Yes,1
+G01136,2025-01-03,Karachi,BSCS,Male,3,2.55,2.26,Web App,No,7,8,2,7,3,14,50.6,77.5,No,No,0
+G01170,2025-01-17,Faisalabad,BSSE,Male,4,3.04,2.64,Web App,No,3,6,1,5,3,70,67.6,80.8,No,No,0
+G00667,2024-06-06,Karachi,BSSE,Male,3,3.01,2.56,Mobile App,No,13,5,0,1,7,36,65.0,83.8,No,No,0
+G00685,2024-06-14,Quetta,BSCS,Female,3,2.75,1.85,AI-ML,No,3,7,1,0,7,122,78.7,87.1,No,No,0
+G00381,2024-02-15,Karachi,BSAI,Male,2,2.98,2.69,Web App,Yes,4,4,3,5,4,46,69.8,37.1,No,Yes,1
+G01013,2024-11-10,Quetta,BSCS,Male,2,2.69,2.52,Mobile App,No,6,8,1,6,6,37,72.0,69.2,No,No,0
+G01606,2025-07-20,Lahore,BSSE,Male,3,3.31,2.92,Web App,No,4,7,2,9,4,147,71.8,74.5,No,No,0
+G00291,2024-01-07,Quetta,BSCS,Male,2,3.07,2.46,AI-ML,Yes,4,6,1,1,5,20,60.6,79.2,Yes,No,0
+G01413,2025-05-01,Karachi,BSSE,Female,3,2.75,2.01,AI-ML,No,13,8,1,3,7,108,78.4,56.6,No,No,0
+G00360,2024-02-05,Karachi,BSDS,Female,5,2.46,2.43,Web App,No,6,7,0,1,5,25,49.3,45.9,No,Yes,1
+G01431,2025-05-09,Rawalpindi,BSDS,Female,1,2.66,2.66,Web App,No,4,6,2,6,7,24,58.4,74.3,No,No,0
+G00365,2024-02-08,Karachi,BSSE,Male,4,2.73,2.59,Web App,No,0,5,3,1,7,60,69.5,86.0,No,No,0
+G00525,2024-04-10,Rawalpindi,BSCS,Male,3,2.93,2.61,Research,Yes,1,4,2,4,3,73,69.1,78.5,No,No,0
+G00575,2024-04-27,Rawalpindi,BSCS,Male,3,3.05,2.95,Web App,No,6,4,1,2,6,83,90.3,84.5,No,No,0
+G00694,2024-06-19,Multan,BSDS,Male,3,2.67,1.9,Web App,No,4,6,4,3,0,58,47.7,48.5,Yes,Yes,1
+G00705,2024-06-22,Faisalabad,BSSE,Male,4,2.66,2.37,IoT,No,6,6,1,4,2,124,65.8,76.4,No,No,0
+G00113,2023-10-19,Karachi,BSAI,Female,5,3.0,2.58,Research,No,6,3,0,2,4,39,54.2,78.4,No,No,0
+G01127,2024-12-30,Multan,BSCS,Male,3,2.8,2.43,Mobile App,Yes,3,5,1,3,5,86,73.8,72.8,No,No,0
+G00415,2024-02-26,Multan,BSSE,Male,2,2.93,2.82,Research,Yes,6,4,2,3,4,97,72.0,58.9,No,No,0
+G00590,2024-05-06,Multan,BSCS,Male,3,3.88,3.79,Mobile App,Yes,15,4,4,1,3,34,78.4,75.4,Yes,No,0
+G01215,2025-02-04,Multan,BSAI,Female,4,2.62,2.5,Mobile App,No,3,8,2,3,10,97,65.2,65.8,No,No,0
+G01742,2025-09-25,Multan,BSCS,Female,3,2.37,2.06,Web App,No,2,7,1,1,2,190,74.6,77.1,No,No,0
+G00487,2024-03-27,Karachi,BSCS,Male,3,3.13,2.83,Mobile App,No,8,5,2,4,2,183,79.8,81.1,No,No,0
+G01077,2024-12-08,Lahore,BSSE,Female,2,3.19,2.96,Mobile App,No,6,4,1,5,7,39,84.1,74.3,No,No,0
+G01053,2024-11-28,Lahore,BSSE,Female,3,2.31,1.7,Web App,No,8,6,3,4,5,47,34.6,31.5,No,Yes,1
+G01090,2024-12-13,Multan,BSIT,Male,3,3.19,2.93,Mobile App,No,13,5,1,2,2,159,79.8,82.3,No,No,0
+G00875,2024-09-09,Lahore,BSIT,Female,3,3.39,3.18,Web App,No,9,7,1,5,0,3,51.0,45.6,Yes,Yes,1
+G01611,2025-07-22,Lahore,BSSE,Male,2,3.53,3.28,Web App,No,6,8,1,1,4,85,80.0,62.5,No,No,0
+G01346,2025-03-31,Islamabad,BSAI,Female,3,2.98,2.84,Web App,No,7,6,3,4,3,70,70.2,69.4,No,No,0
+G00844,2024-08-27,Multan,BSSE,Male,3,2.52,2.24,Mobile App,No,5,5,2,9,7,48,55.9,86.3,No,No,0
+G00967,2024-10-18,Islamabad,BSSE,Female,4,3.3,2.4,Mobile App,Yes,5,4,1,3,5,57,80.5,87.9,No,No,0
+G00595,2024-05-08,Rawalpindi,BSCS,Male,3,3.59,3.21,Web App,No,3,7,2,3,1,98,76.7,77.4,No,No,0
+G00928,2024-10-02,Quetta,BSAI,Male,3,2.83,2.38,Web App,No,8,3,3,1,7,57,70.1,69.1,No,No,0
+G00309,2024-01-16,Karachi,BSDS,Male,3,3.53,2.99,AI-ML,No,0,9,3,2,7,69,93.4,63.5,No,No,0
+G01411,2025-05-01,Rawalpindi,BSIT,Male,3,3.45,3.25,Web App,No,1,8,0,4,5,78,77.4,74.1,No,No,0
+G01379,2025-04-14,Lahore,BSDS,Male,4,3.51,3.24,Web App,No,2,4,2,2,3,17,74.4,59.3,No,No,0
+G00059,2023-09-23,Karachi,BSCS,Female,5,2.65,2.34,AI-ML,No,18,9,3,3,1,90,43.0,44.7,Yes,Yes,1
+G00160,2023-11-11,Multan,BSAI,Female,2,3.05,2.31,Web App,No,7,7,1,1,3,60,70.5,42.9,No,Yes,1
+G01684,2025-08-27,Quetta,BSAI,Male,5,3.48,3.14,Research,Yes,6,10,1,3,7,77,82.2,80.7,No,No,0
+G00187,2023-11-20,Karachi,BSIT,Female,3,3.25,2.99,IoT,No,10,7,0,2,4,41,62.9,72.5,No,No,0
+G00245,2023-12-15,Multan,BSSE,Male,2,3.17,3.0,IoT,No,8,6,1,3,6,57,72.0,50.1,No,No,0
+G01392,2025-04-22,Lahore,BSIT,Female,2,3.05,2.62,Mobile App,No,6,10,1,4,2,49,54.1,54.5,No,No,0
+G01748,2025-09-28,Rawalpindi,BSSE,Female,4,2.69,2.28,IoT,No,2,8,5,6,6,23,42.1,45.3,No,Yes,1
+G00158,2023-11-09,Islamabad,BSDS,Male,3,3.4,3.11,Mobile App,No,6,4,2,0,2,50,65.0,68.6,No,No,0
+G00127,2023-10-23,Karachi,BSSE,Male,3,3.25,2.94,AI-ML,No,8,5,2,4,11,57,72.2,87.8,Yes,No,0
+G00323,2024-01-22,Peshawar,BSSE,Male,3,2.92,2.63,Web App,No,14,4,4,7,6,149,88.3,78.3,No,No,0
+G01084,2024-12-11,Karachi,BSSE,Male,3,3.78,3.6,Web App,No,3,6,2,5,8,36,84.9,60.9,No,No,0
+G00805,2024-08-07,Islamabad,BSCS,Male,5,2.68,2.52,Mobile App,Yes,11,3,3,1,5,211,80.6,65.4,No,No,0
+G01237,2025-02-12,Peshawar,BSCS,Female,2,2.97,2.9,Mobile App,No,5,2,0,3,9,92,69.1,65.6,No,No,0
+G00778,2024-07-28,Lahore,BSDS,Female,4,2.75,2.42,IoT,No,7,7,1,3,1,211,83.5,39.0,Yes,Yes,1
+G01128,2024-12-31,Islamabad,BSCS,Male,4,2.74,2.57,Mobile App,No,8,8,1,2,6,204,91.4,70.1,Yes,No,0
+G01522,2025-06-12,Faisalabad,BSAI,Female,3,3.39,3.05,Research,No,5,8,0,5,3,57,70.2,39.1,Yes,Yes,1
+G01533,2025-06-15,Rawalpindi,BSDS,Male,3,2.5,2.37,Web App,No,6,8,3,3,5,25,59.4,73.7,No,No,0
+G00846,2024-08-28,Peshawar,BSCS,Male,3,2.86,2.57,Research,No,3,4,1,1,5,66,67.6,77.3,No,No,0
+G01766,2025-10-08,Peshawar,BSAI,Female,4,2.95,2.37,Web App,No,6,7,2,5,5,149,93.0,76.1,No,No,0
+G01253,2025-02-17,Lahore,BSCS,Female,4,3.05,3.03,Mobile App,No,6,5,3,2,5,136,78.3,73.3,No,No,0
+G00274,2023-12-28,Rawalpindi,BSCS,Male,3,2.79,2.55,IoT,No,4,9,1,2,10,11,62.5,33.5,Yes,Yes,1
+G00876,2024-09-10,Multan,BSCS,Female,3,3.35,2.7,Research,No,8,2,1,1,5,15,77.9,81.2,No,No,0
+G00183,2023-11-19,Karachi,BSCS,Male,3,2.27,1.96,Web App,No,4,5,3,5,5,33,46.4,68.1,No,No,0
+G01544,2025-06-20,Karachi,BSAI,Male,4,3.24,2.84,AI-ML,No,2,9,1,3,6,57,86.2,55.4,Yes,Yes,1
+G01076,2024-12-08,Multan,BSCS,Male,2,3.0,2.87,Web App,Yes,9,4,1,5,1,64,68.3,65.9,No,No,0
+G01222,2025-02-08,Islamabad,BSAI,Male,3,3.01,2.77,Web App,No,4,6,1,3,3,91,60.9,79.6,No,No,0
+G00463,2024-03-17,Multan,BSDS,Male,3,3.22,2.95,AI-ML,No,10,8,0,6,2,91,69.3,64.4,No,No,0
+G01476,2025-05-27,Islamabad,BSDS,Male,3,2.96,2.38,AI-ML,No,3,7,1,13,0,186,78.5,51.6,No,No,0
+G00090,2023-10-08,Quetta,BSIT,Male,4,2.79,2.27,AI-ML,No,5,5,1,5,6,13,65.3,82.9,No,No,0
+G01249,2025-02-16,Multan,BSCS,Female,2,3.56,3.41,Research,No,3,9,1,0,4,85,79.1,86.0,No,No,0
+G01675,2025-08-21,Lahore,BSAI,Female,4,2.88,2.59,IoT,No,7,8,1,4,3,125,71.7,85.7,No,No,0
+G01511,2025-06-07,Faisalabad,BSIT,Female,3,3.66,3.52,Web App,No,8,8,0,9,1,220,72.9,78.1,No,No,0
+G00051,2023-09-18,Lahore,BSAI,Female,3,2.64,2.09,AI-ML,No,6,5,1,2,5,36,51.5,71.3,Yes,No,0
+G00854,2024-09-01,Faisalabad,BSIT,Female,3,3.3,3.1,IoT,No,2,6,4,3,11,68,83.1,73.6,No,No,0
+G00416,2024-02-27,Faisalabad,BSSE,Female,3,3.22,2.93,IoT,No,7,8,1,8,3,78,75.5,60.5,No,No,0
+G00677,2024-06-11,Karachi,BSSE,Male,2,3.01,2.34,Research,No,13,3,2,9,2,13,48.0,68.4,No,No,0
+G01391,2025-04-21,Rawalpindi,BSAI,Female,3,3.1,2.45,Research,No,3,4,1,7,0,35,34.5,52.3,Yes,Yes,1
+G00535,2024-04-15,Islamabad,BSIT,Male,2,2.84,2.68,IoT,Yes,5,6,1,1,5,45,77.4,87.1,No,No,0
+G00235,2023-12-09,Multan,BSAI,Male,4,2.56,2.33,AI-ML,No,3,4,1,2,8,106,77.4,84.9,No,No,0
+G01514,2025-06-07,Karachi,BSCS,Female,2,3.63,2.84,Web App,No,11,7,1,1,5,15,72.2,77.4,No,No,0
+G00681,2024-06-13,Faisalabad,BSDS,Male,3,3.17,2.77,Web App,No,14,5,2,6,4,28,66.8,69.5,No,No,0
+G00582,2024-04-30,Lahore,BSDS,Male,2,3.51,3.17,Web App,No,16,3,2,2,5,99,98.1,66.8,No,No,0
+G00402,2024-02-22,Quetta,BSCS,Male,2,2.46,2.44,Web App,No,10,9,1,6,3,13,36.5,43.9,No,Yes,1
+G00699,2024-06-21,Rawalpindi,BSAI,Female,1,3.95,3.95,Web App,Yes,7,6,1,2,5,94,88.6,74.9,No,No,0
+G00439,2024-03-06,Faisalabad,BSAI,Male,3,3.66,3.22,IoT,No,9,3,0,3,6,22,90.7,63.8,No,No,0
+G00528,2024-04-12,Karachi,BSAI,Male,4,2.89,2.85,AI-ML,No,1,6,0,2,3,40,62.2,57.1,No,No,0
+G01558,2025-06-26,Multan,BSCS,Male,3,3.27,2.94,Mobile App,No,10,4,1,1,1,49,58.0,53.5,No,No,0
+G01393,2025-04-22,Lahore,BSAI,Female,5,2.87,2.44,Mobile App,No,8,4,2,5,6,110,77.2,70.4,No,No,0
+G00718,2024-06-29,Islamabad,BSDS,Male,2,2.44,1.54,AI-ML,No,21,9,1,4,5,74,56.1,71.7,No,No,0
+G01176,2025-01-19,Rawalpindi,BSCS,Male,4,3.72,2.82,AI-ML,No,3,5,2,4,10,38,75.0,76.4,Yes,No,0
+G01464,2025-05-22,Islamabad,BSSE,Male,3,2.75,2.22,AI-ML,No,5,2,2,5,4,85,60.5,97.2,No,No,0
+G00133,2023-10-25,Lahore,BSCS,Female,2,2.89,2.5,Mobile App,No,3,4,4,3,8,58,73.7,73.6,No,No,0
+G00739,2024-07-10,Karachi,BSAI,Male,4,2.62,2.24,AI-ML,No,7,3,3,1,7,99,69.2,60.9,No,No,0
+G00030,2023-09-09,Karachi,BSSE,Female,4,2.63,2.39,Web App,No,1,5,1,11,5,51,57.8,44.6,Yes,Yes,1
+G00640,2024-05-29,Multan,BSAI,Female,4,3.37,2.47,Web App,Yes,19,6,1,5,2,90,68.3,69.3,No,No,0
+G00239,2023-12-09,Karachi,BSSE,Female,3,2.8,2.58,Web App,No,4,7,1,6,10,20,84.8,70.2,Yes,Yes,1
+G01360,2025-04-07,Peshawar,BSCS,Male,2,2.6,2.31,Mobile App,No,1,9,1,6,3,28,72.0,48.8,Yes,Yes,1
+G00324,2024-01-22,Quetta,BSIT,Male,2,3.09,2.86,AI-ML,No,3,9,0,3,8,67,79.6,51.9,No,No,0
+G00629,2024-05-22,Faisalabad,BSCS,Male,3,3.25,2.52,AI-ML,No,15,4,0,4,8,45,70.3,93.4,No,No,0
+G01750,2025-09-28,Multan,BSSE,Female,3,3.28,2.71,IoT,No,3,8,0,1,2,134,81.2,72.5,No,No,0
+G00770,2024-07-25,Multan,BSSE,Female,2,2.3,1.97,AI-ML,No,8,9,1,3,8,27,57.7,76.8,No,No,0
+G01771,2025-10-08,Lahore,BSSE,Female,3,2.94,2.65,AI-ML,No,6,4,1,2,6,29,64.3,60.7,No,No,0
+G01021,2024-11-15,Peshawar,BSDS,Female,4,3.39,3.1,Research,No,3,6,1,4,5,13,78.2,29.4,Yes,Yes,1
+G00380,2024-02-15,Lahore,BSSE,Male,3,3.28,2.85,AI-ML,No,6,6,2,6,9,64,86.9,77.0,No,No,0
+G01540,2025-06-18,Faisalabad,BSCS,Male,2,2.96,2.81,Mobile App,Yes,6,5,1,6,3,7,58.6,68.1,No,No,0
+G00748,2024-07-15,Faisalabad,BSAI,Female,1,3.46,3.46,Research,No,10,2,3,1,5,53,81.8,66.4,No,No,0
+G01055,2024-11-29,Faisalabad,BSCS,Male,4,3.15,2.88,AI-ML,No,8,9,1,5,4,142,72.0,64.4,No,No,0
+G01433,2025-05-09,Lahore,BSSE,Female,5,3.29,2.84,Research,No,5,2,3,6,2,54,48.3,60.6,Yes,Yes,1
+G00351,2024-02-02,Islamabad,BSCS,Female,5,2.9,2.77,AI-ML,No,6,6,1,1,4,138,75.2,38.3,Yes,Yes,1
+G01273,2025-02-25,Multan,BSDS,Male,4,3.25,2.93,AI-ML,Yes,1,12,0,1,6,90,77.5,71.2,No,No,0
+G00052,2023-09-19,Multan,BSAI,Male,3,2.84,2.55,AI-ML,Yes,7,7,0,3,3,4,62.4,44.0,Yes,Yes,1
+G00508,2024-04-04,Karachi,BSCS,Male,1,3.2,3.2,Web App,No,3,6,2,1,3,14,63.0,79.1,No,No,0
+G01061,2024-12-02,Rawalpindi,BSAI,Male,2,2.67,2.09,Web App,No,9,7,0,7,7,60,60.8,67.7,No,No,0
+G01103,2024-12-18,Quetta,BSAI,Female,3,2.96,2.9,AI-ML,No,2,3,3,3,9,113,79.7,78.0,No,No,0
+G01038,2024-11-23,Faisalabad,BSIT,Male,4,3.13,3.03,AI-ML,No,4,9,1,7,2,170,67.7,68.9,No,No,0
+G01083,2024-12-11,Lahore,BSSE,Female,1,3.27,3.27,Mobile App,No,8,4,1,9,4,75,82.2,57.8,No,No,0
+G00576,2024-04-27,Quetta,BSSE,Female,2,3.23,2.94,IoT,No,15,6,1,0,8,106,94.5,78.6,No,No,0
+G00234,2023-12-09,Lahore,BSAI,Male,3,3.34,2.85,Web App,No,2,1,0,5,1,57,77.5,82.0,No,No,0
+G01774,2025-10-09,Karachi,BSCS,Male,4,3.51,3.42,Mobile App,No,7,4,0,2,7,73,84.4,86.3,No,No,0
+G01708,2025-09-09,Faisalabad,BSAI,Female,3,3.73,3.56,Web App,No,4,6,2,3,8,137,80.8,77.3,No,No,0
+G01437,2025-05-12,Rawalpindi,BSCS,Male,2,3.61,3.52,Web App,Yes,7,5,2,3,6,124,79.6,73.8,No,No,0
+G00744,2024-07-13,Karachi,BSSE,Female,1,2.95,2.95,Mobile App,Yes,3,10,1,3,7,30,73.6,76.5,No,No,0
+G00479,2024-03-23,Faisalabad,BSCS,Male,4,3.28,2.54,Research,No,4,6,2,1,3,107,85.9,81.4,No,No,0
+G01000,2024-10-31,Lahore,BSCS,Male,2,3.2,2.64,AI-ML,No,2,7,3,4,3,166,76.4,29.0,Yes,Yes,1
+G00194,2023-11-23,Lahore,BSSE,Male,2,3.49,3.39,Web App,Yes,4,5,1,5,4,28,77.3,81.6,No,No,0
+G01409,2025-04-30,Quetta,BSAI,Female,5,2.94,2.82,AI-ML,No,1,5,0,3,1,86,60.8,69.5,No,No,0
+G00405,2024-02-23,Islamabad,BSCS,Female,4,3.3,3.1,Research,No,5,6,0,3,5,68,77.0,56.4,Yes,Yes,1
+G01070,2024-12-07,Rawalpindi,BSSE,Female,3,2.16,1.96,Research,No,6,6,1,3,4,58,50.3,83.1,No,No,0
+G00884,2024-09-13,Multan,BSCS,Male,2,3.12,2.75,AI-ML,Yes,5,6,0,1,6,84,87.9,77.5,No,No,0
+G00488,2024-03-27,Lahore,BSDS,Female,3,3.28,2.99,Mobile App,No,5,5,1,8,5,50,72.0,72.1,No,No,0
+G01049,2024-11-28,Karachi,BSCS,Male,3,2.56,2.02,Research,No,4,7,1,8,3,21,44.2,54.9,No,Yes,1
+G00472,2024-03-21,Quetta,BSDS,Female,3,2.38,2.07,Web App,No,2,7,2,3,8,15,53.0,74.3,No,No,0
+G00257,2023-12-21,Karachi,BSAI,Male,5,3.5,3.13,IoT,No,4,8,2,6,6,59,85.6,76.1,No,No,0
+G00895,2024-09-18,Lahore,BSSE,Female,1,2.94,2.94,Mobile App,Yes,9,6,2,6,2,57,59.9,93.0,No,No,0
+G01585,2025-07-13,Quetta,BSCS,Female,3,3.88,3.16,Web App,Yes,1,10,4,3,4,55,91.1,73.0,No,No,0
+G01719,2025-09-13,Peshawar,BSCS,Female,4,2.61,2.3,AI-ML,No,6,3,1,2,10,141,72.0,63.3,No,No,0
+G00139,2023-10-28,Multan,BSSE,Male,3,2.66,2.37,AI-ML,No,3,6,0,4,0,70,50.2,45.5,No,Yes,1
+G00492,2024-03-28,Lahore,BSAI,Male,4,3.69,3.48,IoT,No,11,2,2,9,5,43,81.4,63.6,No,Yes,1
+G01572,2025-06-30,Quetta,BSAI,Female,3,3.26,2.87,IoT,No,6,5,1,14,5,131,75.6,94.5,No,No,0
+G01271,2025-02-25,Rawalpindi,BSIT,Male,3,2.76,2.73,Research,No,2,6,2,7,10,56,82.1,70.2,No,No,0
+G01147,2025-01-07,Faisalabad,BSSE,Male,4,3.75,3.46,IoT,No,6,6,4,3,4,43,74.2,88.4,No,No,0
+G00579,2024-04-30,Karachi,BSIT,Male,3,3.39,2.86,Research,Yes,2,9,1,2,5,59,78.6,83.6,No,No,0
+G00707,2024-06-22,Faisalabad,BSAI,Female,4,2.78,2.01,Mobile App,Yes,10,5,2,5,3,17,55.1,74.6,No,No,0
+G00207,2023-11-28,Karachi,BSAI,Female,3,3.17,2.94,AI-ML,No,5,4,0,3,10,55,82.8,72.8,Yes,No,0
+G01201,2025-01-30,Quetta,BSAI,Male,1,3.63,3.63,Mobile App,No,6,6,0,1,11,50,86.3,88.3,No,No,0
+G00849,2024-08-30,Peshawar,BSIT,Female,4,3.27,3.0,AI-ML,Yes,6,3,1,1,5,51,72.0,53.0,Yes,Yes,1
+G01617,2025-07-24,Lahore,BSCS,Female,3,2.86,2.81,Web App,No,5,7,2,2,8,32,72.4,63.6,No,No,0
+G01664,2025-08-16,Karachi,BSDS,Male,4,3.42,3.09,AI-ML,No,18,3,2,0,9,6,82.9,64.5,No,No,0
+G00001,2023-09-01,Faisalabad,BSSE,Female,3,3.21,3.0,AI-ML,No,7,10,0,4,2,22,71.7,78.7,No,No,0
+G00227,2023-12-05,Faisalabad,BSCS,Male,3,3.34,2.48,Research,No,3,7,0,2,4,17,68.2,34.2,Yes,Yes,1
+G01794,2025-10-17,Islamabad,BSSE,Male,2,3.08,2.89,Web App,No,4,6,2,1,1,37,73.9,72.8,No,No,0
+G00250,2023-12-17,Peshawar,BSSE,Female,1,1.94,1.94,AI-ML,No,7,5,2,4,0,25,72.0,38.4,Yes,Yes,1
+G01494,2025-05-31,Faisalabad,BSSE,Male,4,2.86,2.33,Mobile App,No,2,4,0,4,3,132,78.2,47.5,Yes,Yes,1
+G00890,2024-09-16,Rawalpindi,BSCS,Male,3,2.58,1.81,AI-ML,Yes,7,5,4,1,5,105,59.4,86.9,No,No,0
+G01133,2025-01-02,Lahore,BSSE,Male,2,2.99,2.86,Mobile App,No,4,5,1,3,5,136,78.2,67.5,No,No,0
+G01451,2025-05-16,Islamabad,BSDS,Female,5,3.17,2.9,Web App,No,9,3,3,1,3,29,65.9,41.6,Yes,Yes,1
+G00706,2024-06-22,Islamabad,BSCS,Male,3,3.48,3.37,Web App,No,5,5,1,7,1,73,72.1,77.0,No,No,0
+G00980,2024-10-21,Islamabad,BSCS,Male,2,2.47,2.44,AI-ML,No,6,5,2,2,7,60,68.9,88.3,No,No,0
+G01030,2024-11-19,Rawalpindi,BSAI,Male,4,2.68,2.52,Web App,No,2,2,0,3,9,57,76.8,83.7,No,No,0
+G01285,2025-03-04,Rawalpindi,BSSE,Male,5,3.48,3.4,IoT,No,7,6,0,2,6,59,77.1,74.0,No,No,0
+G00284,2024-01-03,Quetta,BSCS,Male,3,3.1,2.99,AI-ML,Yes,3,6,1,1,5,84,75.6,80.6,No,No,0
+G00314,2024-01-18,Karachi,BSCS,Male,4,2.64,2.61,Web App,No,8,4,1,0,12,93,77.0,88.5,No,No,0
+G00597,2024-05-09,Quetta,BSSE,Male,3,3.4,2.58,Web App,Yes,35,6,2,2,4,57,90.9,59.2,No,No,0
+G00060,2023-09-23,Islamabad,BSCS,Male,4,3.48,2.58,IoT,No,14,2,1,2,10,115,72.0,70.2,No,No,0
+G01370,2025-04-11,Lahore,BSDS,Female,3,2.55,1.91,Mobile App,No,14,3,1,2,6,57,66.4,58.7,No,No,0
+G00048,2023-09-16,Rawalpindi,BSCS,Male,3,3.35,3.04,IoT,No,3,5,1,2,1,90,76.8,58.4,No,No,0
+G01722,2025-09-14,Karachi,BSCS,Male,2,3.17,2.74,Mobile App,No,4,4,2,11,4,56,69.8,70.2,No,No,0
+G01327,2025-03-21,Islamabad,BSAI,Male,4,3.95,3.73,Mobile App,No,2,6,1,1,0,104,77.1,57.3,No,No,0
+G01657,2025-08-12,Lahore,BSSE,Male,4,2.67,2.61,Web App,No,10,9,1,6,6,71,68.3,62.4,No,No,0
+G00987,2024-10-25,Faisalabad,BSAI,Male,5,2.87,2.67,Mobile App,No,6,3,0,2,5,32,55.1,55.7,Yes,Yes,1
+G00970,2024-10-18,Karachi,BSAI,Female,3,3.13,2.52,IoT,No,10,7,3,2,1,31,64.6,54.4,No,No,0
+G01311,2025-03-14,Peshawar,BSCS,Male,3,3.26,3.13,AI-ML,No,5,10,1,9,6,49,74.6,80.3,No,No,0
+G01767,2025-10-08,Faisalabad,BSSE,Male,4,2.21,1.71,IoT,No,2,6,3,3,7,81,51.0,50.1,Yes,Yes,1
+G01751,2025-09-29,Quetta,BSIT,Male,2,3.39,3.25,AI-ML,No,13,4,2,3,8,8,86.9,68.8,Yes,No,0
+G00759,2024-07-20,Lahore,BSAI,Female,3,3.78,3.35,AI-ML,No,1,3,1,4,2,179,85.6,80.4,No,No,0
+G00979,2024-10-21,Lahore,BSAI,Male,4,3.18,2.67,Research,No,10,6,0,1,5,21,53.5,37.1,Yes,Yes,1
+G01704,2025-09-07,Multan,BSAI,Male,3,3.76,3.63,AI-ML,No,6,7,0,3,5,55,88.7,73.9,Yes,No,0
+G00313,2024-01-18,Karachi,BSSE,Male,3,3.1,2.96,Web App,No,8,5,2,3,5,85,86.1,77.8,No,No,0
+G00092,2023-10-08,Karachi,BSIT,Male,3,3.41,2.87,Web App,No,2,5,2,1,1,77,72.4,59.9,No,No,0
+G00722,2024-07-01,Lahore,BSCS,Male,5,3.2,2.7,Mobile App,No,3,6,1,6,8,89,71.3,86.3,No,No,0
+G01529,2025-06-15,Karachi,BSSE,Female,3,3.61,3.25,AI-ML,No,19,5,1,3,6,69,72.0,69.6,No,No,0
+G01266,2025-02-22,Multan,BSCS,Female,2,2.82,2.53,IoT,No,8,8,0,1,7,64,71.6,66.7,No,No,0
+G00735,2024-07-09,Faisalabad,BSDS,Female,3,3.62,2.72,Web App,No,6,6,2,6,1,55,57.3,72.9,No,No,0
+G00812,2024-08-11,Peshawar,BSCS,Female,3,3.16,3.07,Mobile App,No,3,7,0,1,5,27,69.5,85.2,No,No,0
+G00460,2024-03-16,Peshawar,BSIT,Female,4,3.25,2.89,Web App,No,4,6,2,10,4,59,64.9,52.7,Yes,No,0
+G01726,2025-09-18,Karachi,BSDS,Female,4,2.94,2.71,Mobile App,No,4,6,1,6,4,69,64.8,42.1,Yes,Yes,1
+G01485,2025-05-29,Faisalabad,BSDS,Male,3,3.7,3.44,AI-ML,No,1,9,0,4,4,77,89.6,69.5,No,No,0
+G00384,2024-02-17,Karachi,BSCS,Male,2,3.6,3.43,IoT,Yes,11,12,3,3,5,57,81.6,69.3,No,No,0
+G00018,2023-09-07,Faisalabad,BSCS,Male,1,2.85,2.85,Web App,No,7,5,4,1,8,15,60.4,78.8,No,No,0
+G00956,2024-10-13,Faisalabad,BSAI,Female,4,3.66,3.37,Web App,Yes,5,4,3,2,9,21,88.3,68.5,No,No,0
+G01653,2025-08-10,Rawalpindi,BSAI,Male,4,2.12,1.89,Mobile App,Yes,15,4,2,4,5,16,46.2,38.4,Yes,Yes,1
+G01067,2024-12-05,Karachi,BSCS,Female,3,3.24,2.65,Mobile App,No,3,5,1,3,11,57,91.2,75.0,No,No,0
+G01210,2025-02-02,Multan,BSCS,Male,3,3.13,2.53,Mobile App,No,28,10,4,8,3,141,69.6,78.8,No,No,0
+G00988,2024-10-25,Peshawar,BSDS,Male,4,3.26,3.04,Web App,No,10,6,2,1,4,65,68.9,71.5,No,No,0
+G01015,2024-11-10,Karachi,BSIT,Male,1,3.0,3.0,Mobile App,Yes,3,3,2,5,2,62,72.8,73.4,No,No,0
+G01772,2025-10-09,Multan,BSSE,Male,4,3.46,3.41,AI-ML,No,3,6,2,3,5,7,75.1,77.2,No,No,0
+G01740,2025-09-23,Peshawar,BSIT,Female,3,3.1,2.73,Mobile App,Yes,11,5,0,5,5,55,74.1,75.1,No,No,0
+G00126,2023-10-22,Islamabad,BSSE,Male,5,2.8,2.38,Mobile App,No,8,4,0,7,7,52,72.1,79.8,Yes,No,0
+G00512,2024-04-05,Lahore,BSIT,Male,4,3.1,2.91,Mobile App,Yes,8,6,2,5,1,28,45.7,63.2,No,No,0
+G00077,2023-10-01,Karachi,BSDS,Male,3,3.16,2.93,AI-ML,No,6,9,1,1,5,228,75.8,70.6,No,No,0
+G00931,2024-10-02,Rawalpindi,BSIT,Female,5,3.49,3.22,Research,No,10,7,0,3,4,54,94.8,75.3,No,No,0
+G00142,2023-10-30,Peshawar,BSSE,Female,2,3.26,2.43,Mobile App,No,2,6,1,3,3,51,62.0,71.2,No,No,0
+G01792,2025-10-15,Multan,BSDS,Male,4,2.39,1.64,Mobile App,No,1,7,1,3,1,92,45.7,55.5,No,No,0
+G00586,2024-05-05,Islamabad,BSCS,Female,4,2.31,2.02,Web App,No,11,5,1,4,5,10,54.9,47.7,Yes,Yes,1
+G00819,2024-08-13,Rawalpindi,BSSE,Female,4,3.05,2.81,Web App,No,6,5,0,2,4,64,66.7,76.0,No,No,0
+G01776,2025-10-10,Quetta,BSIT,Female,3,3.76,3.27,Web App,No,4,6,3,4,4,49,78.3,79.5,No,No,0
+G00788,2024-08-02,Islamabad,BSCS,Female,3,3.26,3.01,Research,Yes,9,3,2,4,2,284,60.1,78.8,No,No,0
+G00556,2024-04-21,Islamabad,BSAI,Male,4,3.03,2.79,AI-ML,Yes,17,5,2,1,7,76,76.5,72.6,No,No,0
+G01177,2025-01-20,Rawalpindi,BSIT,Male,1,3.21,3.21,Web App,No,11,8,2,5,3,17,65.1,81.1,No,No,0
+G01057,2024-11-29,Lahore,BSCS,Female,2,2.92,2.58,Web App,Yes,6,10,2,2,12,69,80.6,81.0,No,No,0
+G00016,2023-09-07,Quetta,BSCS,Male,4,3.11,2.82,AI-ML,No,2,2,1,4,12,63,72.0,69.7,No,No,0
+G00436,2024-03-05,Multan,BSCS,Female,3,2.86,2.74,AI-ML,No,14,5,4,6,7,31,62.6,68.9,No,No,0
+G00499,2024-03-31,Karachi,BSCS,Male,4,2.71,2.42,Web App,Yes,10,5,1,3,9,10,84.0,76.3,No,No,0
+G00620,2024-05-19,Lahore,BSCS,Male,3,2.88,2.54,Web App,Yes,6,10,1,3,7,19,68.3,31.6,Yes,Yes,1
+G01530,2025-06-15,Rawalpindi,BSCS,Male,3,3.15,2.94,AI-ML,No,8,2,0,9,3,36,75.9,68.4,No,No,0
+G01428,2025-05-05,Karachi,BSAI,Male,3,2.18,1.64,Mobile App,No,7,4,3,7,8,54,54.9,68.5,No,No,0
+G00451,2024-03-14,Rawalpindi,BSCS,Male,4,3.11,3.02,Web App,No,6,7,1,2,7,43,84.4,78.0,No,No,0
+G00767,2024-07-24,Lahore,BSCS,Male,3,2.95,2.71,Research,No,5,9,2,1,3,27,62.9,72.6,No,No,0
+G00036,2023-09-11,Faisalabad,BSCS,Male,3,3.3,3.16,Web App,No,3,5,2,1,7,26,76.8,90.8,No,No,0
+G00948,2024-10-10,Lahore,BSIT,Female,5,3.42,3.28,AI-ML,No,10,2,1,4,5,62,78.7,66.1,No,No,0
+G01250,2025-02-16,Rawalpindi,BSCS,Male,1,3.17,3.17,IoT,No,10,5,0,13,0,28,69.6,72.5,No,No,0
+G01197,2025-01-28,Karachi,BSIT,Female,1,2.91,2.91,Web App,No,2,3,1,2,9,48,71.6,92.7,No,No,0
+G00982,2024-10-22,Peshawar,BSAI,Male,2,2.74,2.54,Web App,No,6,5,2,0,2,57,62.3,44.7,Yes,Yes,1
+G00242,2023-12-13,Islamabad,BSAI,Male,2,2.94,2.72,AI-ML,No,4,8,0,9,7,57,78.1,80.9,No,No,0
+G00530,2024-04-13,Multan,BSCS,Male,2,2.61,2.41,Mobile App,No,8,4,2,3,5,75,60.0,68.9,No,No,0
+G00344,2024-01-29,Multan,BSAI,Female,3,3.83,3.71,AI-ML,Yes,2,2,1,1,8,44,93.3,74.2,No,No,0
+G01181,2025-01-21,Rawalpindi,BSCS,Female,3,3.58,3.51,Web App,No,6,7,2,1,5,189,90.6,81.6,No,No,0
+G01443,2025-05-13,Quetta,BSCS,Male,2,3.03,2.18,AI-ML,No,2,7,1,3,4,15,50.9,51.0,Yes,Yes,1
+G01732,2025-09-21,Faisalabad,BSIT,Male,4,2.77,1.9,AI-ML,No,10,8,0,2,6,14,54.3,55.2,Yes,Yes,1
+G01737,2025-09-22,Rawalpindi,BSDS,Male,3,3.02,2.69,Mobile App,No,12,4,3,2,1,81,65.9,42.9,Yes,Yes,1
+G00887,2024-09-15,Multan,BSSE,Male,3,3.7,3.3,Web App,No,8,4,0,8,0,45,70.6,71.0,No,No,0
+G00507,2024-04-03,Lahore,BSCS,Male,1,3.18,3.18,AI-ML,No,8,6,1,1,6,44,83.1,78.6,No,No,0
+G01580,2025-07-11,Rawalpindi,BSIT,Male,2,3.1,2.76,Research,Yes,9,6,2,4,9,44,80.5,80.3,No,No,0
+G00216,2023-12-01,Karachi,BSAI,Male,2,2.62,2.29,Web App,Yes,8,6,4,3,5,51,63.8,79.4,No,No,0
+G00946,2024-10-09,Faisalabad,BSAI,Female,3,3.18,2.95,IoT,No,4,7,2,8,3,107,72.2,78.0,No,No,0
+G00065,2023-09-25,Islamabad,BSIT,Male,4,2.74,2.3,Web App,No,5,6,2,2,4,147,72.0,66.4,No,No,0
+G00011,2023-09-05,Rawalpindi,BSDS,Female,4,2.75,2.03,Mobile App,Yes,4,6,1,7,3,11,47.4,72.7,No,No,0
+G01648,2025-08-08,Peshawar,BSDS,Male,4,2.47,1.79,Web App,No,1,2,3,5,4,155,71.2,55.4,No,No,0
+G01662,2025-08-15,Lahore,BSCS,Male,3,3.53,3.41,AI-ML,No,1,4,0,2,4,141,84.0,74.7,No,No,0
+G01203,2025-01-31,Peshawar,BSAI,Male,3,2.57,2.23,Web App,No,4,3,4,6,5,58,42.9,83.0,No,No,0
+G00253,2023-12-19,Lahore,BSCS,Female,2,2.65,1.9,Research,Yes,6,5,3,1,5,30,60.4,68.5,No,No,0
+G01630,2025-07-30,Rawalpindi,BSSE,Male,2,2.83,2.54,Web App,No,5,10,0,2,3,128,77.6,78.1,No,No,0
+G00604,2024-05-12,Islamabad,BSDS,Male,4,2.76,2.39,Research,No,4,7,3,1,4,29,51.5,68.9,Yes,Yes,1
+G00806,2024-08-07,Karachi,BSSE,Male,2,3.22,2.99,AI-ML,No,6,4,1,8,2,152,84.2,69.5,No,No,0
+G01286,2025-03-05,Quetta,BSCS,Male,4,3.2,2.3,Mobile App,No,6,5,1,1,7,50,78.0,71.6,No,No,0
+G01125,2024-12-30,Lahore,BSDS,Male,4,2.61,2.35,AI-ML,No,4,2,0,6,5,52,61.5,56.9,Yes,Yes,1
+G01192,2025-01-26,Islamabad,BSCS,Male,3,2.58,2.37,AI-ML,Yes,13,9,1,7,3,45,60.1,57.1,No,No,0
+G01602,2025-07-19,Islamabad,BSSE,Female,3,2.72,2.43,AI-ML,No,5,3,4,6,7,166,62.8,71.5,No,No,0
+G00315,2024-01-19,Islamabad,BSSE,Female,4,2.86,2.24,Web App,Yes,6,11,4,4,5,71,57.0,80.0,No,No,0
+G00519,2024-04-07,Quetta,BSCS,Female,3,3.2,2.51,IoT,Yes,6,5,1,5,4,42,71.5,46.8,No,Yes,1
+G00466,2024-03-19,Rawalpindi,BSCS,Female,3,3.68,3.39,Research,No,1,12,0,6,7,17,81.0,83.8,No,No,0
+G00932,2024-10-03,Rawalpindi,BSAI,Male,3,2.92,2.65,Web App,No,8,5,0,1,6,28,71.4,69.8,No,No,0
+G00964,2024-10-17,Quetta,BSIT,Male,3,2.91,2.41,IoT,No,11,8,2,3,5,57,72.5,68.1,No,No,0
+G01686,2025-08-27,Rawalpindi,BSIT,Female,1,3.1,3.1,Mobile App,Yes,3,9,1,1,6,24,77.4,77.4,No,No,0
+G00843,2024-08-26,Peshawar,BSIT,Female,4,2.49,2.27,AI-ML,No,5,5,3,4,11,57,61.8,76.0,No,No,0
+G01669,2025-08-18,Faisalabad,BSSE,Female,4,2.64,2.22,Mobile App,No,4,8,1,0,2,162,71.3,47.1,No,Yes,1
+G01471,2025-05-25,Islamabad,BSAI,Male,3,3.4,2.85,AI-ML,No,6,6,0,3,3,26,68.6,74.5,No,No,0
+G01775,2025-10-10,Lahore,BSSE,Male,2,3.77,3.55,Mobile App,Yes,7,7,0,3,0,8,57.4,69.4,No,No,0
+G00368,2024-02-10,Multan,BSAI,Female,4,3.45,3.24,AI-ML,No,6,9,5,6,6,187,89.0,77.6,No,No,0
+G00146,2023-10-31,Lahore,BSSE,Male,3,2.99,2.72,IoT,No,6,2,0,1,2,57,40.9,65.9,No,No,0
+G00363,2024-02-06,Islamabad,BSAI,Female,4,2.8,2.26,AI-ML,No,8,8,4,3,6,58,69.3,75.1,No,No,0
+G01685,2025-08-27,Islamabad,BSCS,Male,4,3.42,3.02,AI-ML,No,3,8,1,1,4,134,69.9,81.3,No,No,0
+G00631,2024-05-23,Faisalabad,BSAI,Male,2,2.56,2.5,Mobile App,No,2,3,1,8,3,10,42.1,28.9,Yes,Yes,1
+G00091,2023-10-08,Karachi,BSSE,Male,4,3.38,3.36,AI-ML,No,12,3,2,1,8,23,73.9,73.3,No,No,0
+G00322,2024-01-21,Islamabad,BSCS,Male,3,2.91,2.34,AI-ML,No,10,4,1,2,5,85,67.9,72.9,No,No,0
+G00186,2023-11-20,Multan,BSSE,Male,2,3.91,3.47,Web App,No,4,8,0,4,5,78,87.4,72.3,No,No,0
+G01678,2025-08-24,Faisalabad,BSSE,Male,3,2.77,2.62,AI-ML,No,6,4,2,7,5,64,76.5,31.9,Yes,Yes,1
+G00925,2024-10-01,Peshawar,BSDS,Female,4,2.99,2.64,IoT,No,6,9,4,9,9,93,67.4,84.8,No,No,0
+G01157,2025-01-12,Multan,BSCS,Male,4,2.73,2.71,AI-ML,No,7,5,1,2,2,57,64.3,70.7,No,No,0
+G00869,2024-09-07,Lahore,BSCS,Male,4,3.37,2.98,Web App,Yes,7,8,0,2,2,20,78.7,70.3,No,No,0
+G00757,2024-07-20,Karachi,BSAI,Female,3,3.18,2.88,Mobile App,No,5,4,1,4,3,72,73.4,67.5,No,No,0
+G00120,2023-10-21,Karachi,BSAI,Female,4,2.92,2.89,IoT,No,5,7,1,1,7,7,79.7,44.5,Yes,Yes,1
+G01571,2025-06-30,Lahore,BSAI,Female,2,2.94,2.66,IoT,No,4,7,1,2,6,38,73.4,79.3,Yes,No,0
+G01063,2024-12-03,Lahore,BSCS,Male,1,3.27,3.27,Research,No,11,5,0,1,4,57,73.9,72.1,No,No,0
+G00841,2024-08-26,Islamabad,BSCS,Male,4,3.37,3.25,AI-ML,No,4,6,3,3,6,40,83.6,74.1,No,No,0
+G00494,2024-03-30,Peshawar,BSDS,Female,2,2.87,2.58,AI-ML,No,8,7,2,0,6,4,68.0,58.0,No,No,0
+G00444,2024-03-09,Lahore,BSCS,Female,1,3.04,3.04,Web App,Yes,8,3,4,5,8,38,74.8,54.0,No,No,0
+G00339,2024-01-28,Faisalabad,BSIT,Male,2,2.98,2.72,AI-ML,Yes,7,4,0,2,6,124,72.0,62.3,No,No,0
+G01109,2024-12-20,Karachi,BSIT,Female,2,3.4,3.11,Web App,No,4,7,2,2,7,79,91.4,92.4,No,No,0
+G00225,2023-12-04,Islamabad,BSCS,Male,5,2.73,2.44,Web App,No,2,5,0,2,2,196,76.4,82.2,No,No,0
+G00020,2023-09-07,Lahore,BSIT,Female,4,3.46,2.56,Web App,No,3,6,1,4,6,203,86.7,79.5,No,No,0
+G01097,2024-12-15,Faisalabad,BSSE,Female,3,3.28,2.9,Mobile App,No,6,3,0,1,8,62,91.7,58.9,No,No,0
+G00419,2024-02-28,Peshawar,BSCS,Male,3,3.2,2.89,AI-ML,No,7,8,0,2,5,63,71.3,58.9,No,No,0
+G01100,2024-12-16,Karachi,BSAI,Male,4,3.64,3.42,Web App,No,6,5,1,4,5,91,73.1,65.4,No,No,0
+G01405,2025-04-26,Karachi,BSIT,Female,2,3.69,3.1,Web App,No,7,3,1,0,5,72,81.1,67.5,No,No,0
+G00992,2024-10-26,Quetta,BSAI,Female,3,3.15,2.25,Web App,No,6,7,3,0,1,124,72.0,70.5,No,No,0
+G00386,2024-02-17,Karachi,BSSE,Male,3,3.62,3.36,Web App,Yes,2,8,0,2,10,110,94.1,67.0,No,No,0
+G00930,2024-10-02,Islamabad,BSSE,Male,2,3.22,2.97,Web App,No,4,6,2,2,2,30,67.8,70.4,Yes,No,0
+G00265,2023-12-25,Lahore,BSIT,Male,2,3.7,3.58,Web App,No,10,5,1,4,5,59,85.6,81.4,No,No,0
+G01065,2024-12-04,Multan,BSDS,Male,1,2.06,2.06,IoT,Yes,6,4,0,1,7,19,47.6,71.3,No,No,0
+G01453,2025-05-17,Lahore,BSDS,Male,3,3.78,3.76,Web App,No,6,8,0,3,8,68,88.9,83.9,No,No,0
+G00161,2023-11-12,Faisalabad,BSCS,Male,3,3.59,2.89,AI-ML,No,3,6,2,1,7,36,85.1,60.7,No,No,0
+G00111,2023-10-18,Karachi,BSCS,Male,2,2.4,1.5,Web App,No,7,7,1,1,1,18,33.5,57.1,Yes,Yes,1
+G00304,2024-01-12,Islamabad,BSDS,Female,2,2.85,2.67,Mobile App,No,6,6,1,4,8,31,71.0,78.5,No,No,0
+G01798,2025-10-18,Karachi,BSCS,Male,4,2.74,2.44,AI-ML,No,5,7,2,3,11,12,75.2,48.5,No,No,0
+G00049,2023-09-17,Lahore,BSDS,Female,4,3.3,2.92,IoT,No,6,4,0,2,2,190,78.3,82.1,No,No,0
+G00510,2024-04-04,Faisalabad,BSAI,Female,4,3.33,2.93,Web App,No,2,8,1,5,8,28,82.6,79.0,No,No,0
+G00019,2023-09-07,Rawalpindi,BSCS,Female,3,2.95,2.85,Web App,No,3,4,1,1,3,18,64.8,72.8,No,No,0
+G01068,2024-12-05,Karachi,BSAI,Male,2,3.23,2.95,Web App,No,7,12,0,6,4,51,76.6,68.2,No,No,0
+G01298,2025-03-09,Lahore,BSCS,Female,3,3.57,3.24,AI-ML,No,5,3,1,4,7,26,88.7,76.7,No,No,0
+G01468,2025-05-23,Islamabad,BSCS,Male,2,2.33,2.3,Mobile App,No,5,4,2,9,6,121,59.8,82.1,No,No,0
+G00935,2024-10-04,Islamabad,BSCS,Male,2,2.98,2.7,Web App,No,5,5,1,5,5,16,58.6,79.7,No,No,0
+G01115,2024-12-25,Multan,BSAI,Male,4,2.56,1.92,Web App,No,9,6,3,4,5,87,46.2,77.5,No,No,0
+G00886,2024-09-14,Karachi,BSAI,Female,3,2.88,2.64,Mobile App,No,2,6,3,1,3,26,72.0,64.7,No,No,0
+G00276,2023-12-28,Peshawar,BSSE,Female,3,2.95,2.66,Mobile App,No,5,7,3,11,2,140,79.3,67.4,No,No,0
+G01697,2025-09-07,Karachi,BSCS,Female,4,2.55,2.11,Web App,No,11,6,2,6,7,28,66.0,61.8,No,No,0
+G00115,2023-10-20,Peshawar,BSCS,Female,4,2.6,2.22,Mobile App,No,1,4,2,3,8,47,66.3,82.1,No,No,0
+G01353,2025-04-04,Quetta,BSSE,Male,3,3.75,3.33,AI-ML,No,10,8,2,5,6,31,87.6,89.3,No,No,0
+G01605,2025-07-20,Multan,BSAI,Male,3,3.47,2.71,Mobile App,No,15,7,1,2,5,102,94.3,70.0,No,No,0
+G01490,2025-05-31,Karachi,BSDS,Male,3,3.0,2.77,Web App,No,3,4,0,6,9,57,82.8,75.6,No,No,0
+G00728,2024-07-04,Multan,BSAI,Female,3,2.58,2.2,IoT,No,8,3,1,2,8,33,72.9,83.3,No,No,0
+G01156,2025-01-11,Peshawar,BSDS,Male,3,3.23,2.42,Mobile App,No,5,7,0,5,10,57,73.9,87.1,No,No,0
+G00002,2023-09-02,Faisalabad,BSAI,Female,1,3.52,3.52,IoT,No,13,6,1,8,3,29,84.7,54.6,Yes,Yes,1
+G01724,2025-09-17,Karachi,BSAI,Male,2,2.45,2.16,Research,No,5,4,1,4,3,89,56.6,71.2,No,No,0
+G00228,2023-12-05,Islamabad,BSSE,Female,4,2.78,2.66,AI-ML,No,2,3,0,3,2,200,59.0,64.2,No,No,0
+G01715,2025-09-11,Islamabad,BSAI,Male,3,3.43,2.83,Mobile App,No,13,6,0,1,7,34,70.8,79.5,No,No,0
+G01718,2025-09-12,Faisalabad,BSSE,Female,4,3.16,2.58,Web App,No,7,5,2,2,5,40,75.4,74.0,No,No,0
+G00134,2023-10-25,Lahore,BSCS,Male,1,2.78,2.78,IoT,No,2,2,1,3,3,30,57.4,67.7,No,No,0
+G01760,2025-10-05,Faisalabad,BSCS,Female,3,3.27,2.7,Research,No,4,9,1,1,5,56,85.2,68.3,Yes,Yes,1
+G00249,2023-12-17,Faisalabad,BSSE,Female,2,2.67,2.33,Mobile App,Yes,6,9,0,3,2,102,63.3,85.0,No,No,0
+G01308,2025-03-12,Multan,BSSE,Female,4,2.58,2.29,Web App,No,8,4,0,1,2,67,63.2,71.6,Yes,No,0
+G00497,2024-03-31,Lahore,BSCS,Female,2,3.1,2.2,AI-ML,No,7,8,0,1,4,114,94.9,90.0,No,No,0
+G01705,2025-09-07,Lahore,BSIT,Female,4,2.97,2.59,Mobile App,No,2,4,1,1,4,138,67.7,72.1,No,No,0
+G00961,2024-10-15,Quetta,BSCS,Female,4,2.72,2.11,Mobile App,No,3,5,3,5,11,21,52.6,72.0,No,No,0
+G00336,2024-01-27,Peshawar,BSCS,Female,3,3.46,3.15,Web App,No,3,7,6,4,8,95,89.4,77.2,No,No,0
+G00440,2024-03-07,Rawalpindi,BSCS,Male,2,2.84,2.81,Web App,No,3,7,1,2,5,39,67.0,84.6,No,No,0
+G01288,2025-03-05,Islamabad,BSSE,Female,3,2.35,1.68,AI-ML,No,5,9,2,3,2,35,40.3,54.0,No,Yes,1
+G01167,2025-01-17,Islamabad,BSSE,Male,4,2.31,2.26,Web App,No,18,4,1,2,8,164,63.9,78.5,No,No,0
+G01270,2025-02-24,Faisalabad,BSAI,Male,2,3.69,3.41,Web App,No,4,8,1,1,5,120,87.8,62.0,No,No,0
+G00813,2024-08-11,Rawalpindi,BSDS,Female,1,3.07,3.07,Mobile App,No,6,5,3,3,3,51,87.4,68.1,No,No,0
+G01052,2024-11-28,Karachi,BSSE,Male,4,3.53,3.28,Mobile App,No,6,3,0,5,5,23,72.0,76.3,No,No,0
+G00442,2024-03-08,Faisalabad,BSCS,Female,3,3.12,2.53,Mobile App,No,4,4,2,3,3,83,64.4,67.7,No,No,0
+G01163,2025-01-15,Islamabad,BSCS,Male,2,3.51,2.88,IoT,No,7,4,1,1,5,27,89.2,60.6,No,No,0
+G01388,2025-04-19,Lahore,BSSE,Male,3,2.6,2.38,IoT,Yes,6,6,1,1,7,63,69.6,68.6,No,No,0
+G01114,2024-12-23,Lahore,BSIT,Male,3,2.65,1.75,IoT,No,3,8,2,2,1,88,55.6,58.0,Yes,Yes,1
+G00839,2024-08-25,Rawalpindi,BSIT,Male,5,2.34,2.2,Mobile App,No,2,6,0,5,5,53,46.0,49.1,No,No,0
+G01048,2024-11-27,Faisalabad,BSSE,Male,4,3.22,2.79,Mobile App,No,13,7,3,6,6,77,70.0,61.1,No,No,0
+G01633,2025-08-01,Lahore,BSSE,Male,1,3.21,3.21,Web App,No,13,6,3,2,9,26,83.6,64.6,No,No,0
+G01104,2024-12-18,Multan,BSCS,Female,3,3.17,2.36,IoT,No,26,8,1,1,6,65,82.2,64.2,No,No,0
+G01150,2025-01-08,Peshawar,BSCS,Male,4,2.45,2.18,Web App,No,6,11,0,6,5,33,46.8,61.3,No,No,0
+G01729,2025-09-18,Karachi,BSCS,Male,4,3.29,3.26,Mobile App,No,2,5,2,1,5,15,65.4,65.4,No,No,0
+G00243,2023-12-15,Multan,BSDS,Female,4,3.2,2.91,IoT,No,2,7,0,7,7,57,75.0,70.1,No,No,0
+G01395,2025-04-22,Lahore,BSCS,Female,4,2.67,2.22,AI-ML,No,5,5,2,2,3,131,65.7,74.4,No,No,0
+G00684,2024-06-14,Lahore,BSCS,Male,4,3.56,2.78,IoT,Yes,9,6,4,5,3,73,72.3,72.9,No,No,0
+G01351,2025-04-04,Karachi,BSCS,Female,2,3.09,2.84,Mobile App,No,4,8,1,5,5,22,77.7,65.5,No,No,0
+G01604,2025-07-20,Peshawar,BSDS,Female,4,3.43,3.38,Mobile App,No,3,4,1,1,6,4,75.7,76.1,No,No,0
+G00658,2024-06-03,Karachi,BSSE,Male,4,2.71,1.93,Web App,Yes,3,7,0,3,1,96,41.2,36.4,Yes,Yes,1
+G00505,2024-04-03,Faisalabad,BSAI,Female,3,2.47,2.34,Web App,Yes,4,6,1,3,8,51,67.9,72.0,No,No,0
+G00409,2024-02-24,Rawalpindi,BSDS,Female,4,3.66,3.26,Web App,No,1,6,0,4,5,108,87.7,61.9,No,No,0
+G01106,2024-12-19,Rawalpindi,BSCS,Male,4,3.24,2.89,Web App,No,18,4,2,5,5,38,79.2,81.8,No,No,0
+G01493,2025-05-31,Islamabad,BSCS,Male,3,2.64,2.34,AI-ML,No,5,6,0,3,6,33,70.7,53.5,No,Yes,1
+G01256,2025-02-18,Rawalpindi,BSCS,Male,3,3.36,3.27,Mobile App,No,4,3,1,3,4,59,82.2,65.1,No,No,0
+G01526,2025-06-14,Multan,BSCS,Female,4,3.95,3.71,AI-ML,No,6,8,1,2,6,48,96.1,50.4,No,No,0
+G01062,2024-12-03,Karachi,BSAI,Female,5,3.08,2.9,AI-ML,No,6,7,2,3,2,46,55.6,46.2,Yes,Yes,1
+G00141,2023-10-30,Peshawar,BSDS,Male,3,3.02,2.18,Mobile App,Yes,2,3,1,3,4,156,72.0,46.9,Yes,No,0
+G00547,2024-04-18,Lahore,BSCS,Female,4,3.1,2.48,Web App,No,8,9,0,5,5,45,70.6,85.0,No,No,0
+G00901,2024-09-21,Rawalpindi,BSCS,Male,4,3.28,3.05,Mobile App,No,6,4,3,1,5,86,77.3,54.2,No,No,0
+G00638,2024-05-28,Karachi,BSAI,Male,1,2.48,2.48,AI-ML,No,2,5,0,3,5,21,48.7,63.5,Yes,No,0
+G01261,2025-02-20,Islamabad,BSCS,Male,2,3.18,3.13,Mobile App,No,3,9,1,2,3,57,71.8,75.4,No,No,0
+G01790,2025-10-15,Karachi,BSDS,Male,2,3.39,2.79,AI-ML,No,5,3,1,2,7,27,77.8,67.3,No,No,0
+G00689,2024-06-16,Islamabad,BSIT,Male,4,2.88,2.37,IoT,No,7,9,1,3,4,29,72.0,85.0,No,No,0
+G01629,2025-07-29,Faisalabad,BSAI,Male,2,3.33,2.82,AI-ML,No,7,6,3,6,10,44,85.2,62.7,No,No,0
+G00622,2024-05-19,Multan,BSDS,Female,4,3.11,2.82,IoT,No,8,6,2,3,7,35,72.0,59.1,No,No,0
+G00851,2024-08-31,Quetta,BSCS,Female,3,2.78,2.58,Web App,No,12,4,4,0,5,33,78.1,90.8,No,No,0
+G00584,2024-05-03,Islamabad,BSSE,Male,2,2.55,2.11,Mobile App,No,8,6,0,10,0,57,33.8,65.7,No,No,0
+G01698,2025-09-07,Islamabad,BSIT,Female,3,2.66,2.58,IoT,Yes,9,5,0,5,2,2,51.4,50.5,No,No,0
+G00333,2024-01-26,Islamabad,BSCS,Male,3,3.58,3.5,Web App,Yes,8,7,1,2,8,43,90.4,71.4,No,No,0
+G01294,2025-03-07,Lahore,BSIT,Male,1,3.21,3.21,Mobile App,Yes,2,7,1,3,3,84,73.4,86.0,No,No,0
+G01362,2025-04-08,Lahore,BSCS,Female,3,2.48,1.99,AI-ML,No,5,2,4,4,9,45,55.0,37.1,Yes,Yes,1
+G01116,2024-12-25,Peshawar,BSSE,Female,2,3.39,2.78,Web App,No,2,4,1,12,3,50,80.1,73.0,No,No,0
+G01105,2024-12-19,Lahore,BSDS,Male,4,2.92,2.02,Web App,No,3,9,3,5,7,22,55.4,22.1,Yes,Yes,1
+G01728,2025-09-18,Islamabad,BSSE,Female,4,2.87,2.64,Web App,No,1,7,3,6,7,101,84.5,59.8,No,No,0

@@ -1,0 +1,361 @@
+group_id,leader_gender,campus,program,project_type,has_industry_sponsor,group_size,team_avg_cgpa,team_min_cgpa,supervisor_experience_years,supervisor_active_groups,proposal_revisions,weeks_to_proposal_approval,supervisor_meetings_8wk,github_commits_8wk,mid_eval_score,poor_outcome_bin,probability,predicted_poor,tier,top_risk_driver
+G00159,Female,Islamabad,BSCS,Mobile App,No,3,2.78,2.51,8,6,1,2,2,14,57.4,1,0.7542998403286478,1,High,github_commits_8wk
+G00674,Male,Multan,BSSE,Research,No,2,3.22,2.95,1,4,1,2,0,57,60.4,0,0.3769797618765502,0,Medium,supervisor_meetings_8wk
+G01654,Male,Karachi,BSCS,Mobile App,No,2,3.43,3.13,5,8,2,2,3,64,69.9,0,0.10666950831763775,0,Low,supervisor_meetings_8wk
+G01545,Male,Karachi,BSSE,Research,Yes,2,3.57,3.16,8,9,1,2,5,64,69.3,0,0.03392150231153441,0,Low,project_type
+G01323,Male,Quetta,BSSE,Web App,No,2,3.59,3.22,3,7,0,3,7,34,81.4,0,0.06430132777496132,0,Low,github_commits_8wk
+G01269,Male,Multan,BSSE,Web App,No,2,2.8,2.61,7,6,3,6,4,142,73.6,0,0.027237029395974013,0,Low,proposal_revisions
+G01405,Female,Karachi,BSIT,Web App,No,2,3.69,3.1,7,3,1,0,5,72,81.1,0,0.012677801953235552,0,Low,none
+G00412,Female,Karachi,BSAI,Mobile App,No,5,3.32,2.45,2,10,1,5,0,85,65.5,1,0.9544277224527016,1,High,supervisor_meetings_8wk
+G00244,Male,Karachi,BSCS,AI-ML,No,4,3.17,2.57,6,4,1,0,7,23,79.8,1,0.4314869899746864,0,Medium,github_commits_8wk
+G00363,Female,Islamabad,BSAI,AI-ML,No,4,2.8,2.26,8,8,4,3,6,58,69.3,0,0.9007850311172645,1,High,team_min_cgpa
+G01417,Female,Peshawar,BSCS,Web App,No,4,2.8,2.62,12,4,3,3,5,47,55.8,0,0.3930958150478918,0,Medium,proposal_revisions
+G01788,Female,Peshawar,BSSE,AI-ML,No,4,3.12,2.99,5,4,3,3,3,73,68.8,0,0.3815200949011906,0,Medium,supervisor_meetings_8wk
+G01521,Female,Faisalabad,BSAI,Web App,No,2,3.06,2.88,3,5,0,4,5,20,72.3,0,0.4133268575089039,0,Medium,github_commits_8wk
+G01189,Female,Faisalabad,BSSE,AI-ML,No,3,3.18,2.4,8,6,3,1,2,88,73.5,1,0.6045969855471625,0,Medium,team_min_cgpa
+G00193,Male,Peshawar,BSSE,AI-ML,Yes,3,3.0,2.69,9,9,2,2,6,20,72.0,1,0.33725705815044754,0,Medium,github_commits_8wk
+G01633,Male,Lahore,BSSE,Web App,No,1,3.21,3.21,13,6,3,2,9,26,83.6,0,0.016532153470389534,0,Low,github_commits_8wk
+G00425,Female,Multan,BSCS,Web App,No,4,3.36,3.14,6,6,1,1,4,44,78.8,0,0.16984265262638487,0,Low,group_size
+G01249,Female,Multan,BSCS,Research,No,2,3.56,3.41,3,9,1,0,4,85,79.1,0,0.023567655355161005,0,Low,project_type
+G01212,Male,Lahore,BSSE,Mobile App,No,3,2.68,2.35,5,5,2,2,4,21,51.7,0,0.7753479512724432,1,High,team_min_cgpa
+G00657,Female,Islamabad,BSIT,AI-ML,Yes,2,3.34,2.92,6,4,2,4,3,48,70.9,0,0.10564285291440571,0,Low,supervisor_meetings_8wk
+G01776,Female,Quetta,BSIT,Web App,No,3,3.76,3.27,4,6,3,4,4,49,78.3,0,0.18010786354028843,0,Low,proposal_revisions
+G00122,Female,Karachi,BSIT,Mobile App,No,4,2.22,1.66,6,7,1,6,3,98,49.2,0,0.8991069611736708,1,High,team_min_cgpa
+G00073,Male,Quetta,BSSE,Mobile App,No,4,2.83,2.76,10,5,2,3,4,127,79.0,0,0.14444833176340066,0,Low,group_size
+G00180,Male,Quetta,BSAI,IoT,No,3,3.61,3.48,12,7,4,3,5,33,81.2,1,0.3897869127408953,0,Medium,project_type
+G01185,Male,Peshawar,BSCS,AI-ML,No,3,2.97,2.75,3,8,1,2,11,77,92.4,0,0.07497192284726394,0,Low,project_type
+G00410,Female,Islamabad,BSSE,IoT,No,4,2.62,2.43,3,8,3,3,8,88,79.7,0,0.60353598571064,0,Medium,project_type
+G01710,Male,Lahore,BSSE,Research,Yes,1,2.84,2.84,6,4,1,1,8,69,79.5,0,0.0012985017271094925,0,Low,none
+G00963,Male,Karachi,BSIT,Web App,Yes,3,3.61,3.37,6,5,0,4,8,93,72.0,0,0.0027939327114093367,0,Low,none
+G00043,Female,Islamabad,BSIT,Mobile App,No,4,2.69,2.28,3,10,0,4,2,82,63.0,0,0.7285854955816288,1,High,team_min_cgpa
+G01661,Male,Faisalabad,BSSE,AI-ML,No,4,2.56,2.03,5,5,2,2,7,111,66.0,0,0.5243293217672775,0,Medium,team_min_cgpa
+G00392,Male,Rawalpindi,BSDS,Web App,No,4,3.92,3.42,12,8,2,6,8,57,100.0,0,0.13671097525316356,0,Low,program
+G01075,Male,Quetta,BSCS,AI-ML,No,4,2.75,2.5,3,5,1,10,5,44,50.7,1,0.8158118348579633,1,High,weeks_to_proposal_approval
+G01448,Male,Faisalabad,BSAI,Web App,No,5,2.9,2.61,2,6,0,8,8,24,81.3,1,0.7417812851655989,1,High,weeks_to_proposal_approval
+G00849,Female,Peshawar,BSIT,AI-ML,Yes,4,3.27,3.0,6,3,1,1,5,51,72.0,1,0.0578033640822509,0,Low,project_type
+G01395,Female,Lahore,BSCS,AI-ML,No,4,2.67,2.22,5,5,2,2,3,131,65.7,0,0.53949775658356,0,Medium,team_min_cgpa
+G00300,Female,Lahore,BSAI,IoT,No,3,2.97,2.93,3,7,0,0,4,92,73.0,0,0.2195371858695592,0,Low,project_type
+G00930,Male,Islamabad,BSSE,Web App,No,2,3.22,2.97,4,6,2,2,2,30,67.8,0,0.356702562803649,0,Medium,github_commits_8wk
+G00056,Male,Rawalpindi,BSCS,Web App,No,3,2.98,2.51,16,3,4,2,6,62,69.7,0,0.22098096976778003,0,Low,proposal_revisions
+G01214,Male,Multan,BSIT,AI-ML,No,1,3.11,3.11,0,4,5,1,3,113,76.6,0,0.0005370362122040674,0,Low,none
+G01496,Female,Lahore,BSSE,Web App,Yes,3,3.23,3.07,6,10,0,1,3,72,85.8,0,0.04490265175432748,0,Low,supervisor_meetings_8wk
+G00600,Male,Karachi,BSDS,Mobile App,Yes,2,3.2,2.52,1,3,3,1,6,17,80.3,0,0.5136776217430202,0,Medium,github_commits_8wk
+G00035,Female,Lahore,BSCS,Mobile App,No,3,3.01,2.67,2,3,1,2,9,140,76.9,0,0.01505745840736191,0,Low,none
+G00800,Female,Karachi,BSAI,AI-ML,No,2,3.37,3.08,3,6,2,3,11,42,89.6,0,0.10370419935724699,0,Low,program
+G01264,Male,Karachi,BSDS,IoT,No,5,3.67,3.55,10,6,3,1,3,140,82.2,0,0.13284096701243553,0,Low,group_size
+G00950,Female,Peshawar,BSAI,AI-ML,No,4,2.89,2.74,6,7,0,3,1,44,54.2,1,0.7822520166859107,1,High,supervisor_meetings_8wk
+G00319,Female,Islamabad,BSSE,Mobile App,No,3,3.65,3.53,9,6,2,2,7,89,89.3,0,0.013796048318191373,0,Low,none
+G01203,Male,Peshawar,BSAI,Web App,No,3,2.57,2.23,4,3,4,6,5,58,42.9,0,0.834982313788066,1,High,team_min_cgpa
+G00773,Male,Multan,BSDS,Research,No,3,2.89,2.87,4,4,4,1,1,40,57.3,0,0.816159590733319,1,High,supervisor_meetings_8wk
+G00421,Male,Lahore,BSAI,Web App,No,3,2.86,2.41,8,5,0,2,7,32,70.4,0,0.4817875547691939,0,Medium,team_min_cgpa
+G01727,Male,Rawalpindi,BSCS,Mobile App,No,3,3.28,3.05,7,5,3,3,4,13,68.4,1,0.47687428239812973,0,Medium,github_commits_8wk
+G00916,Male,Islamabad,BSSE,Research,No,3,3.45,3.11,3,12,3,4,5,55,69.4,0,0.5024317413530914,0,Medium,project_type
+G00740,Male,Karachi,BSCS,Web App,No,4,3.3,2.94,13,7,1,2,5,66,74.3,0,0.13686216967681428,0,Low,group_size
+G00431,Female,Faisalabad,BSSE,Mobile App,No,4,3.22,3.02,6,4,1,4,7,39,81.1,0,0.18989483470641985,0,Low,github_commits_8wk
+G00745,Male,Peshawar,BSIT,Web App,No,3,1.86,1.5,6,9,2,2,3,87,42.8,1,0.8395281368864251,1,High,team_min_cgpa
+G01656,Female,Peshawar,BSAI,AI-ML,No,3,2.4,2.02,4,7,1,2,5,56,56.0,0,0.8588092490836843,1,High,team_min_cgpa
+G01547,Female,Lahore,BSIT,Mobile App,No,3,2.85,2.56,5,6,0,6,2,53,52.1,0,0.5576617351657648,0,Medium,supervisor_meetings_8wk
+G01576,Male,Karachi,BSSE,AI-ML,No,3,3.07,2.97,4,9,1,5,4,66,75.3,1,0.32277275578651254,0,Medium,project_type
+G00368,Female,Multan,BSAI,AI-ML,No,4,3.45,3.24,6,9,5,6,6,187,89.0,0,0.12416638765906739,0,Low,group_size
+G00064,Female,Lahore,BSCS,AI-ML,No,2,3.42,2.85,9,2,3,7,5,57,72.0,0,0.2044801720973463,0,Low,weeks_to_proposal_approval
+G01666,Male,Peshawar,BSAI,Web App,Yes,2,3.27,3.16,2,4,0,0,1,42,73.4,0,0.08244868839821165,0,Low,supervisor_meetings_8wk
+G01587,Male,Quetta,BSAI,Web App,No,4,3.04,2.55,5,6,0,5,10,45,69.1,0,0.4026090465830894,0,Medium,program
+G01711,Female,Karachi,BSCS,AI-ML,No,3,3.15,2.77,3,9,2,4,0,115,63.5,0,0.42732269600819217,0,Medium,supervisor_meetings_8wk
+G00082,Female,Multan,BSSE,AI-ML,No,3,1.87,1.68,13,4,0,4,0,45,34.9,0,0.9352179236699774,1,High,supervisor_meetings_8wk
+G01767,Male,Faisalabad,BSSE,IoT,No,4,2.21,1.71,2,6,3,3,7,81,51.0,1,0.9271250149522288,1,High,team_min_cgpa
+G00899,Male,Quetta,BSIT,Mobile App,No,3,2.58,2.33,6,6,0,0,4,39,56.2,1,0.4342001256772819,0,Medium,team_min_cgpa
+G00922,Male,Lahore,BSDS,IoT,No,3,3.08,2.81,10,5,1,3,5,57,71.5,0,0.45334204469707984,0,Medium,project_type
+G00954,Female,Lahore,BSSE,Web App,No,2,3.38,3.21,5,5,3,1,3,105,72.0,0,0.014633695655802595,0,Low,supervisor_meetings_8wk
+G00313,Male,Karachi,BSSE,Web App,No,3,3.1,2.96,8,5,2,3,5,85,86.1,0,0.08320673204783753,0,Low,proposal_revisions
+G01483,Female,Karachi,BSIT,Research,No,3,2.3,1.64,10,9,1,0,2,57,62.8,0,0.9222206631537021,1,High,team_min_cgpa
+G01530,Male,Rawalpindi,BSCS,AI-ML,No,3,3.15,2.94,8,2,0,9,3,36,75.9,0,0.4353130579577411,0,Medium,weeks_to_proposal_approval
+G00249,Female,Faisalabad,BSSE,Mobile App,Yes,2,2.67,2.33,6,9,0,3,2,102,63.3,0,0.07774057236474526,0,Low,team_min_cgpa
+G00984,Female,Islamabad,BSCS,Web App,Yes,4,2.93,2.63,7,8,1,2,0,47,57.0,0,0.4697550253670031,0,Medium,supervisor_meetings_8wk
+G00332,Male,Karachi,BSDS,Web App,No,4,3.46,3.04,4,6,1,2,2,41,74.6,0,0.5494779369352161,0,Medium,supervisor_meetings_8wk
+G00502,Male,Multan,BSCS,Web App,No,2,2.58,2.52,12,6,2,1,2,72,57.0,0,0.1503311196240132,0,Low,supervisor_meetings_8wk
+G01282,Female,Lahore,BSCS,AI-ML,No,5,3.95,3.75,6,6,0,2,5,30,97.0,0,0.07312211156999752,0,Low,group_size
+G00989,Female,Rawalpindi,BSAI,Research,No,4,3.4,2.96,5,4,0,4,3,154,86.3,1,0.2059967704251648,0,Low,group_size
+G01758,Female,Karachi,BSIT,Mobile App,No,3,3.16,2.57,4,8,2,0,4,120,81.0,0,0.1340511211928993,0,Low,team_min_cgpa
+G00892,Male,Faisalabad,BSIT,Research,Yes,2,3.55,3.26,10,3,1,6,7,71,84.2,0,0.007247985508843772,0,Low,none
+G01786,Male,Lahore,BSAI,Research,No,3,3.03,2.7,6,13,0,2,7,144,91.5,0,0.11689227082983877,0,Low,project_type
+G00001,Female,Faisalabad,BSSE,AI-ML,No,3,3.21,3.0,7,10,0,4,2,22,71.7,0,0.5751936447098467,0,Medium,github_commits_8wk
+G00754,Female,Lahore,BSDS,Research,No,2,2.72,2.43,4,10,3,5,12,5,61.3,0,0.8397814900213291,1,High,github_commits_8wk
+G00931,Female,Rawalpindi,BSIT,Research,No,5,3.49,3.22,10,7,0,3,4,54,94.8,0,0.21938265384103142,0,Low,project_type
+G00858,Male,Rawalpindi,BSAI,Web App,No,3,2.98,2.67,3,4,2,3,4,157,83.1,0,0.09150746549971457,0,Low,program
+G00282,Male,Islamabad,BSAI,Web App,No,2,2.98,2.83,10,5,3,5,3,6,46.5,1,0.7669809486490815,1,High,github_commits_8wk
+G00703,Male,Quetta,BSCS,Mobile App,No,4,3.54,3.03,8,4,3,1,1,55,62.5,0,0.4493837586317449,0,Medium,supervisor_meetings_8wk
+G00589,Male,Rawalpindi,BSAI,Mobile App,No,3,3.0,2.71,9,1,0,7,5,34,74.4,0,0.35991632792231365,0,Medium,program
+G01384,Male,Rawalpindi,BSIT,IoT,No,4,2.94,2.26,8,5,2,0,6,63,69.4,0,0.6082564476116736,0,Medium,team_min_cgpa
+G00777,Female,Quetta,BSIT,Research,No,3,2.92,2.66,5,4,1,1,11,53,72.0,0,0.07732530270057475,0,Low,project_type
+G01430,Female,Karachi,BSAI,IoT,No,4,2.64,2.24,2,3,2,3,8,66,69.7,0,0.7697099811792345,1,High,team_min_cgpa
+G01757,Female,Karachi,BSCS,Web App,No,5,2.69,2.45,11,4,1,3,5,75,52.5,0,0.3555185451765938,0,Medium,group_size
+G00272,Female,Karachi,BSAI,Web App,No,2,3.36,3.28,4,4,1,0,6,61,78.6,0,0.025890692342965774,0,Low,program
+G00014,Male,Rawalpindi,BSCS,Mobile App,No,3,3.03,2.91,5,5,1,5,8,14,72.9,0,0.2877079327395564,0,Low,github_commits_8wk
+G01293,Female,Rawalpindi,BSDS,Mobile App,No,3,2.18,1.84,4,3,3,5,3,41,45.3,0,0.9670393884549526,1,High,team_min_cgpa
+G00650,Male,Lahore,BSCS,Mobile App,No,4,2.81,2.65,2,3,2,6,12,57,80.7,1,0.1483326303735546,0,Low,weeks_to_proposal_approval
+G00359,Male,Islamabad,BSIT,Web App,No,3,3.35,3.01,6,5,1,5,4,57,83.0,0,0.1578998022736464,0,Low,weeks_to_proposal_approval
+G01001,Male,Islamabad,BSDS,Mobile App,No,3,3.45,2.61,5,4,1,3,2,50,71.6,0,0.7495305508726553,1,High,supervisor_meetings_8wk
+G00440,Male,Rawalpindi,BSCS,Web App,No,2,2.84,2.81,3,7,1,2,5,39,67.0,0,0.18134788655267708,0,Low,github_commits_8wk
+G01733,Male,Rawalpindi,BSAI,AI-ML,No,3,3.69,3.67,5,9,3,1,5,35,76.2,0,0.1844145274940246,0,Low,program
+G00426,Male,Karachi,BSIT,Mobile App,No,5,3.31,3.02,7,3,0,3,3,122,76.7,0,0.08837638982647077,0,Low,group_size
+G00416,Female,Faisalabad,BSSE,IoT,No,3,3.22,2.93,7,8,1,8,3,78,75.5,0,0.511966812730834,0,Medium,project_type
+G01423,Female,Islamabad,BSCS,AI-ML,No,4,3.23,2.98,7,6,3,3,6,34,71.0,0,0.4117110696708452,0,Medium,proposal_revisions
+G01614,Male,Karachi,BSIT,Mobile App,No,3,3.68,3.35,7,6,3,3,8,60,86.2,0,0.04353925776745799,0,Low,proposal_revisions
+G00158,Male,Islamabad,BSDS,Mobile App,No,3,3.4,3.11,6,4,2,0,2,50,65.0,0,0.33248841890273284,0,Medium,supervisor_meetings_8wk
+G00333,Male,Islamabad,BSCS,Web App,Yes,3,3.58,3.5,8,7,1,2,8,43,90.4,0,0.009571531871125942,0,Low,none
+G01143,Male,Karachi,BSSE,Mobile App,No,3,3.09,2.59,5,6,1,2,7,79,92.6,0,0.18400824971526514,0,Low,team_min_cgpa
+G00254,Female,Karachi,BSCS,Web App,Yes,2,2.93,2.64,3,12,0,3,5,83,80.0,0,0.04104629446160885,0,Low,supervisor_active_groups
+G00307,Male,Lahore,BSIT,Mobile App,No,1,3.34,3.34,4,5,1,4,1,75,77.2,0,0.0031026703896241403,0,Low,none
+G00879,Female,Faisalabad,BSSE,Mobile App,No,4,2.83,2.75,6,4,2,1,9,136,87.3,0,0.03303569895357198,0,Low,group_size
+G01114,Male,Lahore,BSIT,IoT,No,3,2.65,1.75,3,8,2,2,1,88,55.6,1,0.9399245906467663,1,High,team_min_cgpa
+G01752,Male,Karachi,BSCS,Research,No,3,3.17,2.74,1,3,3,2,7,43,77.3,0,0.4205077351773614,0,Medium,project_type
+G01168,Female,Faisalabad,BSAI,Research,No,3,2.65,2.42,9,4,2,4,5,154,73.4,0,0.20308876786095972,0,Low,project_type
+G01509,Female,Islamabad,BSIT,Web App,No,3,2.91,2.49,13,6,4,3,6,111,77.0,0,0.11727006452711147,0,Low,team_min_cgpa
+G00576,Female,Quetta,BSSE,IoT,No,2,3.23,2.94,15,6,1,0,8,106,94.5,0,0.007404172779670504,0,Low,none
+G01539,Male,Karachi,BSIT,Web App,No,4,2.67,2.05,7,7,1,3,4,134,69.2,0,0.409071202880473,0,Medium,team_min_cgpa
+G01702,Female,Islamabad,BSAI,Web App,No,3,3.18,2.88,6,4,4,1,3,42,68.6,0,0.5680748275887444,0,Medium,proposal_revisions
+G00391,Male,Quetta,BSCS,Mobile App,Yes,5,2.37,1.82,6,6,2,2,5,172,64.9,0,0.39026410532886685,0,Medium,group_size
+G01313,Female,Multan,BSSE,Web App,No,4,3.46,3.36,13,6,2,1,6,169,87.3,0,0.005808433376282004,0,Low,none
+G00770,Female,Multan,BSSE,AI-ML,No,2,2.3,1.97,8,9,1,3,8,27,57.7,0,0.7203759433482515,1,High,github_commits_8wk
+G00900,Male,Multan,BSAI,Web App,No,4,3.31,3.21,10,4,5,5,5,198,73.9,0,0.0394397634320074,0,Low,group_size
+G00865,Male,Lahore,BSCS,IoT,Yes,2,3.12,2.47,5,2,0,4,0,37,65.8,0,0.614213822260905,0,Medium,supervisor_meetings_8wk
+G01575,Male,Islamabad,BSIT,Web App,No,4,3.25,2.93,9,4,1,3,2,38,67.6,0,0.31596676773908505,0,Medium,supervisor_meetings_8wk
+G00953,Female,Rawalpindi,BSSE,Mobile App,No,3,3.11,2.76,6,7,1,2,5,57,72.0,0,0.27347188977329306,0,Low,project_type
+G00377,Female,Faisalabad,BSDS,Web App,No,4,2.14,1.5,7,6,2,8,4,128,58.2,0,0.9489336851628467,1,High,team_min_cgpa
+G01320,Male,Karachi,BSSE,Mobile App,No,5,2.75,2.09,6,5,2,2,5,17,46.9,0,0.9001367830010221,1,High,team_min_cgpa
+G00530,Male,Multan,BSCS,Mobile App,No,2,2.61,2.41,8,4,2,3,5,75,60.0,0,0.1574319225170458,0,Low,team_min_cgpa
+G00394,Male,Multan,BSAI,Mobile App,Yes,2,2.76,2.1,7,3,3,1,6,98,65.9,0,0.1060842039498924,0,Low,team_min_cgpa
+G01778,Male,Multan,BSCS,AI-ML,No,2,3.54,3.31,6,4,2,4,5,20,82.1,0,0.18863075591433945,0,Low,github_commits_8wk
+G00290,Male,Multan,BSDS,Research,No,3,2.92,2.54,2,5,2,2,3,14,67.8,1,0.9248322661431555,1,High,github_commits_8wk
+G01662,Male,Lahore,BSCS,AI-ML,No,3,3.53,3.41,1,4,0,2,4,141,84.0,0,0.009371846044184824,0,Low,none
+G00245,Male,Multan,BSSE,IoT,No,2,3.17,3.0,8,6,1,3,6,57,72.0,0,0.10964757217812454,0,Low,project_type
+G01238,Male,Faisalabad,BSCS,IoT,No,4,2.89,2.58,12,7,2,0,9,57,78.6,0,0.29758551364415775,0,Low,project_type
+G00226,Male,Multan,BSAI,Mobile App,No,5,3.22,2.94,4,8,1,3,6,54,70.2,0,0.5148094407809746,0,Medium,program
+G00216,Male,Karachi,BSAI,Web App,Yes,2,2.62,2.29,8,6,4,3,5,51,63.8,0,0.4454600682738704,0,Medium,team_min_cgpa
+G01520,Female,Quetta,BSDS,AI-ML,No,4,3.37,3.21,3,8,1,3,12,57,83.6,0,0.09554057481968777,0,Low,program
+G00596,Female,Lahore,BSSE,AI-ML,Yes,1,2.76,2.76,14,3,1,1,5,57,69.4,0,0.003123253704299784,0,Low,none
+G01444,Female,Faisalabad,BSSE,AI-ML,Yes,1,3.54,3.54,6,10,3,2,2,2,66.2,0,0.19570526375082195,0,Low,github_commits_8wk
+G01311,Male,Peshawar,BSCS,AI-ML,No,3,3.26,3.13,5,10,1,9,6,49,74.6,0,0.3494604198140385,0,Medium,weeks_to_proposal_approval
+G01736,Male,Islamabad,BSCS,Mobile App,No,2,3.11,3.01,13,6,0,3,9,2,84.0,0,0.11233732047851458,0,Low,github_commits_8wk
+G01578,Male,Islamabad,BSCS,IoT,No,4,2.76,2.05,3,9,2,1,7,108,57.5,1,0.7199326167558716,1,High,team_min_cgpa
+G00424,Male,Lahore,BSCS,Web App,No,2,3.29,2.88,16,3,3,4,8,43,81.7,0,0.05635871915323142,0,Low,github_commits_8wk
+G00507,Male,Lahore,BSCS,AI-ML,No,1,3.18,3.18,8,6,1,1,6,44,83.1,0,0.010670783009487522,0,Low,github_commits_8wk
+G00086,Female,Islamabad,BSCS,Web App,Yes,4,3.0,2.82,9,5,0,2,4,39,84.1,0,0.11971001378340591,0,Low,github_commits_8wk
+G01402,Male,Lahore,BSCS,Web App,No,3,3.29,2.8,9,3,3,10,12,33,75.7,1,0.16602594801763434,0,Low,weeks_to_proposal_approval
+G00533,Female,Lahore,BSCS,Mobile App,No,3,2.57,2.28,7,5,0,1,5,27,60.0,0,0.5565403270018588,0,Medium,team_min_cgpa
+G00472,Female,Quetta,BSDS,Web App,No,3,2.38,2.07,2,7,2,3,8,15,53.0,0,0.8761851403085628,1,High,github_commits_8wk
+G01476,Male,Islamabad,BSDS,AI-ML,No,3,2.96,2.38,3,7,1,13,0,186,78.5,0,0.6528356504085524,0,Medium,weeks_to_proposal_approval
+G01492,Male,Karachi,BSDS,IoT,No,4,3.74,3.66,8,6,1,3,7,57,87.4,0,0.09740053967506138,0,Low,project_type
+G01464,Male,Islamabad,BSSE,AI-ML,No,3,2.75,2.22,5,2,2,5,4,85,60.5,0,0.5671161169885168,0,Medium,team_min_cgpa
+G01366,Male,Quetta,BSCS,Mobile App,Yes,2,3.54,3.25,7,7,3,5,6,57,76.4,0,0.03444769088809285,0,Low,proposal_revisions
+G00553,Male,Karachi,BSCS,Mobile App,No,2,3.02,2.4,4,5,2,6,0,77,52.8,0,0.6213870627914978,0,Medium,supervisor_meetings_8wk
+G00010,Male,Multan,BSAI,AI-ML,Yes,3,3.57,3.44,2,10,1,3,3,110,79.6,0,0.04175037055137634,0,Low,program
+G00415,Male,Multan,BSSE,Research,Yes,2,2.93,2.82,6,4,2,3,4,97,72.0,0,0.02814027453948772,0,Low,project_type
+G00775,Male,Multan,BSIT,Mobile App,No,4,3.27,2.72,6,5,0,5,2,283,71.4,0,0.014187099420628835,0,Low,group_size
+G01342,Male,Peshawar,BSDS,Web App,No,5,2.9,2.87,13,6,2,7,7,64,55.0,0,0.37792667737315677,0,Medium,group_size
+G01259,Female,Rawalpindi,BSCS,Web App,No,3,3.4,3.19,1,7,3,7,4,99,75.3,0,0.15129458722465192,0,Low,weeks_to_proposal_approval
+G01153,Female,Karachi,BSSE,Web App,No,4,2.86,2.26,6,4,2,6,3,57,66.7,1,0.8327852758415738,1,High,team_min_cgpa
+G00335,Female,Multan,BSCS,IoT,No,4,2.81,2.52,1,8,2,3,7,31,65.5,1,0.7944195389041686,1,High,project_type
+G00427,Female,Karachi,BSSE,AI-ML,No,3,2.59,2.09,8,8,0,1,5,208,75.5,0,0.039343409000806906,0,Low,team_min_cgpa
+G00063,Female,Multan,BSSE,Web App,No,4,3.51,3.41,6,10,3,2,11,170,96.2,0,0.0049426782802916664,0,Low,none
+G00625,Male,Karachi,BSSE,AI-ML,No,3,3.6,3.5,4,6,1,4,2,57,80.2,0,0.15050968209571794,0,Low,supervisor_meetings_8wk
+G00582,Male,Lahore,BSDS,Web App,No,2,3.51,3.17,16,3,2,2,5,99,98.1,0,0.009812445010251681,0,Low,none
+G00147,Male,Islamabad,BSIT,Web App,No,2,2.56,1.97,4,4,1,4,7,156,65.7,0,0.01440656357772348,0,Low,team_min_cgpa
+G01061,Male,Rawalpindi,BSAI,Web App,No,2,2.67,2.09,9,7,0,7,7,60,60.8,0,0.5426719175482445,0,Medium,team_min_cgpa
+G01365,Female,Lahore,BSSE,AI-ML,No,2,3.02,2.26,6,7,0,3,5,32,66.7,0,0.6652170671096074,0,Medium,team_min_cgpa
+G00728,Female,Multan,BSAI,IoT,No,3,2.58,2.2,8,3,1,2,8,33,72.9,0,0.7159362067880827,1,High,team_min_cgpa
+G01210,Male,Multan,BSCS,Mobile App,No,3,3.13,2.53,28,10,4,8,3,141,69.6,0,0.21215909535720087,0,Low,proposal_revisions
+G00646,Male,Karachi,BSIT,Mobile App,No,3,3.6,3.31,2,8,0,2,7,131,76.4,0,0.006993232071428471,0,Low,none
+G00111,Male,Karachi,BSCS,Web App,No,2,2.4,1.5,7,7,1,1,1,18,33.5,1,0.9702591730593764,1,High,team_min_cgpa
+G00458,Female,Rawalpindi,BSCS,Web App,No,4,2.51,1.92,4,6,0,4,3,57,39.7,1,0.8644110287903198,1,High,team_min_cgpa
+G00169,Female,Karachi,BSSE,AI-ML,No,4,3.52,2.98,1,7,1,5,1,66,56.6,0,0.6492520058093034,0,Medium,supervisor_meetings_8wk
+G00861,Female,Quetta,BSAI,Mobile App,No,2,3.31,3.23,9,2,5,3,4,68,65.9,0,0.0986634786108168,0,Low,proposal_revisions
+G01376,Female,Multan,BSIT,Web App,Yes,5,2.9,2.54,7,6,0,3,2,57,58.4,1,0.31592552468893026,0,Medium,supervisor_meetings_8wk
+G00615,Male,Quetta,BSCS,IoT,No,3,3.6,3.26,5,6,0,4,11,51,91.2,0,0.05135636863333068,0,Low,project_type
+G01443,Male,Quetta,BSCS,AI-ML,No,2,3.03,2.18,2,7,1,3,4,15,50.9,1,0.8969913583669012,1,High,team_min_cgpa
+G00259,Male,Peshawar,BSSE,AI-ML,No,3,2.73,2.64,7,8,1,4,9,53,78.2,0,0.2385324988411487,0,Low,project_type
+G00054,Male,Karachi,BSIT,Research,No,4,3.34,2.92,10,4,1,4,2,37,61.9,0,0.534595826313704,0,Medium,supervisor_meetings_8wk
+G00396,Male,Peshawar,BSAI,Web App,No,3,2.39,1.76,4,3,1,2,9,57,50.4,0,0.6395004993004,0,Medium,team_min_cgpa
+G01267,Female,Lahore,BSCS,Research,No,3,3.71,3.39,13,6,3,6,1,57,90.5,0,0.3759067981922595,0,Medium,supervisor_meetings_8wk
+G00838,Female,Karachi,BSCS,IoT,No,4,3.6,3.13,3,4,3,3,9,53,90.9,0,0.22063897535418958,0,Low,project_type
+G01468,Male,Islamabad,BSCS,Mobile App,No,2,2.33,2.3,5,4,2,9,6,121,59.8,0,0.08476735586677966,0,Low,weeks_to_proposal_approval
+G01798,Male,Karachi,BSCS,AI-ML,No,4,2.74,2.44,5,7,2,3,11,12,75.2,0,0.5524392249341562,0,Medium,team_min_cgpa
+G01004,Female,Peshawar,BSCS,Research,No,2,2.89,2.57,8,6,2,1,0,18,72.0,1,0.8470917522210167,1,High,github_commits_8wk
+G01748,Female,Rawalpindi,BSSE,IoT,No,4,2.69,2.28,2,8,5,6,6,23,42.1,1,0.970635038835615,1,High,team_min_cgpa
+G01705,Female,Lahore,BSIT,Mobile App,No,4,2.97,2.59,2,4,1,1,4,138,67.7,0,0.12236204492060014,0,Low,group_size
+G00196,Female,Quetta,BSAI,Web App,No,2,2.83,2.54,11,3,1,1,5,20,53.5,0,0.405582273350089,0,Medium,github_commits_8wk
+G01362,Female,Lahore,BSCS,AI-ML,No,3,2.48,1.99,5,2,4,4,9,45,55.0,1,0.6341412468658513,0,Medium,team_min_cgpa
+G00344,Female,Multan,BSAI,AI-ML,Yes,3,3.83,3.71,2,2,1,1,8,44,93.3,0,0.008569156362707085,0,Low,none
+G00490,Male,Lahore,BSAI,Research,No,3,2.46,2.34,4,6,2,0,3,61,54.9,1,0.8070117523457002,1,High,project_type
+G01348,Male,Rawalpindi,BSSE,Web App,No,4,3.11,2.86,1,6,2,1,5,126,62.6,0,0.10410866150416702,0,Low,group_size
+G01454,Male,Karachi,BSCS,Mobile App,No,5,3.03,2.84,4,8,2,1,5,94,83.4,0,0.3021041089545015,0,Low,group_size
+G00150,Male,Quetta,BSSE,IoT,No,3,3.55,3.05,14,5,0,3,6,77,80.0,0,0.07901692019361375,0,Low,project_type
+G01546,Female,Rawalpindi,BSAI,Research,No,4,3.19,2.55,14,7,1,4,5,72,81.7,1,0.7025383557455716,1,High,project_type
+G01561,Male,Karachi,BSCS,IoT,No,4,3.44,3.12,13,5,3,5,12,52,90.4,0,0.10354186739314351,0,Low,project_type
+G00408,Male,Peshawar,BSCS,Web App,No,4,2.75,2.43,8,3,3,1,5,82,64.8,0,0.32181084137432237,0,Medium,team_min_cgpa
+G00352,Female,Karachi,BSIT,Mobile App,No,4,2.84,2.76,8,7,3,3,6,50,68.6,0,0.3491004853203803,0,Medium,proposal_revisions
+G00104,Male,Peshawar,BSSE,AI-ML,No,3,2.91,2.23,20,2,1,4,4,64,72.9,1,0.4152290137078394,0,Medium,team_min_cgpa
+G00141,Male,Peshawar,BSDS,Mobile App,Yes,3,3.02,2.18,2,3,1,3,4,156,72.0,0,0.1331603361594009,0,Low,team_min_cgpa
+G00688,Female,Lahore,BSSE,Mobile App,No,3,2.85,2.56,7,12,0,5,4,71,57.7,1,0.46553775707670586,0,Medium,team_min_cgpa
+G01279,Female,Karachi,BSAI,Web App,No,2,3.51,2.95,1,5,4,3,4,62,91.0,0,0.3537036855889122,0,Medium,proposal_revisions
+G01194,Female,Lahore,BSCS,Research,No,5,3.03,2.77,10,8,1,2,5,33,70.0,0,0.5881118347876446,0,Medium,project_type
+G01014,Male,Karachi,BSCS,Web App,No,2,3.01,2.61,15,3,1,1,5,45,72.0,0,0.0930044699947385,0,Low,github_commits_8wk
+G01167,Male,Islamabad,BSSE,Web App,No,4,2.31,2.26,18,4,1,2,8,164,63.9,0,0.029128167629063586,0,Low,group_size
+G01450,Male,Faisalabad,BSCS,AI-ML,Yes,5,3.01,2.72,4,3,3,6,4,126,71.4,0,0.252095997722192,0,Low,group_size
+G00236,Male,Rawalpindi,BSAI,Mobile App,Yes,4,2.8,2.73,5,5,2,4,5,30,76.6,0,0.5054171248510225,0,Medium,program
+G00283,Male,Karachi,BSIT,Mobile App,No,3,3.01,2.87,13,8,1,5,4,82,72.0,0,0.12439213667072278,0,Low,weeks_to_proposal_approval
+G00106,Male,Faisalabad,BSAI,Web App,No,2,3.24,2.87,7,5,3,0,2,57,72.0,0,0.29474706228344993,0,Low,supervisor_meetings_8wk
+G00186,Male,Multan,BSSE,Web App,No,2,3.91,3.47,4,8,0,4,5,78,87.4,0,0.014985009517847463,0,Low,none
+G01188,Male,Karachi,BSCS,AI-ML,No,4,3.58,3.29,6,9,1,2,8,64,87.5,0,0.0814862942543869,0,Low,group_size
+G00166,Male,Karachi,BSSE,IoT,No,3,2.91,2.69,8,8,0,1,0,40,43.4,0,0.7052434114096121,1,High,supervisor_meetings_8wk
+G01312,Male,Peshawar,BSCS,Mobile App,Yes,4,3.64,3.01,8,5,1,16,7,57,77.8,0,0.3120172084758856,0,Low,weeks_to_proposal_approval
+G00185,Male,Lahore,BSSE,Mobile App,No,4,2.83,2.69,15,4,2,1,6,44,64.2,0,0.228599847040993,0,Low,group_size
+G00078,Male,Multan,BSDS,Mobile App,Yes,4,2.56,2.2,4,3,0,6,3,31,43.1,0,0.8144065699559827,1,High,team_min_cgpa
+G01650,Female,Faisalabad,BSAI,Web App,No,3,2.87,2.19,3,7,1,1,2,55,70.3,0,0.8598732298820165,1,High,team_min_cgpa
+G00565,Female,Islamabad,BSSE,Web App,No,5,3.25,3.12,8,11,1,5,2,62,63.4,1,0.4283761822775189,0,Medium,group_size
+G01299,Female,Islamabad,BSAI,Mobile App,No,2,2.76,2.44,9,5,1,9,6,59,74.3,0,0.5131785099619852,0,Medium,team_min_cgpa
+G01426,Female,Rawalpindi,BSAI,AI-ML,No,4,2.93,2.23,14,2,6,8,5,26,57.6,0,0.9641543329721097,1,High,team_min_cgpa
+G00651,Female,Multan,BSCS,IoT,No,2,3.12,2.84,10,5,0,0,5,25,69.2,0,0.23550786115678066,0,Low,github_commits_8wk
+G00577,Male,Karachi,BSDS,Mobile App,No,3,2.61,1.97,7,9,1,5,11,41,63.6,0,0.7786076966353607,1,High,team_min_cgpa
+G01466,Male,Lahore,BSCS,AI-ML,No,3,3.55,3.44,3,5,1,8,6,33,81.2,0,0.18561474207922116,0,Low,weeks_to_proposal_approval
+G00144,Male,Quetta,BSAI,AI-ML,No,3,2.63,2.03,5,4,1,4,4,57,54.1,1,0.8862746760662502,1,High,team_min_cgpa
+G00951,Female,Karachi,BSAI,Web App,No,4,2.45,1.99,6,4,1,4,5,215,69.1,0,0.23328407050321634,0,Low,team_min_cgpa
+G01607,Male,Quetta,BSAI,Mobile App,No,2,2.66,2.06,5,1,3,2,3,141,64.0,0,0.10778917880591515,0,Low,team_min_cgpa
+G01475,Female,Lahore,BSSE,AI-ML,No,3,2.79,2.21,5,6,1,3,3,121,57.6,0,0.41633694224271495,0,Medium,team_min_cgpa
+G01428,Male,Karachi,BSAI,Mobile App,No,3,2.18,1.64,7,4,3,7,8,54,54.9,0,0.9357077418667765,1,High,team_min_cgpa
+G00225,Male,Islamabad,BSCS,Web App,No,5,2.73,2.44,2,5,0,2,2,196,76.4,0,0.19802541126616086,0,Low,group_size
+G01502,Male,Multan,BSAI,Web App,No,2,3.15,2.64,2,11,1,2,7,79,90.3,0,0.1673861005653123,0,Low,program
+G00604,Male,Islamabad,BSDS,Research,No,4,2.76,2.39,4,7,3,1,4,29,51.5,1,0.9341058457754945,1,High,team_min_cgpa
+G01096,Male,Quetta,BSAI,Web App,No,3,2.37,2.3,6,9,3,1,10,59,60.6,1,0.4256559349344624,0,Medium,program
+G01010,Female,Karachi,BSCS,Web App,No,3,2.84,2.76,4,8,0,2,10,129,59.6,0,0.011513362455324406,0,Low,none
+G01033,Female,Peshawar,BSAI,IoT,Yes,3,3.16,2.93,2,8,1,0,7,30,91.7,0,0.29701400571300474,0,Low,project_type
+G00709,Male,Lahore,BSCS,AI-ML,No,2,2.98,2.53,4,5,2,2,6,51,67.4,0,0.29693497086819887,0,Low,team_min_cgpa
+G00894,Female,Lahore,BSDS,Mobile App,No,3,3.4,3.12,9,8,4,5,4,77,69.9,0,0.3781686850429109,0,Medium,proposal_revisions
+G01671,Female,Karachi,BSDS,Web App,No,4,3.38,3.05,2,13,1,5,2,40,76.2,0,0.7672858607513685,1,High,supervisor_meetings_8wk
+G00618,Female,Multan,BSAI,Web App,No,2,2.78,2.63,8,1,3,3,2,78,66.2,0,0.2047755787797465,0,Low,supervisor_meetings_8wk
+G01084,Male,Karachi,BSSE,Web App,No,3,3.78,3.6,3,6,2,5,8,36,84.9,0,0.05489175415957954,0,Low,github_commits_8wk
+G01150,Male,Peshawar,BSCS,Web App,No,4,2.45,2.18,6,11,0,6,5,33,46.8,0,0.8330432612591769,1,High,team_min_cgpa
+G00501,Male,Quetta,BSCS,IoT,No,3,3.74,3.42,3,4,3,3,8,5,82.1,0,0.26042285739268445,0,Low,github_commits_8wk
+G00720,Male,Peshawar,BSSE,AI-ML,No,3,2.36,1.5,4,6,2,5,3,63,43.0,0,0.9725142853332654,1,High,team_min_cgpa
+G00686,Female,Lahore,BSAI,Web App,No,3,2.8,2.44,7,6,4,2,5,187,68.7,0,0.08356921731210565,0,Low,team_min_cgpa
+G01638,Male,Peshawar,BSSE,Mobile App,No,3,3.37,3.01,6,6,0,5,8,147,85.5,0,0.011852399631932194,0,Low,none
+G00475,Male,Islamabad,BSAI,Mobile App,No,3,3.45,2.9,19,5,3,2,2,54,87.7,0,0.4706405541627243,0,Medium,supervisor_meetings_8wk
+G00809,Male,Islamabad,BSDS,Web App,No,1,3.4,3.4,8,5,1,4,5,11,83.2,0,0.12347792027117373,0,Low,github_commits_8wk
+G00781,Female,Multan,BSDS,Web App,No,4,2.91,2.68,2,4,2,5,12,117,87.3,0,0.08314230231382502,0,Low,group_size
+G00181,Male,Faisalabad,BSSE,AI-ML,Yes,2,3.11,3.01,3,7,1,1,5,33,69.0,0,0.08489274408973432,0,Low,github_commits_8wk
+G00539,Male,Rawalpindi,BSSE,AI-ML,No,4,3.36,3.09,12,11,3,7,2,8,60.3,1,0.8223391427240369,1,High,github_commits_8wk
+G00888,Male,Karachi,BSAI,Web App,No,5,3.61,2.92,10,4,2,3,6,29,73.6,0,0.4930555188805665,0,Medium,program
+G00597,Male,Quetta,BSSE,Web App,Yes,3,3.4,2.58,35,6,2,2,4,57,90.9,0,0.06757948092632556,0,Low,team_min_cgpa
+G01031,Male,Peshawar,BSIT,AI-ML,No,4,3.42,3.04,14,9,1,2,6,29,75.3,0,0.20052842836989834,0,Low,github_commits_8wk
+G00621,Male,Quetta,BSAI,Web App,No,3,3.1,2.81,4,6,2,2,6,23,68.8,0,0.5318126691379526,0,Medium,github_commits_8wk
+G01103,Female,Quetta,BSAI,AI-ML,No,3,2.96,2.9,2,3,3,3,9,113,79.7,0,0.06138061390163569,0,Low,program
+G00491,Male,Faisalabad,BSCS,Web App,No,3,2.69,2.41,3,12,1,1,8,68,63.8,0,0.26962463306394363,0,Low,team_min_cgpa
+G01021,Female,Peshawar,BSDS,Research,No,4,3.39,3.1,3,6,1,4,5,13,78.2,1,0.7057025025482204,1,High,github_commits_8wk
+G00585,Female,Lahore,BSIT,Research,Yes,3,3.21,2.92,4,7,0,1,4,40,72.0,0,0.14024656356761048,0,Low,project_type
+G00200,Male,Islamabad,BSAI,Mobile App,No,4,2.56,2.33,4,4,1,2,5,70,83.0,1,0.6699241638546569,0,Medium,program
+G00208,Male,Islamabad,BSIT,Web App,No,2,2.45,2.42,10,8,0,1,3,57,72.0,0,0.1573357655527434,0,Low,supervisor_meetings_8wk
+G00088,Female,Lahore,BSSE,AI-ML,Yes,3,3.27,3.07,4,11,2,1,3,42,65.1,0,0.2198304258686367,0,Low,supervisor_meetings_8wk
+G00681,Male,Faisalabad,BSDS,Web App,No,3,3.17,2.77,14,5,2,6,4,28,66.8,0,0.6265534829049673,0,Medium,github_commits_8wk
+G00699,Female,Rawalpindi,BSAI,Web App,Yes,1,3.95,3.95,7,6,1,2,5,94,88.6,0,3.8995682232525724e-05,0,Low,none
+G00702,Male,Karachi,BSSE,AI-ML,No,2,2.73,2.59,4,7,2,3,5,57,89.5,0,0.3316515155196902,0,Medium,team_min_cgpa
+G01361,Male,Faisalabad,BSSE,Mobile App,No,4,2.33,2.29,4,6,0,10,1,57,25.8,1,0.9051547396887641,1,High,weeks_to_proposal_approval
+G00801,Male,Karachi,BSIT,AI-ML,No,2,1.99,1.5,3,4,3,9,4,20,33.3,1,0.984888283852325,1,High,team_min_cgpa
+G01630,Male,Rawalpindi,BSSE,Web App,No,2,2.83,2.54,5,10,0,2,3,128,77.6,0,0.029801489605785093,0,Low,team_min_cgpa
+G01756,Female,Lahore,BSSE,IoT,No,3,3.01,2.8,9,7,2,1,1,57,60.8,0,0.584957858071308,0,Medium,supervisor_meetings_8wk
+G01506,Male,Peshawar,BSIT,AI-ML,No,2,2.93,2.77,10,4,1,3,1,54,71.0,0,0.22168262714852371,0,Low,supervisor_meetings_8wk
+G00869,Male,Lahore,BSCS,Web App,Yes,4,3.37,2.98,7,8,0,2,2,20,78.7,0,0.24988005421182388,0,Low,supervisor_meetings_8wk
+G01708,Female,Faisalabad,BSAI,Web App,No,3,3.73,3.56,4,6,2,3,8,137,80.8,0,0.007078712183011912,0,Low,none
+G01517,Male,Multan,BSDS,Web App,No,4,2.99,2.69,11,6,2,14,8,45,76.0,1,0.7424635538637208,1,High,weeks_to_proposal_approval
+G01707,Male,Multan,BSSE,Web App,Yes,3,3.1,2.71,9,6,2,2,2,56,78.6,0,0.22193574420735182,0,Low,supervisor_meetings_8wk
+G00738,Female,Islamabad,BSCS,IoT,No,4,3.39,2.72,10,6,1,1,7,106,78.9,0,0.17273207846517674,0,Low,project_type
+G00645,Female,Peshawar,BSSE,Web App,No,4,2.75,2.37,6,6,1,3,1,48,72.0,0,0.8017925561003739,1,High,team_min_cgpa
+G00251,Female,Islamabad,BSDS,IoT,Yes,3,3.23,2.94,10,6,3,5,12,57,78.4,0,0.09425945649824517,0,Low,project_type
+G00125,Female,Karachi,BSIT,AI-ML,No,3,2.49,2.31,6,4,0,1,5,58,57.3,0,0.29561442962100415,0,Low,team_min_cgpa
+G01382,Female,Rawalpindi,BSIT,Web App,No,2,3.36,2.91,7,4,2,3,2,37,74.9,0,0.25001029305088535,0,Low,supervisor_meetings_8wk
+G00627,Female,Karachi,BSSE,AI-ML,No,2,3.5,2.98,12,8,1,3,5,105,94.8,0,0.02186408547765447,0,Low,project_type
+G01053,Female,Lahore,BSSE,Web App,No,3,2.31,1.7,8,6,3,4,5,47,34.6,1,0.9080477539326982,1,High,team_min_cgpa
+G00568,Female,Rawalpindi,BSAI,Research,No,3,2.92,2.47,10,4,1,1,3,5,36.3,1,0.8805076510288475,1,High,github_commits_8wk
+G00439,Male,Faisalabad,BSAI,IoT,No,3,3.66,3.22,9,3,0,3,6,22,90.7,0,0.2926150781020075,0,Low,project_type
+G00089,Male,Quetta,BSSE,AI-ML,No,4,2.6,2.31,6,6,1,5,4,22,53.5,0,0.8715543036094284,1,High,team_min_cgpa
+G00889,Female,Karachi,BSDS,AI-ML,No,4,2.83,2.48,12,6,3,2,5,188,75.1,0,0.18130616949978898,0,Low,group_size
+G01665,Male,Lahore,BSSE,AI-ML,No,3,3.04,2.86,3,6,3,3,3,51,56.6,0,0.5388078198322642,0,Medium,supervisor_meetings_8wk
+G01560,Female,Karachi,BSDS,AI-ML,No,2,3.04,2.93,3,7,1,4,12,123,92.6,0,0.006260465464241113,0,Low,none
+G01459,Male,Rawalpindi,BSIT,AI-ML,No,3,3.58,3.52,12,4,1,5,6,42,86.3,0,0.036912685982428015,0,Low,project_type
+G00882,Male,Quetta,BSIT,Mobile App,No,3,3.19,2.82,5,6,1,7,5,99,69.7,0,0.1399190050654094,0,Low,weeks_to_proposal_approval
+G01066,Female,Quetta,BSDS,AI-ML,Yes,3,3.13,3.01,5,5,0,9,4,50,62.3,0,0.29508162184953135,0,Low,weeks_to_proposal_approval
+G01747,Male,Rawalpindi,BSSE,IoT,No,3,2.87,2.67,1,7,4,3,8,72,74.9,1,0.4664928804083287,0,Medium,project_type
+G01301,Female,Lahore,BSIT,IoT,No,3,3.83,3.57,6,9,2,4,6,7,94.1,0,0.2665275229524998,0,Low,github_commits_8wk
+G00788,Female,Islamabad,BSCS,Research,Yes,3,3.26,3.01,9,3,2,4,2,284,60.1,0,0.0008763814625402866,0,Low,none
+G01370,Female,Lahore,BSDS,Mobile App,No,3,2.55,1.91,14,3,1,2,6,57,66.4,0,0.6710047556882245,0,Medium,team_min_cgpa
+G01025,Male,Multan,BSCS,Mobile App,No,4,3.5,3.1,12,4,0,4,4,29,75.8,0,0.22977165768326352,0,Low,github_commits_8wk
+G00970,Female,Karachi,BSAI,IoT,No,3,3.13,2.52,10,7,3,2,1,31,64.6,0,0.9473748588060151,1,High,supervisor_meetings_8wk
+G00632,Female,Faisalabad,BSCS,Web App,No,2,2.95,2.74,2,6,1,7,2,45,75.3,1,0.49614260988243014,0,Medium,supervisor_meetings_8wk
+G01253,Female,Lahore,BSCS,Mobile App,No,4,3.05,3.03,6,5,3,2,5,136,78.3,0,0.06723642675153356,0,Low,group_size
+G01090,Male,Multan,BSIT,Mobile App,No,3,3.19,2.93,13,5,1,2,2,159,79.8,0,0.0161389159269831,0,Low,supervisor_meetings_8wk
+G00005,Male,Lahore,BSCS,IoT,No,4,3.35,3.18,18,5,3,3,3,76,77.7,0,0.23551664591567303,0,Low,project_type
+G01675,Female,Lahore,BSAI,IoT,No,4,2.88,2.59,7,8,1,4,3,125,71.7,0,0.6502639252881749,0,Medium,project_type
+G00110,Male,Lahore,BSCS,AI-ML,No,3,2.81,2.69,6,7,2,4,1,44,62.8,0,0.7288436203439351,1,High,supervisor_meetings_8wk
+G00934,Female,Multan,BSCS,Mobile App,Yes,3,3.09,2.92,5,7,1,3,9,47,72.6,0,0.048881619978930174,0,Low,project_type
+G01688,Female,Lahore,BSAI,IoT,No,4,2.86,2.73,8,5,2,5,8,32,64.9,0,0.6845554146586375,0,Medium,project_type
+G00620,Male,Lahore,BSCS,Web App,Yes,3,2.88,2.54,6,10,1,3,7,19,68.3,1,0.3070675239393254,0,Low,github_commits_8wk
+G00986,Male,Quetta,BSSE,Research,No,3,3.32,3.15,18,6,1,4,2,24,70.3,1,0.38461316778035576,0,Medium,github_commits_8wk
+G00556,Male,Islamabad,BSAI,AI-ML,Yes,4,3.03,2.79,17,5,2,1,7,76,76.5,0,0.08708735867233279,0,Low,program
+G00092,Male,Karachi,BSIT,Web App,No,3,3.41,2.87,2,5,2,1,1,77,72.4,0,0.24974084753070305,0,Low,supervisor_meetings_8wk
+G01169,Male,Karachi,BSAI,AI-ML,No,2,2.77,2.52,6,6,0,8,5,53,66.6,0,0.5754646847785211,0,Medium,weeks_to_proposal_approval
+G00485,Male,Karachi,BSCS,Web App,No,3,3.11,2.81,8,8,1,3,7,94,82.4,0,0.06509671600530846,0,Low,supervisor_active_groups
+G01649,Female,Multan,BSAI,Research,No,3,3.15,2.78,3,8,2,6,2,10,50.7,0,0.9534176475382669,1,High,github_commits_8wk
+G01363,Male,Multan,BSDS,AI-ML,Yes,3,2.98,2.9,1,4,1,1,10,62,82.8,0,0.03848921434483655,0,Low,program
+G01691,Male,Karachi,BSCS,AI-ML,No,4,3.88,3.65,1,8,1,9,7,132,85.0,0,0.03827605573418324,0,Low,weeks_to_proposal_approval
+G00695,Female,Karachi,BSCS,Mobile App,No,2,2.63,2.34,1,4,1,2,8,12,68.5,0,0.5127654229389471,0,Medium,github_commits_8wk
+G00759,Female,Lahore,BSAI,AI-ML,No,3,3.78,3.35,1,3,1,4,2,179,85.6,0,0.025844982255306737,0,Low,supervisor_meetings_8wk
+G00987,Male,Faisalabad,BSAI,Mobile App,No,5,2.87,2.67,6,3,0,2,5,32,55.1,1,0.5504838215554202,0,Medium,program
+G01437,Male,Rawalpindi,BSCS,Web App,Yes,2,3.61,3.52,7,5,2,3,6,124,79.6,0,0.0005537676374801809,0,Low,none
+G01513,Female,Karachi,BSIT,Web App,No,3,2.94,2.84,5,7,0,2,5,166,78.1,0,0.008490537782387085,0,Low,none
+G01017,Male,Karachi,BSAI,AI-ML,No,3,3.71,3.14,6,5,3,3,2,65,81.0,0,0.5066944247442142,0,Medium,supervisor_meetings_8wk
+G01079,Female,Islamabad,BSDS,Web App,No,3,2.59,1.95,12,12,1,2,8,74,79.5,0,0.6276457164056565,0,Medium,team_min_cgpa
+G00314,Male,Karachi,BSCS,Web App,No,4,2.64,2.61,8,4,1,0,12,93,77.0,0,0.021162301054024817,0,Low,group_size
+G00023,Female,Faisalabad,BSDS,AI-ML,No,3,3.13,3.07,4,5,1,11,5,128,80.9,0,0.1604144974066691,0,Low,weeks_to_proposal_approval
+G00494,Female,Peshawar,BSDS,AI-ML,No,2,2.87,2.58,8,7,2,0,6,4,68.0,0,0.7232579831905632,1,High,github_commits_8wk
+G00135,Male,Karachi,BSCS,Web App,Yes,2,3.3,2.71,3,5,2,13,4,22,62.9,1,0.6415371556986552,0,Medium,weeks_to_proposal_approval
+G00045,Male,Rawalpindi,BSIT,Research,No,3,2.76,2.01,4,8,0,3,4,49,65.6,1,0.8545148425163508,1,High,team_min_cgpa
+G00062,Male,Lahore,BSCS,Research,Yes,5,2.53,1.95,2,7,2,1,4,116,79.0,0,0.7418183052181777,1,High,team_min_cgpa
+G00066,Female,Karachi,BSCS,Web App,No,2,2.8,2.51,2,6,0,1,6,93,66.7,0,0.03777382490441028,0,Low,team_min_cgpa
+G00235,Male,Multan,BSAI,AI-ML,No,4,2.56,2.33,3,4,1,2,8,106,77.4,0,0.36445864210294415,0,Medium,group_size
+G00372,Female,Karachi,BSAI,IoT,No,4,3.44,3.4,6,8,2,0,5,43,69.9,0,0.32538833015804797,0,Medium,project_type
+G00476,Male,Quetta,BSDS,Mobile App,Yes,3,3.25,2.53,3,8,2,1,6,39,79.0,0,0.505111016080942,0,Medium,team_min_cgpa
+G00731,Male,Islamabad,BSCS,Web App,Yes,4,3.24,2.97,11,5,2,1,6,35,67.7,0,0.07182814073575766,0,Low,github_commits_8wk
+G00708,Male,Karachi,BSAI,Web App,No,5,2.98,2.9,14,7,3,2,5,57,76.9,0,0.43182794668946645,0,Medium,group_size
+G01652,Female,Multan,BSAI,Mobile App,No,3,2.3,2.15,2,6,1,3,3,18,47.8,1,0.9410550206394133,1,High,github_commits_8wk
+G01199,Male,Lahore,BSCS,Web App,No,4,2.87,2.65,4,3,2,3,5,44,67.7,0,0.4128063263813951,0,Medium,group_size
+G01187,Male,Karachi,BSCS,IoT,No,3,2.8,2.55,17,11,1,1,4,50,72.0,0,0.511677721722326,0,Medium,project_type
+G00757,Female,Karachi,BSAI,Mobile App,No,3,3.18,2.88,5,4,1,4,3,72,73.4,0,0.38873728219012077,0,Medium,program
+G01223,Male,Lahore,BSAI,AI-ML,No,3,2.18,2.01,3,6,3,3,7,70,59.1,1,0.816603668623934,1,High,program
+G01040,Male,Lahore,BSCS,IoT,No,3,3.51,2.61,9,4,0,5,6,57,87.9,0,0.439760625946096,0,Medium,project_type
+G00262,Female,Karachi,BSSE,Mobile App,No,4,3.6,3.29,4,10,1,2,7,19,81.5,0,0.22046474554994114,0,Low,github_commits_8wk
+G01689,Female,Lahore,BSAI,Web App,Yes,3,2.74,2.46,2,8,1,4,4,37,61.1,0,0.6228938794083565,0,Medium,team_min_cgpa
+G01792,Male,Multan,BSDS,Mobile App,No,4,2.39,1.64,1,7,1,3,1,92,45.7,0,0.97589820783944,1,High,team_min_cgpa
+G01145,Male,Peshawar,BSCS,Web App,No,4,2.9,2.38,5,8,3,3,3,62,73.1,1,0.7934764399675075,1,High,team_min_cgpa
+G01557,Female,Rawalpindi,BSAI,Mobile App,No,5,3.03,2.54,4,9,1,2,3,162,72.3,0,0.5312179005064338,0,Medium,group_size
+G01658,Male,Faisalabad,BSIT,AI-ML,No,3,3.35,3.29,12,8,3,8,3,70,79.0,0,0.20522639765476405,0,Low,weeks_to_proposal_approval
+G01099,Male,Islamabad,BSCS,AI-ML,No,3,2.99,2.92,5,7,2,4,4,86,63.6,0,0.2118816811588276,0,Low,project_type
+G00881,Male,Quetta,BSCS,Web App,Yes,3,2.91,2.23,0,5,3,1,2,49,72.0,0,0.673262997053379,0,Medium,team_min_cgpa
+G00814,Male,Karachi,BSDS,Mobile App,No,3,3.38,2.51,6,6,3,4,4,56,70.1,0,0.8119944639062305,1,High,team_min_cgpa
+G00183,Male,Karachi,BSCS,Web App,No,3,2.27,1.96,4,5,3,5,5,33,46.4,0,0.8890903371484965,1,High,team_min_cgpa
+G01000,Male,Lahore,BSCS,AI-ML,No,2,3.2,2.64,2,7,3,4,3,166,76.4,1,0.025563593594909735,0,Low,proposal_revisions
+G01064,Female,Karachi,BSCS,Mobile App,No,1,3.24,3.24,6,5,1,2,5,63,89.8,0,0.003149644576870393,0,Low,none
+G01110,Male,Lahore,BSSE,AI-ML,No,2,3.32,3.03,6,6,2,2,4,121,72.0,0,0.015116620918377899,0,Low,project_type
+G00544,Female,Lahore,BSSE,IoT,No,4,3.37,2.47,1,7,2,5,10,19,69.6,0,0.8249707298870507,1,High,project_type
+G00205,Male,Islamabad,BSAI,Web App,Yes,3,3.09,2.45,11,1,1,0,7,164,82.1,0,0.002975982871906327,0,Low,none
+G01765,Male,Quetta,BSSE,AI-ML,No,2,2.92,2.8,5,6,2,3,8,33,78.4,0,0.21767885703376608,0,Low,github_commits_8wk
+G01300,Female,Faisalabad,BSSE,Mobile App,No,2,3.14,2.43,1,2,0,6,8,22,75.1,0,0.3896981709636047,0,Medium,github_commits_8wk
+G00968,Female,Peshawar,BSSE,Mobile App,No,2,3.32,2.65,7,8,2,4,3,66,78.8,0,0.36357999757608156,0,Medium,supervisor_meetings_8wk
+G01571,Female,Lahore,BSAI,IoT,No,2,2.94,2.66,4,7,1,2,6,38,73.4,0,0.5815074930063252,0,Medium,project_type
+G01013,Male,Quetta,BSCS,Mobile App,No,2,2.69,2.52,6,8,1,6,6,37,72.0,0,0.47033800509927887,0,Medium,github_commits_8wk
+G01618,Female,Quetta,BSDS,Web App,No,2,3.03,2.73,11,8,2,4,0,88,72.0,0,0.2846793431923169,0,Low,supervisor_meetings_8wk
+G01722,Male,Karachi,BSCS,Mobile App,No,2,3.17,2.74,4,4,2,11,4,56,69.8,0,0.48921515692651674,0,Medium,weeks_to_proposal_approval
+G01148,Female,Lahore,BSDS,Mobile App,No,2,3.2,2.74,6,3,4,2,6,104,75.0,0,0.06265897350913581,0,Low,proposal_revisions
+G00790,Female,Rawalpindi,BSDS,Mobile App,Yes,1,2.68,2.68,3,4,1,2,5,39,73.5,0,0.04912974979334979,0,Low,github_commits_8wk
+G00647,Male,Multan,BSCS,IoT,No,4,3.15,2.86,1,7,2,2,6,38,74.5,0,0.5975852480998682,0,Medium,project_type
+G00705,Male,Faisalabad,BSSE,IoT,No,4,2.66,2.37,6,6,1,4,2,124,65.8,0,0.6595193728545269,0,Medium,team_min_cgpa
+G00996,Male,Faisalabad,BSAI,Mobile App,No,5,3.94,3.12,5,6,1,2,4,70,79.2,0,0.44179666707866927,0,Medium,group_size
+G00616,Male,Karachi,BSAI,Web App,No,4,2.91,2.38,4,7,2,5,9,74,72.6,0,0.5998564375497267,0,Medium,team_min_cgpa
